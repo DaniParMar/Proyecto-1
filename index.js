@@ -3,14 +3,10 @@ const cards = document.querySelectorAll(".card");
 const reveal = (e) => {
   const currentCard = e.currentTarget;
   currentCard.classList.add("flipped");
-  console.log(cards)
-  const temporal1 = cards.filter(function(elementoActual){
-    return elementoActual="section.card.flipped"
-  })
-  console.log(temporal1)
-  // setTimeout(() => {
-    //   currentCard.classList.remove("flipped");
-  // }, 1000);
+
+  setTimeout(() => {
+    currentCard.classList.remove("flipped");
+  }, 1000);
 };
 
 
