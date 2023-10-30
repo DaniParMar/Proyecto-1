@@ -3,16 +3,17 @@ const cards = document.querySelectorAll(".card");
 const reveal = (e) => {
   const currentCard = e.currentTarget;
   currentCard.classList.add("flipped");
+  console.log(cards)
 
-  setTimeout(() => {
-    currentCard.classList.remove("flipped");
-  }, 1000);
+  // setTimeout(() => {
+  //   currentCard.classList.remove("flipped");
+  // }, 1000);
 };
-
 
 for (const card of cards) {
   card.addEventListener("click", reveal);
 }
+
 
 ///generador de posisicones aleatorias, para reparto de cartas una vez obtenido los 8 emojis
 
