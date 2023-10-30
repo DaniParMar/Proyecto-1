@@ -1,40 +1,40 @@
-/* div{
-    border: solid 1.5px black;
-    margin:10px;
-    text-align: center;
-} */
 
-body {
-  min-height: 100%;
-  box-sizing: content-box;
-  display: grid;
-  grid-template-areas:
+
+
+body{
+
+    font-family: sans-serif;
+    min-height: 100%;
+    box-sizing:content-box;
+    display: grid;
+    grid-template-areas:
     "titulo"
     "parrafo"
     "juego";
-  grid-template-rows: 1fr 1fr 4fr;
+    grid-template-rows:1fr 1fr 7fr;
 }
-/* #tablero{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    grid-template-rows: repeat(4,1fr);
-    margin: 0px;
-} */
+
+/* creamos body dividido en tres: titulo, parrafo y tablero */
+
 #tablero {
-  font-family: sans-serif;
+
   font-weight: bold;
-  /* display: flex;
-  flex-wrap: wrap;*/
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
+
 }
+
+
 
 .card {
   width: 80px;
   height: 120px;
   perspective: 600px;
-  margin: 4px;
+  margin: auto;
+  /* cambiamos el margin a AUTO para que el elemento card se centre */
+  
+  
 }
 
 .content {
@@ -68,3 +68,4 @@ body {
   transform: rotateY(180deg);
   transition: transform 0.5s;
 }
+
