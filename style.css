@@ -1,5 +1,6 @@
 
 
+
 body{
 
     font-family: sans-serif;
@@ -21,7 +22,6 @@ body{
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
-  
 
 }
 
@@ -61,14 +61,11 @@ body{
 
 .back {
   background: linear-gradient(steelblue, lightsteelblue);
-  transform: rotateY( 180deg );
+  transform: rotateY(180deg);
 }
 
 .card.flipped .content {
-  transform: rotateY( 180deg ) ;
+  transform: rotateY(180deg);
   transition: transform 0.5s;
 }
-
-
-
 
