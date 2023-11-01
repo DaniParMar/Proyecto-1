@@ -1,30 +1,43 @@
-
-
-
-body{
-
-    font-family: sans-serif;
-    min-height: 100%;
-    box-sizing:content-box;
-    display: grid;
-    grid-template-areas:
+body {
+  font-family: sans-serif;
+  min-height: 100%;
+  box-sizing: content-box;
+  display: grid;
+  grid-template-areas:
     "titulo"
     "parrafo"
     "juego";
-    grid-template-rows:1fr 1fr 7fr;
+  grid-template-rows: 0.4fr 0.4fr 6fr;
+  overflow-y: hidden;
 }
 
 /* creamos body dividido en tres: titulo, parrafo y tablero */
 
 #tablero {
-
+  grid-area: juego;
   font-weight: bold;
+  width: 100%;
+  height: 100%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
-
+}
+h1 {
+  grid-area: titulo;
+}
+p {
+  grid-area: parrafo;
+}
+.marcojuego {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+button {
+  position: absolute;
+  z-index: 1;
+}
 
 .card {
   width: 80px;
@@ -32,8 +45,6 @@ body{
   perspective: 600px;
   margin: auto;
   /* cambiamos el margin a AUTO para que el elemento card se centre */
-  
-  
 }
 
 .content {
@@ -67,4 +78,3 @@ body{
   transform: rotateY(180deg);
   transition: transform 0.5s;
 }
-
