@@ -120,6 +120,7 @@ for (const card of cards) {
   card.addEventListener("click", reveal);
 }
 
+
 ///generador de posisicones aleatorias, para reparto de cartas una vez obtenido los 8 emojis
 
 const arrInicial2 = [0, 1, 2, 3, 4, 5, 6, 7];
