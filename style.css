@@ -1,19 +1,62 @@
 body {
   font-family: sans-serif;
-  min-height: 100%;
+
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
   box-sizing: content-box;
   display: grid;
+  grid-template-rows: 1fr 0.4fr 6fr;
+
   grid-template-areas:
     "titulo"
     "parrafo"
     "juego";
-  grid-template-rows: 0.4fr 0.4fr 6fr;
+
   overflow-y: hidden;
+  position: absolute;
+
+
 }
 
 /* creamos body dividido en tres: titulo, parrafo y tablero */
 
-#tablero {
+
+
+h1 {
+  grid-area: titulo;
+  /* width: 100%;
+  height: 100%; */
+  grid-area: titulo;
+  margin:auto;
+}
+.marcador{
+  display: flex;
+  justify-content: center;
+  color:white;
+  grid-area: parrafo;
+  z-index: -1;
+  margin: 0;
+}
+.textoInicial{
+  grid-area: parrafo;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+
+}
+button {
+  position: absolute;
+  z-index: 2;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%,-50%);
+
+}
+
+
+
+.tablero {
   grid-area: juego;
   font-weight: bold;
   width: 100%;
@@ -21,17 +64,7 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
-}
-h1 {
-  grid-area: titulo;
-}
-p {
-  grid-area: parrafo;
-}
-.marcojuego {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
 }
 
 button {
@@ -44,6 +77,7 @@ button {
   height: 120px;
   perspective: 600px;
   margin: auto;
+  z-index: 0;
   /* cambiamos el margin a AUTO para que el elemento card se centre */
 }
 
@@ -78,3 +112,22 @@ button {
   transform: rotateY(180deg);
   transition: transform 0.5s;
 }
+
+
+.tablero.inicial{
+  filter: grayscale(50%) blur(5px);
+}
+
+
+.marcojuego {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  background-color: rgba(255, 200, 0, 0.836);
+  grid-area: juego;
+}
+
