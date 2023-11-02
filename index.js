@@ -1,4 +1,34 @@
+const botonStart = document.querySelector(".button-start");
+const tablero = document.querySelector(".tablero");
+const puntuacion=document.querySelector(".marcador");
+const parrafo = document.querySelector(".textoInicial")
+let bloqueo = 1;
+
+
+
+const iniciar=(e)=>{
+    let emojisDobleDesordenados = desordenar2(emojisDoble);
+    const emojiCarta = document.querySelectorAll('div.back');
+    // for ( let i = 0; i<16;i++){
+    //     emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
+    // }
+    botonStart.setAttribute("hidden",true);
+    // botonStart.style.display = 'none';
+    parrafo.remove();
+    puntuacion.style.color="black";
+    // puntuacion.style.z-index = "0";???
+    puntuacion.innerHTML=`Tu puntuacion es: 0`;
+    tablero.classList.remove("inicial");
+    bloqueo=0;
+}
+
+botonStart.addEventListener("click",iniciar);
+
+
+
 const cards = document.querySelectorAll(".card");
+
+
 
 const emojis=["😄","🥵","😵‍💫","🥴","🥳","🥸","🤯","😎"]
 const emojisDoble = [...emojis,...emojis]
@@ -14,17 +44,12 @@ for(let i = 0; i < array.length;i++){
 console.log(array)
 return array
 }
-emojisDobleDesordenados = desordenar2(emojisDoble)
-//y distribuimos las en cada carta
-const emojiCarta = document.querySelectorAll('div.back')
-for ( let i = 0; i<16;i++){
-    emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
-}
+
+
 //logica del juego
 let cardUp = null;
 const cardUpper = [];
 let stopper = 0;
-let bloqueo = 0;
 let contador = 0
 //funcion a la que llamamos cada vez que hacemos click en una carta
 const reveal = (e) => {
@@ -48,6 +73,16 @@ const reveal = (e) => {
                 cardUpper.push(e.currentTarget)
                 bloqueo  = 0
                 stopper = 0
+                console.log(contador)
+                if(cardUpper.length === 16){
+                    setTimeout(()=>{
+                        for (const card of cards){
+                        card.classList.remove("flipped");}
+                        bloqueo=1;
+                        tablero.classList.add("inicial");
+                        
+                    },1000)
+                }
             }else{//En caso de que no sean iguales, las volvemos a girar, sumamos tambien 1 al contador y las volvemos a tornar pasado 1 seg. A su vez reseamos valores para volver a seleccionar
                 contador++
                 bloqueo  = 0
@@ -60,9 +95,11 @@ const reveal = (e) => {
                 }
             }
         }cardUp=e.currentTarget//variable que utilizamos para acumulamos la primera carta selecionada de las dos posibles
-    }
+    } puntuacion.innerHTML=`Tu puntuacion es: ${contador}`
 };
 //bucle que recorre todas las cartas esperando el 'click'
 for (const card of cards) {
     card.addEventListener("click", reveal);
 }
+
+
