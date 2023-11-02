@@ -1,5 +1,6 @@
 const botonStart = document.querySelector(".button-start");
 const tablero = document.querySelector(".tablero");
+
 const puntuacion = document.querySelector(".marcador");
 const parrafo = document.querySelector(".textoInicial");
 let bloqueo = 1;
@@ -36,6 +37,7 @@ const desordenar2 = (array) => {
   for (let i = 0; i < array.length; i++) {
     const x = Math.floor(Math.random() * array.length);
     const temporal = array[i];
+
     array[i] = array[x];
     array[x] = temporal;
   }
@@ -43,10 +45,12 @@ const desordenar2 = (array) => {
   return array;
 };
 
+
 //logica del juego
 let cardUp = null;
 let cardUpper = [];
 let stopper = 0;
+
 let contador = 0;
 //funcion a la que llamamos cada vez que hacemos click en una carta
 const reveal = (e) => {
@@ -116,3 +120,4 @@ const reveal = (e) => {
 for (const card of cards) {
   card.addEventListener("click", reveal);
 }
+
