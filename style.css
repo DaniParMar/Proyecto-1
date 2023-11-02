@@ -1,6 +1,8 @@
 body {
   font-family: sans-serif;
 
+  font-size: calc(1em + 1vw);
+
   height: 100vh;
   width: 100vw;
   margin: 0;
@@ -13,47 +15,57 @@ body {
     "parrafo"
     "juego";
 
-  overflow-y: hidden;
-  position: absolute;
 
+  position: absolute;
+  background-color: gray;
 
 }
 
 /* creamos body dividido en tres: titulo, parrafo y tablero */
 
 
-
 h1 {
   grid-area: titulo;
-  /* width: 100%;
-  height: 100%; */
-  grid-area: titulo;
-  margin:auto;
+  margin: auto;
 }
-.marcador{
+.atras {
+  color: grey;
+  z-index: -1;
+}
+.marcador {
   display: flex;
   justify-content: center;
-  color:white;
+  width: 100%;
+  height: 100%;
+  color: gray;
+
   grid-area: parrafo;
   z-index: -1;
   margin: 0;
 }
-.textoInicial{
+
+.textoInicial {
+
   grid-area: parrafo;
   width: 100%;
   height: 100%;
   margin: auto;
 
+
 }
 button {
   position: absolute;
   z-index: 2;
+
+  height: 10vh;
+  width: 30vw;
+  max-height: 120px;
+  max-width: 100px;
   top: 50vh;
   left: 50vw;
-  transform: translate(-50%,-50%);
-
+  transform: translate(-50%, -50%);
+  border-radius: 1rem;
 }
-
 
 
 .tablero {
@@ -65,6 +77,11 @@ button {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(4, 1fr);
 
+  /*cargamos imagen de triangulos */
+  background-image: url("../image/triangulos\ azules.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
 }
 
 button {
@@ -75,9 +92,11 @@ button {
 .card {
   width: 80px;
   height: 120px;
+
   perspective: 600px;
   margin: auto;
   z-index: 0;
+
   /* cambiamos el margin a AUTO para que el elemento card se centre */
 }
 
@@ -85,6 +104,7 @@ button {
   position: absolute;
   width: 100%;
   height: 100%;
+
   transition: transform 1s;
   transform-style: preserve-3d;
 }
@@ -99,6 +119,7 @@ button {
   place-content: center;
   font-size: 4rem;
   border-radius: 1rem;
+  border: solid yellow 0.1rem;
   backface-visibility: hidden;
   user-select: none;
 }
@@ -114,7 +135,7 @@ button {
 }
 
 
-.tablero.inicial{
+.tablero.inicial {
   filter: grayscale(50%) blur(5px);
 }
 
@@ -127,7 +148,41 @@ button {
   justify-content: center;
   align-items: center;
   z-index: 1;
-  background-color: rgba(255, 200, 0, 0.836);
+
   grid-area: juego;
+}
+
+.bad {
+  transform: rotateZ(90deg);
+  transition: transform 0.2s;
+}
+
+.good {
+  transform: rotate(-90deg);
+  transition: transform 0.2s;
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+  .tablero {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
+}
+
+/* @media (min-width: 800px) and (max-width: 1000px) {
+  .tablero {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+  }
+} */
+
+@media (min-width: 1000px) {
+  .tablero {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+  }
 }
 
