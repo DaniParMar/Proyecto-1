@@ -1,0 +1,3483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 2560 1600" version="1.1" viewBox="0 0 2560 1600" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="nx" x1="840" x2="880" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#9A73FF" offset=".0031"/>
+  <stop stop-color="#A886FF" offset=".0403"/>
+  <stop stop-color="#CAB8FF" offset=".1156"/>
+  <stop stop-color="#EBE7FF" offset=".179"/>
+  <stop stop-color="#4800FF" offset="1"/>
+ </linearGradient>
+ <polygon points="880 0 840 0 860 800" fill="url(#nx)"/>
+ <linearGradient id="qq" x1="840" x2="880" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#001873" offset=".2716"/>
+  <stop stop-color="#051B79" offset=".3449"/>
+  <stop stop-color="#12258B" offset=".4456"/>
+  <stop stop-color="#2734A8" offset=".5622"/>
+  <stop stop-color="#444AD0" offset=".6896"/>
+  <stop stop-color="#605EF6" offset=".7932"/>
+  <stop stop-color="#4C56D1" offset=".8272"/>
+  <stop stop-color="#2B4A95" offset=".8867"/>
+  <stop stop-color="#14416A" offset=".9374"/>
+  <stop stop-color="#053B4F" offset=".9768"/>
+  <stop stop-color="#003945" offset="1"/>
+ </linearGradient>
+ <polygon points="840 1600 880 1600 860 800" fill="url(#qq)"/>
+ <linearGradient id="rb" x1="860" x2="880" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#004522" offset="0"/>
+  <stop stop-color="#0B4B2E" offset=".0093"/>
+  <stop stop-color="#5C7A87" offset=".0811"/>
+  <stop stop-color="#989CC7" offset=".1396"/>
+  <stop stop-color="#BDB1F0" offset=".1819"/>
+  <stop stop-color="#CBB9FF" offset=".2037"/>
+  <stop stop-color="#9BA3C8" offset=".3413"/>
+  <stop stop-color="#648A8A" offset=".5146"/>
+  <stop stop-color="#397659" offset=".6731"/>
+  <stop stop-color="#1A6836" offset=".8113"/>
+  <stop stop-color="#075F20" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="860 800 880 1600 880 0" fill="url(#rb)"/>
+ <linearGradient id="rm" x1="840" x2="860" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#001045" offset="0"/>
+  <stop stop-color="#01134A" offset=".067"/>
+  <stop stop-color="#041A57" offset=".141"/>
+  <stop stop-color="#0A276D" offset=".2184"/>
+  <stop stop-color="#12388C" offset=".2981"/>
+  <stop stop-color="#1B4FB4" offset=".3797"/>
+  <stop stop-color="#276AE4" offset=".4615"/>
+  <stop stop-color="#2E7AFF" offset=".5031"/>
+  <stop stop-color="#2E79FE" offset=".5052"/>
+  <stop stop-color="#2056C6" offset=".6015"/>
+  <stop stop-color="#143A98" offset=".695"/>
+  <stop stop-color="#0C2374" offset=".7838"/>
+  <stop stop-color="#05135A" offset=".8665"/>
+  <stop stop-color="#01094A" offset=".941"/>
+  <stop stop-color="#000645" offset="1"/>
+ </linearGradient>
+ <polygon points="840 0 840 1600 860 800" fill="url(#rm)"/>
+ <linearGradient id="ry" x1="820" x2="840" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#3100FF" offset=".0031"/>
+  <stop stop-color="#643DFF" offset=".1783"/>
+  <stop stop-color="#CAB9FF" offset=".5062"/>
+  <stop stop-color="#BCA8FF" offset=".5718"/>
+  <stop stop-color="#967AFF" offset=".7028"/>
+  <stop stop-color="#5A31FF" offset=".8849"/>
+  <stop stop-color="#3100FF" offset="1"/>
+ </linearGradient>
+ <polygon points="820 800 840 1600 840 0" fill="url(#ry)"/>
+ <linearGradient id="sj" x1="800" x2="820" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#2600FF" offset=".4938"/>
+  <stop stop-color="#2A13FF" offset=".546"/>
+  <stop stop-color="#3446FF" offset=".6523"/>
+  <stop stop-color="#4396FF" offset=".8021"/>
+  <stop stop-color="#459FFF" offset=".8179"/>
+  <stop stop-color="#004EA2" offset="1"/>
+ </linearGradient>
+ <polygon points="800 0 800 1600 820 800" fill="url(#sj)"/>
+ <linearGradient id="iz" x1="800" x2="840" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FFE78B" offset=".0031"/>
+  <stop stop-color="#F8EB78" offset=".1088"/>
+  <stop stop-color="#E5F546" offset=".3229"/>
+  <stop stop-color="#D4FF17" offset=".5031"/>
+  <stop stop-color="#735C03" offset="1"/>
+ </linearGradient>
+ <polygon points="800 1600 840 1600 820 800" fill="url(#iz)"/>
+ <linearGradient id="jk" x1="800" x2="840" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#5E1A66" offset=".0031"/>
+  <stop stop-color="#66216B" offset=".1024"/>
+  <stop stop-color="#7C337A" offset=".2555"/>
+  <stop stop-color="#9F5192" offset=".4434"/>
+  <stop stop-color="#D07AB2" offset=".6567"/>
+  <stop stop-color="#FFA2D2" offset=".8395"/>
+  <stop stop-color="#F094C5" offset=".865"/>
+  <stop stop-color="#C86FA2" offset=".9143"/>
+  <stop stop-color="#87356A" offset=".9819"/>
+  <stop stop-color="#75245A" offset="1"/>
+ </linearGradient>
+ <polygon points="840 0 800 0 820 800" fill="url(#jk)"/>
+ <linearGradient id="sr" x1="880" x2="900" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFB52E" offset="0"/>
+  <stop stop-color="#CE9020" offset=".0341"/>
+  <stop stop-color="#A57215" offset=".0678"/>
+  <stop stop-color="#855A0C" offset=".1005"/>
+  <stop stop-color="#6E4A05" offset=".1321"/>
+  <stop stop-color="#613F01" offset=".1619"/>
+  <stop stop-color="#5C3C00" offset=".1883"/>
+  <stop stop-color="#FFA52E" offset=".1975"/>
+  <stop stop-color="#D78C1E" offset=".34"/>
+  <stop stop-color="#B67711" offset=".4826"/>
+  <stop stop-color="#9E6808" offset=".6194"/>
+  <stop stop-color="#905F02" offset=".7467"/>
+  <stop stop-color="#8B5C00" offset=".8549"/>
+ </linearGradient>
+ <polygon points="880 0 880 1600 900 800" fill="url(#sr)"/>
+ <linearGradient id="jx" x1="900" x2="920" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#8B0043" offset=".0031"/>
+  <stop stop-color="#961352" offset=".0629"/>
+  <stop stop-color="#B24678" offset=".1849"/>
+  <stop stop-color="#DF96B5" offset=".3566"/>
+  <stop stop-color="#FFD0E1" offset=".4722"/>
+  <stop stop-color="#FF4578" offset="1"/>
+ </linearGradient>
+ <polygon points="900 800 920 1600 920 0" fill="url(#jx)"/>
+ <linearGradient id="ki" x1="880" x2="920" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#172127" offset="0"/>
+  <stop stop-color="#172127" offset=".053"/>
+  <stop stop-color="#016560" offset=".1841"/>
+  <stop stop-color="#129D98" offset=".3198"/>
+  <stop stop-color="#26D5DB" offset=".3869"/>
+  <stop stop-color="#26D5DB" offset=".4337"/>
+  <stop stop-color="#1589A8" offset=".5023"/>
+  <stop stop-color="#1589A8" offset=".624"/>
+  <stop stop-color="#63BEF6" offset=".7098"/>
+  <stop stop-color="#63BEF6" offset=".7613"/>
+  <stop stop-color="#2177A6" offset=".8456"/>
+  <stop stop-color="#165972" offset="1"/>
+ </linearGradient>
+ <polygon points="920 0 880 0 900 800" fill="url(#ki)"/>
+ <linearGradient id="ku" x1="880" x2="920" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#FF7378" offset=".0031"/>
+  <stop stop-color="#FF868B" offset=".0403"/>
+  <stop stop-color="#FFB8BD" offset=".1156"/>
+  <stop stop-color="#FFE7EC" offset=".179"/>
+  <stop stop-color="#FF0007" offset="1"/>
+ </linearGradient>
+ <polygon points="880 1600 920 1600 900 800" fill="url(#ku)"/>
+ <linearGradient id="lf" x1="760" x2="800" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#733E00" offset="0"/>
+  <stop stop-color="#8E551B" offset=".0178"/>
+  <stop stop-color="#B67943" offset=".0487"/>
+  <stop stop-color="#D69462" offset=".0791"/>
+  <stop stop-color="#EDA879" offset=".1084"/>
+  <stop stop-color="#FAB486" offset=".1361"/>
+  <stop stop-color="#FFB88B" offset=".1605"/>
+  <stop stop-color="#EFAB7F" offset=".1996"/>
+  <stop stop-color="#BB8359" offset=".3348"/>
+  <stop stop-color="#916239" offset=".4679"/>
+  <stop stop-color="#704820" offset=".5963"/>
+  <stop stop-color="#58360E" offset=".7186"/>
+  <stop stop-color="#4A2B04" offset=".8323"/>
+  <stop stop-color="#452700" offset=".929"/>
+ </linearGradient>
+ <polygon points="800 0 760 0 780 800" fill="url(#lf)"/>
+ <linearGradient id="lr" x1="760" x2="800" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#7845FF" offset=".0031"/>
+  <stop stop-color="#8B58FF" offset=".1669"/>
+  <stop stop-color="#BB8AFF" offset=".4992"/>
+  <stop stop-color="#BC8BFF" offset=".5031"/>
+  <stop stop-color="#4900B9" offset="1"/>
+ </linearGradient>
+ <polygon points="760 1600 800 1600 780 800" fill="url(#lr)"/>
+ <linearGradient id="mc" x1="760" x2="780" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#01002E" offset=".0031"/>
+  <stop stop-color="#121141" offset=".0666"/>
+  <stop stop-color="#3F3E74" offset=".1961"/>
+  <stop stop-color="#8785C4" offset=".3783"/>
+  <stop stop-color="#BBB9FF" offset=".5031"/>
+  <stop stop-color="#000345" offset="1"/>
+ </linearGradient>
+ <polygon points="760 0 760 1600 780 800" fill="url(#mc)"/>
+ <linearGradient id="mo" x1="780" x2="800" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#7845FF" offset=".0031"/>
+  <stop stop-color="#8B58FF" offset=".1669"/>
+  <stop stop-color="#BB8AFF" offset=".4992"/>
+  <stop stop-color="#BC8BFF" offset=".5031"/>
+  <stop stop-color="#4900B9" offset="1"/>
+ </linearGradient>
+ <polygon points="780 800 800 1600 800 0" fill="url(#mo)"/>
+ <linearGradient id="mz" x1="640" x2="680" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A20100" offset=".1512"/>
+  <stop stop-color="#A40706" offset=".1865"/>
+  <stop stop-color="#AA1718" offset=".235"/>
+  <stop stop-color="#B53135" offset=".2912"/>
+  <stop stop-color="#C3565E" offset=".3531"/>
+  <stop stop-color="#D58592" offset=".4197"/>
+  <stop stop-color="#EBBED0" offset=".4892"/>
+  <stop stop-color="#FAE3F9" offset=".5309"/>
+  <stop stop-color="#F7DCF3" offset=".5367"/>
+  <stop stop-color="#DEA9C1" offset=".5854"/>
+  <stop stop-color="#C87C96" offset=".6364"/>
+  <stop stop-color="#B55671" offset=".6886"/>
+  <stop stop-color="#A63753" offset=".7425"/>
+  <stop stop-color="#9A1F3B" offset=".7985"/>
+  <stop stop-color="#920D2B" offset=".8575"/>
+  <stop stop-color="#8D0321" offset=".9216"/>
+  <stop stop-color="#8B001E" offset="1"/>
+ </linearGradient>
+ <polygon points="680 0 640 0 660 800" fill="url(#mz)"/>
+ <linearGradient id="nk" x1="660" x2="680" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#002E08" offset="0"/>
+  <stop stop-color="#023308" offset=".0745"/>
+  <stop stop-color="#064007" offset=".159"/>
+  <stop stop-color="#0E5706" offset=".2483"/>
+  <stop stop-color="#197704" offset=".341"/>
+  <stop stop-color="#279F02" offset=".4359"/>
+  <stop stop-color="#38D000" offset=".5309"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="660 800 680 1600 680 0" fill="url(#nk)"/>
+ <linearGradient id="nw" x1="640" x2="680" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#220073" offset="0"/>
+  <stop stop-color="#2C0078" offset=".0092"/>
+  <stop stop-color="#56008C" offset=".0501"/>
+  <stop stop-color="#78009C" offset=".0919"/>
+  <stop stop-color="#9300A9" offset=".1342"/>
+  <stop stop-color="#A600B2" offset=".1772"/>
+  <stop stop-color="#B100B7" offset=".2214"/>
+  <stop stop-color="#B500B9" offset=".2685"/>
+  <stop stop-color="#D528C4" offset=".4165"/>
+  <stop stop-color="#F34ECE" offset=".5783"/>
+  <stop stop-color="#FF5CD2" offset=".6636"/>
+  <stop stop-color="#F859CD" offset=".6981"/>
+  <stop stop-color="#E550C0" offset=".7482"/>
+  <stop stop-color="#C542AA" offset=".8077"/>
+  <stop stop-color="#992E8C" offset=".8744"/>
+  <stop stop-color="#611565" offset=".9463"/>
+  <stop stop-color="#330045" offset="1"/>
+ </linearGradient>
+ <polygon points="640 1600 680 1600 660 800" fill="url(#nw)"/>
+ <linearGradient id="oi" x1="640" x2="660" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450039" offset="0"/>
+  <stop stop-color="#52005C" offset=".0511"/>
+  <stop stop-color="#64008D" offset=".1321"/>
+  <stop stop-color="#7400B6" offset=".2125"/>
+  <stop stop-color="#8000D6" offset=".2907"/>
+  <stop stop-color="#8800ED" offset=".366"/>
+  <stop stop-color="#8D00FA" offset=".4372"/>
+  <stop stop-color="#8F00FF" offset=".5"/>
+  <stop stop-color="#8600DB" offset=".539"/>
+  <stop stop-color="#7900A8" offset=".601"/>
+  <stop stop-color="#6F007D" offset=".662"/>
+  <stop stop-color="#67005C" offset=".7209"/>
+  <stop stop-color="#610044" offset=".777"/>
+  <stop stop-color="#5D0036" offset=".8291"/>
+  <stop stop-color="#5C0031" offset=".8735"/>
+ </linearGradient>
+ <polygon points="640 0 640 1600 660 800" fill="url(#oi)"/>
+ <linearGradient id="ou" x1="940" x2="960" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#212B00" offset="0"/>
+  <stop stop-color="#2C4900" offset=".1413"/>
+  <stop stop-color="#499400" offset=".4467"/>
+  <stop stop-color="#62D600" offset=".6944"/>
+  <stop stop-color="#58BA00" offset=".697"/>
+  <stop stop-color="#488C00" offset=".7006"/>
+  <stop stop-color="#BAFF45" offset="1"/>
+ </linearGradient>
+ <polygon points="940 800 960 1600 960 0" fill="url(#ou)"/>
+ <linearGradient id="pf" x1="920" x2="940" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#7845FF" offset=".0031"/>
+  <stop stop-color="#8B58FF" offset=".1669"/>
+  <stop stop-color="#BB8AFF" offset=".4992"/>
+  <stop stop-color="#BC8BFF" offset=".5031"/>
+  <stop stop-color="#4900B9" offset="1"/>
+ </linearGradient>
+ <polygon points="920 0 920 1600 940 800" fill="url(#pf)"/>
+ <linearGradient id="pr" x1="920" x2="960" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#212B00" offset="0"/>
+  <stop stop-color="#2B4900" offset=".1409"/>
+  <stop stop-color="#459400" offset=".4444"/>
+  <stop stop-color="#B4E738" offset=".7407"/>
+  <stop stop-color="#98CF2A" offset=".8168"/>
+  <stop stop-color="#519405" offset=".9801"/>
+  <stop stop-color="#488C00" offset="1"/>
+ </linearGradient>
+ <polygon points="920 1600 960 1600 940 800" fill="url(#pr)"/>
+ <linearGradient id="qc" x1="920" x2="960" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#212B00" offset="0"/>
+  <stop stop-color="#2B4900" offset=".1409"/>
+  <stop stop-color="#459400" offset=".4444"/>
+  <stop stop-color="#B4E738" offset=".7407"/>
+  <stop stop-color="#98CF2A" offset=".8168"/>
+  <stop stop-color="#519405" offset=".9801"/>
+  <stop stop-color="#488C00" offset="1"/>
+ </linearGradient>
+ <polygon points="960 0 920 0 940 800" fill="url(#qc)"/>
+ <linearGradient id="qk" x1="680" x2="720" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset="0"/>
+  <stop stop-color="#872A51" offset=".023"/>
+  <stop stop-color="#C83F32" offset=".1088"/>
+  <stop stop-color="#F04C1E" offset=".1713"/>
+  <stop stop-color="#FF5117" offset=".2037"/>
+  <stop stop-color="#FD5018" offset=".2091"/>
+  <stop stop-color="#BF3430" offset=".4175"/>
+  <stop stop-color="#8E1E43" offset=".6078"/>
+  <stop stop-color="#6B0D51" offset=".7738"/>
+  <stop stop-color="#550459" offset=".9092"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="720 0 680 0 700 800" fill="url(#qk)"/>
+ <linearGradient id="ql" x1="700" x2="720" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#8B0043" offset=".0031"/>
+  <stop stop-color="#961352" offset=".0629"/>
+  <stop stop-color="#B24678" offset=".1849"/>
+  <stop stop-color="#DF96B5" offset=".3566"/>
+  <stop stop-color="#FFD0E1" offset=".4722"/>
+  <stop stop-color="#FF4578" offset="1"/>
+ </linearGradient>
+ <polygon points="700 800 720 1600 720 0" fill="url(#ql)"/>
+ <linearGradient id="qm" x1="680" x2="700" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A21F00" offset="0"/>
+  <stop stop-color="#BA2200" offset=".0681"/>
+  <stop stop-color="#EC2700" offset=".225"/>
+  <stop stop-color="#FF2900" offset=".3025"/>
+  <stop stop-color="#CD5D40" offset=".7623"/>
+  <stop stop-color="#FFA48B" offset="1"/>
+  <stop stop-color="#FFDAD0" offset="1"/>
+ </linearGradient>
+ <polygon points="680 0 680 1600 700 800" fill="url(#qm)"/>
+ <linearGradient id="qn" x1="680" x2="720" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E0026" offset="0"/>
+  <stop stop-color="#511633" offset=".1009"/>
+  <stop stop-color="#AA4C54" offset=".3229"/>
+  <stop stop-color="#FF8173" offset=".5247"/>
+  <stop stop-color="#E2606D" offset=".6417"/>
+  <stop stop-color="#8B005B" offset="1"/>
+ </linearGradient>
+ <polygon points="680 1600 720 1600 700 800" fill="url(#qn)"/>
+ <linearGradient id="qo" x1="720" x2="760" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8B4300" offset=".0056"/>
+  <stop stop-color="#A27100" offset=".1358"/>
+  <stop stop-color="#A58A55" offset=".2901"/>
+  <stop stop-color="#E5D4B5" offset=".6358"/>
+  <stop stop-color="#987A59" offset=".7992"/>
+  <stop stop-color="#967857" offset=".8034"/>
+  <stop stop-color="#733800" offset=".9722"/>
+ </linearGradient>
+ <polygon points="720 1600 760 1600 740 800" fill="url(#qo)"/>
+ <linearGradient id="qr" x1="740" x2="760" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#002E19" offset="0"/>
+  <stop stop-color="#00736E" offset=".1265"/>
+  <stop stop-color="#595ED0" offset=".3198"/>
+  <stop stop-color="#9C8AFF" offset=".3333"/>
+  <stop stop-color="#5C6AFF" offset=".6111"/>
+  <stop stop-color="#2177A6" offset=".8827"/>
+  <stop stop-color="#005C41" offset="1"/>
+  <stop stop-color="#165972" offset="1"/>
+ </linearGradient>
+ <polygon points="740 800 760 1600 760 0" fill="url(#qr)"/>
+ <linearGradient id="qs" x1="720" x2="740" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B90011" offset=".2716"/>
+  <stop stop-color="#BB0617" offset=".3165"/>
+  <stop stop-color="#C01828" offset=".3781"/>
+  <stop stop-color="#C83543" offset=".4494"/>
+  <stop stop-color="#D45D6A" offset=".5281"/>
+  <stop stop-color="#E3919B" offset=".6127"/>
+  <stop stop-color="#F5D0D6" offset=".7011"/>
+  <stop stop-color="#F6D4DA" offset=".7068"/>
+  <stop stop-color="#BA8D98" offset=".7854"/>
+  <stop stop-color="#885060" offset=".8598"/>
+  <stop stop-color="#642537" offset=".9226"/>
+  <stop stop-color="#4D0A1E" offset=".9713"/>
+  <stop stop-color="#450015" offset="1"/>
+ </linearGradient>
+ <polygon points="720 0 720 1600 740 800" fill="url(#qs)"/>
+ <linearGradient id="qt" x1="720" x2="760" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#02002B" offset="0"/>
+  <stop stop-color="#0B0049" offset=".1413"/>
+  <stop stop-color="#220094" offset=".4467"/>
+  <stop stop-color="#3600D6" offset=".6944"/>
+  <stop stop-color="#2D00BA" offset=".697"/>
+  <stop stop-color="#1E008C" offset=".7006"/>
+  <stop stop-color="#5F45FF" offset="1"/>
+ </linearGradient>
+ <polygon points="760 0 720 0 740 800" fill="url(#qt)"/>
+ <linearGradient id="qu" x1="600" x2="620" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#2600FF" offset=".4938"/>
+  <stop stop-color="#2A13FF" offset=".546"/>
+  <stop stop-color="#3446FF" offset=".6523"/>
+  <stop stop-color="#4396FF" offset=".8021"/>
+  <stop stop-color="#459FFF" offset=".8179"/>
+  <stop stop-color="#004EA2" offset="1"/>
+ </linearGradient>
+ <polygon points="600 0 600 1600 620 800" fill="url(#qu)"/>
+ <linearGradient id="qv" x1="600" x2="640" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset=".1512"/>
+  <stop stop-color="#27746A" offset=".2291"/>
+  <stop stop-color="#2F727C" offset=".3361"/>
+  <stop stop-color="#3D6F99" offset=".4598"/>
+  <stop stop-color="#4F6AC1" offset=".5962"/>
+  <stop stop-color="#6764F5" offset=".7414"/>
+  <stop stop-color="#6C63FF" offset=".7685"/>
+  <stop stop-color="#6663F1" offset=".776"/>
+  <stop stop-color="#5162C5" offset=".8031"/>
+  <stop stop-color="#3E619F" offset=".8314"/>
+  <stop stop-color="#306180" offset=".8606"/>
+  <stop stop-color="#246167" offset=".8909"/>
+  <stop stop-color="#1C6056" offset=".9228"/>
+  <stop stop-color="#18604C" offset=".9575"/>
+  <stop stop-color="#166049" offset="1"/>
+ </linearGradient>
+ <polygon points="600 1600 640 1600 620 800" fill="url(#qv)"/>
+ <linearGradient id="qw" x1="600" x2="640" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#AA8F6F" offset=".0676"/>
+  <stop stop-color="#D8C9B0" offset=".1325"/>
+  <stop stop-color="#F4ECD8" offset=".1795"/>
+  <stop stop-color="#FFFAE7" offset=".2037"/>
+  <stop stop-color="#D8C5B0" offset=".3413"/>
+  <stop stop-color="#AD8A72" offset=".5146"/>
+  <stop stop-color="#8A5A41" offset=".6731"/>
+  <stop stop-color="#71381E" offset=".8113"/>
+  <stop stop-color="#622408" offset=".9239"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="640 0 600 0 620 800" fill="url(#qw)"/>
+ <linearGradient id="qx" x1="620" x2="640" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#451500" offset="0"/>
+  <stop stop-color="#4A1701" offset=".067"/>
+  <stop stop-color="#571C04" offset=".141"/>
+  <stop stop-color="#6D250A" offset=".2184"/>
+  <stop stop-color="#8C3212" offset=".2981"/>
+  <stop stop-color="#B4421B" offset=".3797"/>
+  <stop stop-color="#E45627" offset=".4615"/>
+  <stop stop-color="#FF612E" offset=".5031"/>
+  <stop stop-color="#FE612E" offset=".5052"/>
+  <stop stop-color="#C64C20" offset=".6015"/>
+  <stop stop-color="#983B14" offset=".695"/>
+  <stop stop-color="#742D0C" offset=".7838"/>
+  <stop stop-color="#5A2405" offset=".8665"/>
+  <stop stop-color="#4A1E01" offset=".941"/>
+  <stop stop-color="#451C00" offset="1"/>
+ </linearGradient>
+ <polygon points="620 800 640 1600 640 0" fill="url(#qx)"/>
+ <linearGradient id="qy" x1="1120" x2="1160" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#D0FFF5" offset="0"/>
+  <stop stop-color="#BAF5E4" offset=".0136"/>
+  <stop stop-color="#89DFBC" offset=".0479"/>
+  <stop stop-color="#5FCD9A" offset=".0831"/>
+  <stop stop-color="#3DBD7F" offset=".1186"/>
+  <stop stop-color="#22B169" offset=".1545"/>
+  <stop stop-color="#0FA95A" offset=".191"/>
+  <stop stop-color="#04A451" offset=".2285"/>
+  <stop stop-color="#00A24E" offset=".2685"/>
+  <stop stop-color="#B9FCFF" offset=".2932"/>
+  <stop stop-color="#17FF8A" offset="1"/>
+ </linearGradient>
+ <polygon points="1160 0 1120 0 1140 800" fill="url(#qy)"/>
+ <linearGradient id="qz" x1="1120" x2="1160" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#D18BFF" offset=".0031"/>
+  <stop stop-color="#D878EC" offset=".1058"/>
+  <stop stop-color="#EC48BA" offset=".3136"/>
+  <stop stop-color="#FF1787" offset=".5031"/>
+  <stop stop-color="#460073" offset="1"/>
+ </linearGradient>
+ <polygon points="1120 1600 1160 1600 1140 800" fill="url(#qz)"/>
+ <linearGradient id="ra" x1="1120" x2="1140" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#002E08" offset="0"/>
+  <stop stop-color="#043309" offset=".0591"/>
+  <stop stop-color="#11400B" offset=".1261"/>
+  <stop stop-color="#27570F" offset=".1969"/>
+  <stop stop-color="#457715" offset=".2704"/>
+  <stop stop-color="#6CA01D" offset=".3461"/>
+  <stop stop-color="#9AD126" offset=".4223"/>
+  <stop stop-color="#C6FF2E" offset=".4846"/>
+  <stop stop-color="#008B2E" offset="1"/>
+ </linearGradient>
+ <polygon points="1120 0 1120 1600 1140 800" fill="url(#ra)"/>
+ <linearGradient id="rc" x1="1140" x2="1160" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450009" offset="0"/>
+  <stop stop-color="#68181D" offset=".1124"/>
+  <stop stop-color="#C1564F" offset=".3597"/>
+  <stop stop-color="#FF8173" offset=".5247"/>
+  <stop stop-color="#BC5144" offset=".7149"/>
+  <stop stop-color="#5C0C00" offset="1"/>
+ </linearGradient>
+ <polygon points="1140 800 1160 1600 1160 0" fill="url(#rc)"/>
+ <linearGradient id="rd" x1="1160" x2="1200" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3CA200" offset="0"/>
+  <stop stop-color="#49BA00" offset=".0681"/>
+  <stop stop-color="#66EC00" offset=".225"/>
+  <stop stop-color="#71FF00" offset=".3025"/>
+  <stop stop-color="#71CD40" offset=".7623"/>
+  <stop stop-color="#B0FF8B" offset="1"/>
+  <stop stop-color="#DFFFD0" offset="1"/>
+ </linearGradient>
+ <polygon points="1200 0 1160 0 1180 800" fill="url(#rd)"/>
+ <linearGradient id="re" x1="1160" x2="1180" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#68969C" offset=".0641"/>
+  <stop stop-color="#A9B5D1" offset=".1303"/>
+  <stop stop-color="#D1C9F2" offset=".1787"/>
+  <stop stop-color="#E0D0FF" offset=".2037"/>
+  <stop stop-color="#ABB5C8" offset=".3413"/>
+  <stop stop-color="#6F958A" offset=".5146"/>
+  <stop stop-color="#3F7D59" offset=".6731"/>
+  <stop stop-color="#1D6B36" offset=".8113"/>
+  <stop stop-color="#086020" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1160 0 1160 1600 1180 800" fill="url(#re)"/>
+ <linearGradient id="rf" x1="1160" x2="1200" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset="0"/>
+  <stop stop-color="#87356A" offset=".0181"/>
+  <stop stop-color="#C86FA2" offset=".0857"/>
+  <stop stop-color="#F094C5" offset=".135"/>
+  <stop stop-color="#FFA2D2" offset=".1605"/>
+  <stop stop-color="#D07AB2" offset=".3433"/>
+  <stop stop-color="#9F5192" offset=".5566"/>
+  <stop stop-color="#7C337A" offset=".7445"/>
+  <stop stop-color="#66216B" offset=".8976"/>
+  <stop stop-color="#5E1A66" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1160 1600 1200 1600 1180 800" fill="url(#rf)"/>
+ <linearGradient id="rg" x1="1180" x2="1200" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#01E1FC" offset="0"/>
+  <stop stop-color="#002B1D" offset="0"/>
+  <stop stop-color="#000B2E" offset="0"/>
+  <stop stop-color="#3DC5FF" offset=".0031"/>
+  <stop stop-color="#38C0F2" offset=".0349"/>
+  <stop stop-color="#2BB3D0" offset=".0936"/>
+  <stop stop-color="#159F9A" offset=".1719"/>
+  <stop stop-color="#008B65" offset=".2407"/>
+  <stop stop-color="#D0C7FF" offset="1"/>
+ </linearGradient>
+ <polygon points="1180 800 1200 1600 1200 0" fill="url(#rg)"/>
+ <linearGradient id="rh" x1="1200" x2="1220" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E2600" offset="0"/>
+  <stop stop-color="#464913" offset=".0975"/>
+  <stop stop-color="#83A242" offset=".3119"/>
+  <stop stop-color="#C3FF73" offset=".5247"/>
+  <stop stop-color="#B4DA53" offset=".6522"/>
+  <stop stop-color="#8B7A00" offset="1"/>
+ </linearGradient>
+ <polygon points="1200 0 1200 1600 1220 800" fill="url(#rh)"/>
+ <linearGradient id="ri" x1="1200" x2="1240" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#4C00FF" offset=".0031"/>
+  <stop stop-color="#713DFF" offset=".4026"/>
+  <stop stop-color="#7645FF" offset=".4537"/>
+  <stop stop-color="#CAB9FF" offset=".8395"/>
+  <stop stop-color="#BEA8FF" offset=".8608"/>
+  <stop stop-color="#9F7AFF" offset=".9034"/>
+  <stop stop-color="#6E31FF" offset=".9626"/>
+  <stop stop-color="#4C00FF" offset="1"/>
+ </linearGradient>
+ <polygon points="1240 0 1200 0 1220 800" fill="url(#ri)"/>
+ <linearGradient id="rj" x1="1200" x2="1240" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FC9C01" offset="0"/>
+  <stop stop-color="#F7FF8B" offset=".0031"/>
+  <stop stop-color="#FF7300" offset=".1759"/>
+  <stop stop-color="#FF8913" offset=".1803"/>
+  <stop stop-color="#FFB83C" offset=".1909"/>
+  <stop stop-color="#FFDA5A" offset=".2002"/>
+  <stop stop-color="#FFEE6C" offset=".2079"/>
+  <stop stop-color="#FFF673" offset=".213"/>
+  <stop stop-color="#FFE966" offset=".3134"/>
+  <stop stop-color="#FFC845" offset=".4979"/>
+  <stop stop-color="#FFBF3D" offset=".5401"/>
+  <stop stop-color="#F5B237" offset=".6139"/>
+  <stop stop-color="#DC9026" offset=".75"/>
+  <stop stop-color="#B35A0B" offset=".9319"/>
+  <stop stop-color="#A24400" offset="1"/>
+ </linearGradient>
+ <polygon points="1200 1600 1240 1600 1220 800" fill="url(#rj)"/>
+ <linearGradient id="rk" x1="1220" x2="1240" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#3E9182" offset=".0277"/>
+  <stop stop-color="#73CCC3" offset=".0907"/>
+  <stop stop-color="#95F1EB" offset=".1367"/>
+  <stop stop-color="#A2FFFA" offset=".1605"/>
+  <stop stop-color="#92EEE3" offset=".229"/>
+  <stop stop-color="#68BEA5" offset=".4321"/>
+  <stop stop-color="#469874" offset=".6176"/>
+  <stop stop-color="#2E7D51" offset=".7795"/>
+  <stop stop-color="#1F6C3B" offset=".9114"/>
+  <stop stop-color="#1A6633" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1220 800 1240 1600 1240 0" fill="url(#rk)"/>
+ <linearGradient id="rl" x1="980" x2="1e3" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#274016" offset=".0056"/>
+  <stop stop-color="#2D6B5D" offset=".0843"/>
+  <stop stop-color="#558FA5" offset=".382"/>
+  <stop stop-color="#B5DBE5" offset=".5618"/>
+  <stop stop-color="#59988E" offset=".7973"/>
+  <stop stop-color="#57968C" offset=".8034"/>
+  <stop stop-color="#2F8157" offset=".9551"/>
+ </linearGradient>
+ <polygon points="980 800 1e3 1600 1e3 0" fill="url(#rl)"/>
+ <linearGradient id="rn" x1="960" x2="980" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#7CFF45" offset=".0031"/>
+  <stop stop-color="#8EFF58" offset=".0566"/>
+  <stop stop-color="#BBFF8A" offset=".165"/>
+  <stop stop-color="#E5FFB9" offset=".2562"/>
+  <stop stop-color="#3CA200" offset="1"/>
+ </linearGradient>
+ <polygon points="960 0 960 1600 980 800" fill="url(#rn)"/>
+ <linearGradient id="ro" x1="960" x2="1e3" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#FF002E" offset=".0031"/>
+  <stop stop-color="#FF3C6B" offset=".2458"/>
+  <stop stop-color="#FF73A2" offset=".4537"/>
+  <stop stop-color="#FFB9BF" offset=".8395"/>
+  <stop stop-color="#FFA8B1" offset=".8608"/>
+  <stop stop-color="#FF7A8E" offset=".9034"/>
+  <stop stop-color="#FF3155" offset=".9626"/>
+  <stop stop-color="#FF002E" offset="1"/>
+ </linearGradient>
+ <polygon points="1e3 0 960 0 980 800" fill="url(#ro)"/>
+ <linearGradient id="rp" x1="960" x2="1e3" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#E77300" offset="0"/>
+  <stop stop-color="#CD6900" offset=".0474"/>
+  <stop stop-color="#A55900" offset=".1328"/>
+  <stop stop-color="#854C00" offset=".2167"/>
+  <stop stop-color="#6E4300" offset=".2975"/>
+  <stop stop-color="#613E00" offset=".3739"/>
+  <stop stop-color="#5C3C00" offset=".4414"/>
+  <stop stop-color="#FFA52E" offset=".4537"/>
+  <stop stop-color="#E99427" offset=".498"/>
+  <stop stop-color="#BF7419" offset=".5938"/>
+  <stop stop-color="#9E5A0E" offset=".6871"/>
+  <stop stop-color="#864806" offset=".776"/>
+  <stop stop-color="#783D02" offset=".8587"/>
+  <stop stop-color="#733900" offset=".929"/>
+ </linearGradient>
+ <polygon points="960 1600 1e3 1600 980 800" fill="url(#rp)"/>
+ <linearGradient id="rr" x1="1080" x2="1120" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0073" offset="0"/>
+  <stop stop-color="#5C157F" offset=".0676"/>
+  <stop stop-color="#8D2B8C" offset=".1457"/>
+  <stop stop-color="#B63C96" offset=".2231"/>
+  <stop stop-color="#D64A9F" offset=".2984"/>
+  <stop stop-color="#ED54A4" offset=".3709"/>
+  <stop stop-color="#FA5AA8" offset=".4395"/>
+  <stop stop-color="#FF5CA9" offset=".5"/>
+  <stop stop-color="#C74590" offset=".5646"/>
+  <stop stop-color="#943079" offset=".632"/>
+  <stop stop-color="#691F67" offset=".6986"/>
+  <stop stop-color="#481158" offset=".7627"/>
+  <stop stop-color="#30084D" offset=".8239"/>
+  <stop stop-color="#220247" offset=".8807"/>
+  <stop stop-color="#1D0045" offset=".929"/>
+ </linearGradient>
+ <polygon points="1120 0 1080 0 1100 800" fill="url(#rr)"/>
+ <linearGradient id="rs" x1="1080" x2="1120" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFD0EF" offset="0"/>
+  <stop stop-color="#D4A0C1" offset=".0359"/>
+  <stop stop-color="#AF7699" offset=".0725"/>
+  <stop stop-color="#905479" offset=".1101"/>
+  <stop stop-color="#78395F" offset=".148"/>
+  <stop stop-color="#67264D" offset=".1866"/>
+  <stop stop-color="#5D1B43" offset=".2262"/>
+  <stop stop-color="#5A173F" offset=".2685"/>
+  <stop stop-color="#FF8BD8" offset=".2932"/>
+  <stop stop-color="#450022" offset="1"/>
+ </linearGradient>
+ <polygon points="1080 1600 1120 1600 1100 800" fill="url(#rs)"/>
+ <linearGradient id="rt" x1="1100" x2="1120" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E0029" offset="0"/>
+  <stop stop-color="#73003A" offset=".1265"/>
+  <stop stop-color="#D07659" offset=".3198"/>
+  <stop stop-color="#FFB78A" offset=".3333"/>
+  <stop stop-color="#FF7F5C" offset=".6111"/>
+  <stop stop-color="#A62133" offset=".8827"/>
+  <stop stop-color="#5C0044" offset="1"/>
+  <stop stop-color="#721629" offset="1"/>
+ </linearGradient>
+ <polygon points="1100 800 1120 1600 1120 0" fill="url(#rt)"/>
+ <linearGradient id="ru" x1="1080" x2="1100" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#3E9182" offset=".0277"/>
+  <stop stop-color="#73CCC3" offset=".0907"/>
+  <stop stop-color="#95F1EB" offset=".1367"/>
+  <stop stop-color="#A2FFFA" offset=".1605"/>
+  <stop stop-color="#7EDBC8" offset=".2949"/>
+  <stop stop-color="#52AE8A" offset=".4804"/>
+  <stop stop-color="#2F8B59" offset=".6501"/>
+  <stop stop-color="#157136" offset=".7982"/>
+  <stop stop-color="#066220" offset=".9188"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1080 0 1080 1600 1100 800" fill="url(#ru)"/>
+ <linearGradient id="rv" x1="1e3" x2="1020" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#3B2600" offset=".00070722"/>
+  <stop stop-color="#211500" offset=".0019"/>
+  <stop offset=".0031"/>
+  <stop stop-color="#202F08" offset=".0548"/>
+  <stop stop-color="#4A6D14" offset=".1305"/>
+  <stop stop-color="#6DA11D" offset=".2031"/>
+  <stop stop-color="#88CA24" offset=".2705"/>
+  <stop stop-color="#9CE72A" offset=".3316"/>
+  <stop stop-color="#A8F92D" offset=".3844"/>
+  <stop stop-color="#ACFF2E" offset=".4228"/>
+  <stop stop-color="#C8FFB9" offset=".7407"/>
+  <stop stop-color="#C5FBB4" offset=".7738"/>
+  <stop stop-color="#BBEFA7" offset=".8112"/>
+  <stop stop-color="#ABDB90" offset=".8507"/>
+  <stop stop-color="#95BF70" offset=".8918"/>
+  <stop stop-color="#789B47" offset=".9341"/>
+  <stop stop-color="#556F16" offset=".9767"/>
+  <stop stop-color="#465C00" offset=".9938"/>
+ </linearGradient>
+ <polygon points="1e3 0 1e3 1600 1020 800" fill="url(#rv)"/>
+ <linearGradient id="rw" x1="1e3" x2="1040" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2D7300" offset="0"/>
+  <stop stop-color="#2F790B" offset=".0123"/>
+  <stop stop-color="#399544" offset=".0795"/>
+  <stop stop-color="#43AE76" offset=".1488"/>
+  <stop stop-color="#4AC3A0" offset=".2186"/>
+  <stop stop-color="#51D5C2" offset=".2891"/>
+  <stop stop-color="#56E2DD" offset=".3603"/>
+  <stop stop-color="#59EBF0" offset=".4328"/>
+  <stop stop-color="#5BF1FB" offset=".5071"/>
+  <stop stop-color="#5CF3FF" offset=".5864"/>
+  <stop stop-color="#5CD4FF" offset=".6389"/>
+  <stop stop-color="#3EA6B0" offset=".7416"/>
+  <stop stop-color="#12613B" offset=".9014"/>
+  <stop stop-color="#00450C" offset=".9722"/>
+ </linearGradient>
+ <polygon points="1e3 1600 1040 1600 1020 800" fill="url(#rw)"/>
+ <linearGradient id="rx" x1="1e3" x2="1040" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#271719" offset="0"/>
+  <stop stop-color="#271719" offset=".053"/>
+  <stop stop-color="#650134" offset=".1841"/>
+  <stop stop-color="#9D1258" offset=".3198"/>
+  <stop stop-color="#DB2675" offset=".3869"/>
+  <stop stop-color="#DB2675" offset=".4337"/>
+  <stop stop-color="#A8153C" offset=".5023"/>
+  <stop stop-color="#A8153C" offset=".624"/>
+  <stop stop-color="#F66373" offset=".7098"/>
+  <stop stop-color="#F66373" offset=".7613"/>
+  <stop stop-color="#A62133" offset=".8456"/>
+  <stop stop-color="#721629" offset="1"/>
+ </linearGradient>
+ <polygon points="1040 0 1e3 0 1020 800" fill="url(#rx)"/>
+ <linearGradient id="rz" x1="1020" x2="1040" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0073" offset="0"/>
+  <stop stop-color="#5C157F" offset=".0676"/>
+  <stop stop-color="#8D2B8C" offset=".1457"/>
+  <stop stop-color="#B63C96" offset=".2231"/>
+  <stop stop-color="#D64A9F" offset=".2984"/>
+  <stop stop-color="#ED54A4" offset=".3709"/>
+  <stop stop-color="#FA5AA8" offset=".4395"/>
+  <stop stop-color="#FF5CA9" offset=".5"/>
+  <stop stop-color="#C74590" offset=".5646"/>
+  <stop stop-color="#943079" offset=".632"/>
+  <stop stop-color="#691F67" offset=".6986"/>
+  <stop stop-color="#481158" offset=".7627"/>
+  <stop stop-color="#30084D" offset=".8239"/>
+  <stop stop-color="#220247" offset=".8807"/>
+  <stop stop-color="#1D0045" offset=".929"/>
+ </linearGradient>
+ <polygon points="1020 800 1040 1600 1040 0" fill="url(#rz)"/>
+ <linearGradient id="sa" x1="1040" x2="1080" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#004EA2" offset="0"/>
+  <stop stop-color="#005FBA" offset=".0681"/>
+  <stop stop-color="#0084EC" offset=".225"/>
+  <stop stop-color="#0092FF" offset=".3025"/>
+  <stop stop-color="#4080CD" offset=".7623"/>
+  <stop stop-color="#8BBCFF" offset="1"/>
+  <stop stop-color="#D0E4FF" offset="1"/>
+ </linearGradient>
+ <polygon points="1080 0 1040 0 1060 800" fill="url(#sa)"/>
+ <linearGradient id="sb" x1="1040" x2="1080" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#004FA2" offset=".1512"/>
+  <stop stop-color="#0654A4" offset=".1887"/>
+  <stop stop-color="#1861AA" offset=".2401"/>
+  <stop stop-color="#3577B4" offset=".2997"/>
+  <stop stop-color="#5D95C1" offset=".3654"/>
+  <stop stop-color="#91BDD3" offset=".4361"/>
+  <stop stop-color="#D0ECE8" offset=".5098"/>
+  <stop stop-color="#E3FAEE" offset=".5309"/>
+  <stop stop-color="#DCF6EB" offset=".5367"/>
+  <stop stop-color="#A9D4D5" offset=".5854"/>
+  <stop stop-color="#7CB7C1" offset=".6364"/>
+  <stop stop-color="#569EB0" offset=".6886"/>
+  <stop stop-color="#378AA3" offset=".7425"/>
+  <stop stop-color="#1F7A98" offset=".7985"/>
+  <stop stop-color="#0D6F91" offset=".8575"/>
+  <stop stop-color="#03688C" offset=".9216"/>
+  <stop stop-color="#00668B" offset="1"/>
+ </linearGradient>
+ <polygon points="1040 1600 1080 1600 1060 800" fill="url(#sb)"/>
+ <linearGradient id="sc" x1="1060" x2="1080" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0013" offset="0"/>
+  <stop stop-color="#49110D" offset=".1528"/>
+  <stop stop-color="#8B3600" offset=".4444"/>
+  <stop stop-color="#FF672E" offset=".7407"/>
+  <stop stop-color="#E35A27" offset=".7873"/>
+  <stop stop-color="#9B3915" offset=".8879"/>
+  <stop stop-color="#451200" offset="1"/>
+ </linearGradient>
+ <polygon points="1060 800 1080 1600 1080 0" fill="url(#sc)"/>
+ <linearGradient id="sd" x1="1040" x2="1060" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#728B00" offset=".0031"/>
+  <stop stop-color="#7E9613" offset=".0629"/>
+  <stop stop-color="#9DB246" offset=".1849"/>
+  <stop stop-color="#CEDF96" offset=".3566"/>
+  <stop stop-color="#F1FFD0" offset=".4722"/>
+  <stop stop-color="#BAFF45" offset="1"/>
+ </linearGradient>
+ <polygon points="1040 0 1040 1600 1060 800" fill="url(#sd)"/>
+ <linearGradient id="se" x1="540" x2="560" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#267358" offset=".1265"/>
+  <stop stop-color="#29755B" offset=".1947"/>
+  <stop stop-color="#327966" offset=".253"/>
+  <stop stop-color="#408178" offset=".3075"/>
+  <stop stop-color="#558D90" offset=".3599"/>
+  <stop stop-color="#709BB0" offset=".4107"/>
+  <stop stop-color="#90ADD7" offset=".4597"/>
+  <stop stop-color="#ADBDFA" offset=".4969"/>
+  <stop stop-color="#9DB1E3" offset=".5141"/>
+  <stop stop-color="#829EBA" offset=".5483"/>
+  <stop stop-color="#6A8C97" offset=".5858"/>
+  <stop stop-color="#567D78" offset=".6261"/>
+  <stop stop-color="#457160" offset=".6704"/>
+  <stop stop-color="#39674D" offset=".72"/>
+  <stop stop-color="#306140" offset=".7781"/>
+  <stop stop-color="#2B5D38" offset=".8525"/>
+  <stop stop-color="#295C36" offset="1"/>
+ </linearGradient>
+ <polygon points="540 800 560 1600 560 0" fill="url(#se)"/>
+ <linearGradient id="sf" x1="520" x2="560" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E0029" offset="0"/>
+  <stop stop-color="#73003A" offset=".1265"/>
+  <stop stop-color="#D07659" offset=".3198"/>
+  <stop stop-color="#FFB78A" offset=".3333"/>
+  <stop stop-color="#FF7F5C" offset=".6111"/>
+  <stop stop-color="#A62133" offset=".8827"/>
+  <stop stop-color="#5C0044" offset="1"/>
+  <stop stop-color="#721629" offset="1"/>
+ </linearGradient>
+ <polygon points="520 1600 560 1600 540 800" fill="url(#sf)"/>
+ <linearGradient id="sg" x1="520" x2="540" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#728B00" offset=".0031"/>
+  <stop stop-color="#7E9613" offset=".0629"/>
+  <stop stop-color="#9DB246" offset=".1849"/>
+  <stop stop-color="#CEDF96" offset=".3566"/>
+  <stop stop-color="#F1FFD0" offset=".4722"/>
+  <stop stop-color="#BAFF45" offset="1"/>
+ </linearGradient>
+ <polygon points="520 0 520 1600 540 800" fill="url(#sg)"/>
+ <linearGradient id="sh" x1="520" x2="560" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450041" offset="0"/>
+  <stop stop-color="#4C0845" offset=".0063"/>
+  <stop stop-color="#986176" offset=".0792"/>
+  <stop stop-color="#CFA19A" offset=".1386"/>
+  <stop stop-color="#F2CAB1" offset=".1815"/>
+  <stop stop-color="#FFD9B9" offset=".2037"/>
+  <stop stop-color="#DEB0A8" offset=".3119"/>
+  <stop stop-color="#AB728D" offset=".493"/>
+  <stop stop-color="#824178" offset=".6585"/>
+  <stop stop-color="#651E69" offset=".803"/>
+  <stop stop-color="#53085F" offset=".9207"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="560 0 520 0 540 800" fill="url(#sh)"/>
+ <linearGradient id="si" x1="180" x2="200" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#4F3100" offset=".00041607"/>
+  <stop stop-color="#6A3E00" offset=".0011"/>
+  <stop stop-color="#955400" offset=".002"/>
+  <stop stop-color="#D07100" offset=".0031"/>
+  <stop stop-color="#E0952E" offset=".0504"/>
+  <stop stop-color="#EDB556" offset=".099"/>
+  <stop stop-color="#F7CC73" offset=".1435"/>
+  <stop stop-color="#FDDA85" offset=".1819"/>
+  <stop stop-color="#FFDF8B" offset=".2099"/>
+  <stop stop-color="#2E2400" offset=".9938"/>
+ </linearGradient>
+ <polygon points="180 800 200 1600 200 0" fill="url(#si)"/>
+ <linearGradient id="sk" x1="160" x2="200" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#003945" offset="0"/>
+  <stop stop-color="#0A414D" offset=".0351"/>
+  <stop stop-color="#255864" offset=".0945"/>
+  <stop stop-color="#507D88" offset=".1712"/>
+  <stop stop-color="#8DB0BA" offset=".2621"/>
+  <stop stop-color="#D4ECF6" offset=".358"/>
+  <stop stop-color="#D0E8F6" offset=".3633"/>
+  <stop stop-color="#A8C3FA" offset=".42"/>
+  <stop stop-color="#8BA8FD" offset=".4719"/>
+  <stop stop-color="#7998FE" offset=".5167"/>
+  <stop stop-color="#7392FF" offset=".5494"/>
+  <stop stop-color="#8BC6FF" offset=".6574"/>
+  <stop stop-color="#000D2E" offset=".9938"/>
+ </linearGradient>
+ <polygon points="200 0 160 0 180 800" fill="url(#sk)"/>
+ <linearGradient id="sl" x1="160" x2="180" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#56FF17" offset="0"/>
+  <stop stop-color="#51F416" offset=".0037"/>
+  <stop stop-color="#41CB13" offset=".0192"/>
+  <stop stop-color="#31A511" offset=".0366"/>
+  <stop stop-color="#24850E" offset=".0556"/>
+  <stop stop-color="#18690C" offset=".0765"/>
+  <stop stop-color="#0F530B" offset=".1001"/>
+  <stop stop-color="#084209" offset=".1277"/>
+  <stop stop-color="#043709" offset=".1619"/>
+  <stop stop-color="#013008" offset=".2097"/>
+  <stop stop-color="#002E08" offset=".3426"/>
+  <stop stop-color="#023308" offset=".3439"/>
+  <stop stop-color="#064007" offset=".3454"/>
+  <stop stop-color="#0E5706" offset=".3469"/>
+  <stop stop-color="#197704" offset=".3485"/>
+  <stop stop-color="#279F02" offset=".3502"/>
+  <stop stop-color="#38D000" offset=".3519"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="160 0 160 1600 180 800" fill="url(#sl)"/>
+ <linearGradient id="sm" x1="160" x2="200" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450039" offset="0"/>
+  <stop stop-color="#52005C" offset=".0511"/>
+  <stop stop-color="#64008D" offset=".1321"/>
+  <stop stop-color="#7400B6" offset=".2125"/>
+  <stop stop-color="#8000D6" offset=".2907"/>
+  <stop stop-color="#8800ED" offset=".366"/>
+  <stop stop-color="#8D00FA" offset=".4372"/>
+  <stop stop-color="#8F00FF" offset=".5"/>
+  <stop stop-color="#8600DB" offset=".539"/>
+  <stop stop-color="#7900A8" offset=".601"/>
+  <stop stop-color="#6F007D" offset=".662"/>
+  <stop stop-color="#67005C" offset=".7209"/>
+  <stop stop-color="#610044" offset=".777"/>
+  <stop stop-color="#5D0036" offset=".8291"/>
+  <stop stop-color="#5C0031" offset=".8735"/>
+ </linearGradient>
+ <polygon points="160 1600 200 1600 180 800" fill="url(#sm)"/>
+ <linearGradient id="sn" x1="560" x2="600" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#56FF17" offset="0"/>
+  <stop stop-color="#51F416" offset=".0037"/>
+  <stop stop-color="#41CB13" offset=".0192"/>
+  <stop stop-color="#31A511" offset=".0366"/>
+  <stop stop-color="#24850E" offset=".0556"/>
+  <stop stop-color="#18690C" offset=".0765"/>
+  <stop stop-color="#0F530B" offset=".1001"/>
+  <stop stop-color="#084209" offset=".1277"/>
+  <stop stop-color="#043709" offset=".1619"/>
+  <stop stop-color="#013008" offset=".2097"/>
+  <stop stop-color="#002E08" offset=".3426"/>
+  <stop stop-color="#023308" offset=".3439"/>
+  <stop stop-color="#064007" offset=".3454"/>
+  <stop stop-color="#0E5706" offset=".3469"/>
+  <stop stop-color="#197704" offset=".3485"/>
+  <stop stop-color="#279F02" offset=".3502"/>
+  <stop stop-color="#38D000" offset=".3519"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="560 1600 600 1600 580 800" fill="url(#sn)"/>
+ <linearGradient id="so" x1="560" x2="580" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#1F8772" offset=".0181"/>
+  <stop stop-color="#0EC8A3" offset=".0857"/>
+  <stop stop-color="#04F0C1" offset=".135"/>
+  <stop stop-color="#00FFCD" offset=".1605"/>
+  <stop stop-color="#00FBC8" offset=".1759"/>
+  <stop stop-color="#00C38A" offset=".3931"/>
+  <stop stop-color="#009659" offset=".5914"/>
+  <stop stop-color="#007736" offset=".7644"/>
+  <stop stop-color="#006320" offset=".9055"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="560 0 560 1600 580 800" fill="url(#so)"/>
+ <linearGradient id="sp" x1="580" x2="600" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FC015D" offset="0"/>
+  <stop stop-color="#FFBB8B" offset=".0031"/>
+  <stop stop-color="#FF00CD" offset=".1759"/>
+  <stop stop-color="#FF2FB2" offset=".1841"/>
+  <stop stop-color="#FF5E97" offset=".1934"/>
+  <stop stop-color="#FF8083" offset=".2016"/>
+  <stop stop-color="#FF9477" offset=".2085"/>
+  <stop stop-color="#FF9C73" offset=".213"/>
+  <stop stop-color="#FF8F71" offset=".2776"/>
+  <stop stop-color="#FF6D6A" offset=".3968"/>
+  <stop stop-color="#FF3D61" offset=".5401"/>
+  <stop stop-color="#F23567" offset=".6326"/>
+  <stop stop-color="#D01E78" offset=".803"/>
+  <stop stop-color="#A2008E" offset="1"/>
+ </linearGradient>
+ <polygon points="580 800 600 1600 600 0" fill="url(#sp)"/>
+ <linearGradient id="sq" x1="560" x2="600" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#225627" offset=".0034"/>
+  <stop stop-color="#265E35" offset=".1531"/>
+  <stop stop-color="#29653D" offset=".2121"/>
+  <stop stop-color="#327952" offset=".3031"/>
+  <stop stop-color="#409875" offset=".4141"/>
+  <stop stop-color="#439F7D" offset=".4354"/>
+  <stop stop-color="#4FB69B" offset=".5"/>
+  <stop stop-color="#4BB296" offset=".5148"/>
+  <stop stop-color="#40A887" offset=".5326"/>
+  <stop stop-color="#329B75" offset=".5476"/>
+  <stop stop-color="#5CADA1" offset=".5567"/>
+  <stop stop-color="#81BDC8" offset=".5663"/>
+  <stop stop-color="#9CC8E5" offset=".5751"/>
+  <stop stop-color="#ACD0F6" offset=".5828"/>
+  <stop stop-color="#B2D2FC" offset=".5884"/>
+  <stop stop-color="#98EBF2" offset=".6429"/>
+  <stop stop-color="#9EE8F3" offset=".7721"/>
+  <stop stop-color="#8CE8D5" offset="1"/>
+ </linearGradient>
+ <polygon points="600 0 560 0 580 800" fill="url(#sq)"/>
+ <linearGradient id="iw" x1="120" x2="160" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#7845FF" offset=".0031"/>
+  <stop stop-color="#7F58FF" offset=".1048"/>
+  <stop stop-color="#938BFF" offset=".312"/>
+  <stop stop-color="#B1DBFF" offset=".604"/>
+  <stop stop-color="#B9F0FF" offset=".6759"/>
+  <stop stop-color="#4900B9" offset="1"/>
+ </linearGradient>
+ <polygon points="160 0 120 0 140 800" fill="url(#iw)"/>
+ <linearGradient id="ix" x1="140" x2="160" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#FF7378" offset=".0031"/>
+  <stop stop-color="#FF868B" offset=".0403"/>
+  <stop stop-color="#FFB8BD" offset=".1156"/>
+  <stop stop-color="#FFE7EC" offset=".179"/>
+  <stop stop-color="#FF0007" offset="1"/>
+ </linearGradient>
+ <polygon points="140 800 160 1600 160 0" fill="url(#ix)"/>
+ <linearGradient id="iy" x1="120" x2="140" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset=".1512"/>
+  <stop stop-color="#27746A" offset=".2291"/>
+  <stop stop-color="#2F727C" offset=".3361"/>
+  <stop stop-color="#3D6F99" offset=".4598"/>
+  <stop stop-color="#4F6AC1" offset=".5962"/>
+  <stop stop-color="#6764F5" offset=".7414"/>
+  <stop stop-color="#6C63FF" offset=".7685"/>
+  <stop stop-color="#6663F1" offset=".776"/>
+  <stop stop-color="#5162C5" offset=".8031"/>
+  <stop stop-color="#3E619F" offset=".8314"/>
+  <stop stop-color="#306180" offset=".8606"/>
+  <stop stop-color="#246167" offset=".8909"/>
+  <stop stop-color="#1C6056" offset=".9228"/>
+  <stop stop-color="#18604C" offset=".9575"/>
+  <stop stop-color="#166049" offset="1"/>
+ </linearGradient>
+ <polygon points="120 0 120 1600 140 800" fill="url(#iy)"/>
+ <linearGradient id="ja" x1="120" x2="160" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#221640" offset=".0056"/>
+  <stop stop-color="#6B2D57" offset=".0843"/>
+  <stop stop-color="#A55566" offset=".382"/>
+  <stop stop-color="#E5B5C2" offset=".5618"/>
+  <stop stop-color="#985980" offset=".7973"/>
+  <stop stop-color="#96577E" offset=".8034"/>
+  <stop stop-color="#812F7D" offset=".9551"/>
+ </linearGradient>
+ <polygon points="120 1600 160 1600 140 800" fill="url(#ja)"/>
+ <linearGradient id="jb" x1="80" x2="100" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A38D7B" offset="0"/>
+  <stop stop-color="#8C7865" offset=".0986"/>
+  <stop stop-color="#6D5C47" offset=".2562"/>
+  <stop stop-color="#5B4A35" offset=".3905"/>
+  <stop stop-color="#54442E" offset=".4846"/>
+  <stop stop-color="#5A4934" offset=".5856"/>
+  <stop stop-color="#6B5944" offset=".7198"/>
+  <stop stop-color="#86725F" offset=".8719"/>
+  <stop stop-color="#A38D7B" offset="1"/>
+ </linearGradient>
+ <polygon points="80 0 80 1600 100 800" fill="url(#jb)"/>
+ <linearGradient id="jc" x1="100" x2="120" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#0A4500" offset="0"/>
+  <stop stop-color="#0C4A01" offset=".067"/>
+  <stop stop-color="#135704" offset=".141"/>
+  <stop stop-color="#1E6D0A" offset=".2184"/>
+  <stop stop-color="#2D8C12" offset=".2981"/>
+  <stop stop-color="#41B41B" offset=".3797"/>
+  <stop stop-color="#58E427" offset=".4615"/>
+  <stop stop-color="#66FF2E" offset=".5031"/>
+  <stop stop-color="#65FE2E" offset=".5052"/>
+  <stop stop-color="#47C621" offset=".6015"/>
+  <stop stop-color="#2D9817" offset=".695"/>
+  <stop stop-color="#1A740F" offset=".7838"/>
+  <stop stop-color="#0C5A0A" offset=".8665"/>
+  <stop stop-color="#034A06" offset=".941"/>
+  <stop stop-color="#004505" offset="1"/>
+ </linearGradient>
+ <polygon points="100 800 120 1600 120 0" fill="url(#jc)"/>
+ <linearGradient id="jd" x1="80" x2="120" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#451B00" offset="0"/>
+  <stop stop-color="#542E0F" offset=".0567"/>
+  <stop stop-color="#988657" offset=".3343"/>
+  <stop stop-color="#C9C78C" offset=".5605"/>
+  <stop stop-color="#E8F0AD" offset=".7241"/>
+  <stop stop-color="#F4FFB9" offset=".8086"/>
+  <stop stop-color="#D0D297" offset=".8364"/>
+  <stop stop-color="#9D9468" offset=".8788"/>
+  <stop stop-color="#756342" offset=".9176"/>
+  <stop stop-color="#584027" offset=".9515"/>
+  <stop stop-color="#462A17" offset=".979"/>
+  <stop stop-color="#402211" offset=".9969"/>
+ </linearGradient>
+ <polygon points="120 0 80 0 100 800" fill="url(#jd)"/>
+ <linearGradient id="je" x1="80" x2="120" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset="0"/>
+  <stop stop-color="#AB7191" offset=".0688"/>
+  <stop stop-color="#D8B2BF" offset=".1331"/>
+  <stop stop-color="#F4DADC" offset=".1797"/>
+  <stop stop-color="#FFE9E7" offset=".2037"/>
+  <stop stop-color="#D4B0C5" offset=".3453"/>
+  <stop stop-color="#A472A0" offset=".5174"/>
+  <stop stop-color="#7F4183" offset=".675"/>
+  <stop stop-color="#641E6E" offset=".8124"/>
+  <stop stop-color="#530861" offset=".9244"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="80 1600 120 1600 100 800" fill="url(#je)"/>
+ <linearGradient id="jf" x1="20" x2="40" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#750000" offset="0"/>
+  <stop stop-color="#99000C" offset=".233"/>
+  <stop stop-color="#B90016" offset=".466"/>
+  <stop stop-color="#FC1700" offset=".7654"/>
+  <stop stop-color="#F61502" offset=".7716"/>
+  <stop stop-color="#4D0000" offset="1"/>
+ </linearGradient>
+ <polygon points="20 800 40 1600 40 0" fill="url(#jf)"/>
+ <linearGradient id="jg" x2="40" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#7845FF" offset=".0031"/>
+  <stop stop-color="#8B58FF" offset=".1669"/>
+  <stop stop-color="#BB8AFF" offset=".4992"/>
+  <stop stop-color="#BC8BFF" offset=".5031"/>
+  <stop stop-color="#4900B9" offset="1"/>
+ </linearGradient>
+ <polygon points="40 0 0 0 20 800" fill="url(#jg)"/>
+ <linearGradient id="jh" x2="40" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4D7300" offset="0"/>
+  <stop stop-color="#4E7D0D" offset=".0209"/>
+  <stop stop-color="#52A53E" offset=".1074"/>
+  <stop stop-color="#56C567" offset=".1932"/>
+  <stop stop-color="#59DE87" offset=".2766"/>
+  <stop stop-color="#5AF09E" offset=".357"/>
+  <stop stop-color="#5CFBAB" offset=".433"/>
+  <stop stop-color="#5CFFB0" offset=".5"/>
+  <stop stop-color="#58EFA1" offset=".5218"/>
+  <stop stop-color="#4ABB70" offset=".5973"/>
+  <stop stop-color="#3E9148" offset=".6716"/>
+  <stop stop-color="#367029" offset=".7433"/>
+  <stop stop-color="#2F5812" offset=".8115"/>
+  <stop stop-color="#2B4A05" offset=".875"/>
+  <stop stop-color="#2A4500" offset=".929"/>
+ </linearGradient>
+ <polygon points="0 1600 40 1600 20 800" fill="url(#jh)"/>
+ <linearGradient id="ji" x2="20" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2C0094" offset="0"/>
+  <stop stop-color="#2C0099" offset=".0353"/>
+  <stop stop-color="#2B00B9" offset=".2809"/>
+  <stop stop-color="#CAB9FF" offset=".4568"/>
+  <stop stop-color="#B5A2EE" offset=".5028"/>
+  <stop stop-color="#8168C3" offset=".6249"/>
+  <stop stop-color="#593BA1" offset=".7378"/>
+  <stop stop-color="#3B1B89" offset=".838"/>
+  <stop stop-color="#29077A" offset=".9216"/>
+  <stop stop-color="#230075" offset=".9784"/>
+ </linearGradient>
+ <polygon points="0 0 0 1600 20 800" fill="url(#ji)"/>
+ <linearGradient id="jj" x1="240" x2="280" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#7CFF45" offset=".0031"/>
+  <stop stop-color="#8EFF58" offset=".0566"/>
+  <stop stop-color="#BBFF8A" offset=".165"/>
+  <stop stop-color="#E5FFB9" offset=".2562"/>
+  <stop stop-color="#3CA200" offset="1"/>
+ </linearGradient>
+ <polygon points="240 1600 280 1600 260 800" fill="url(#jj)"/>
+ <linearGradient id="jl" x1="260" x2="280" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#004522" offset="0"/>
+  <stop stop-color="#0B4B2E" offset=".0368"/>
+  <stop stop-color="#5C7A87" offset=".3219"/>
+  <stop stop-color="#989CC7" offset=".554"/>
+  <stop stop-color="#BDB1F0" offset=".7219"/>
+  <stop stop-color="#CBB9FF" offset=".8086"/>
+  <stop stop-color="#A7A1D4" offset=".8354"/>
+  <stop stop-color="#727F96" offset=".8781"/>
+  <stop stop-color="#486465" offset=".9171"/>
+  <stop stop-color="#2A5042" offset=".9512"/>
+  <stop stop-color="#18442C" offset=".9789"/>
+  <stop stop-color="#114024" offset=".9969"/>
+ </linearGradient>
+ <polygon points="260 800 280 1600 280 0" fill="url(#jl)"/>
+ <linearGradient id="jm" x1="240" x2="260" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1A6633" offset=".0031"/>
+  <stop stop-color="#1F6C3B" offset=".0886"/>
+  <stop stop-color="#2E7D51" offset=".2205"/>
+  <stop stop-color="#469874" offset=".3824"/>
+  <stop stop-color="#68BEA5" offset=".5679"/>
+  <stop stop-color="#92EEE3" offset=".771"/>
+  <stop stop-color="#A2FFFA" offset=".8395"/>
+  <stop stop-color="#95F1EB" offset=".8633"/>
+  <stop stop-color="#73CCC3" offset=".9093"/>
+  <stop stop-color="#3E9182" offset=".9723"/>
+  <stop stop-color="#247564" offset="1"/>
+ </linearGradient>
+ <polygon points="240 0 240 1600 260 800" fill="url(#jm)"/>
+ <linearGradient id="kj" x1="240" x2="280" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#00D00F" offset="0"/>
+  <stop stop-color="#23DB1B" offset=".0477"/>
+  <stop stop-color="#7CF63B" offset=".153"/>
+  <stop stop-color="#98FF45" offset=".1852"/>
+  <stop stop-color="#60CC2F" offset=".4767"/>
+  <stop stop-color="#007308" offset="1"/>
+ </linearGradient>
+ <polygon points="280 0 240 0 260 800" fill="url(#kj)"/>
+ <linearGradient id="lk" x1="60" x2="80" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#3B8787" offset=".0397"/>
+  <stop stop-color="#66A9C8" offset=".1175"/>
+  <stop stop-color="#81BEF0" offset=".1743"/>
+  <stop stop-color="#8BC6FF" offset=".2037"/>
+  <stop stop-color="#6AADC8" offset=".3413"/>
+  <stop stop-color="#45908A" offset=".5146"/>
+  <stop stop-color="#277A59" offset=".6731"/>
+  <stop stop-color="#126A36" offset=".8113"/>
+  <stop stop-color="#056020" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="60 800 80 1600 80 0" fill="url(#lk)"/>
+ <linearGradient id="ml" x1="40" x2="60" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#8BE1FF" offset=".0031"/>
+  <stop stop-color="#80CEFF" offset=".0685"/>
+  <stop stop-color="#649BFF" offset=".2019"/>
+  <stop stop-color="#384BFF" offset=".3896"/>
+  <stop stop-color="#1B17FF" offset=".5031"/>
+  <stop stop-color="#035573" offset="1"/>
+ </linearGradient>
+ <polygon points="40 0 40 1600 60 800" fill="url(#ml)"/>
+ <linearGradient id="nm" x1="40" x2="80" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset="0"/>
+  <stop stop-color="#87356A" offset=".0181"/>
+  <stop stop-color="#C86FA2" offset=".0857"/>
+  <stop stop-color="#F094C5" offset=".135"/>
+  <stop stop-color="#FFA2D2" offset=".1605"/>
+  <stop stop-color="#FDA0D1" offset=".1662"/>
+  <stop stop-color="#BF68A8" offset=".386"/>
+  <stop stop-color="#8E3B87" offset=".5866"/>
+  <stop stop-color="#6B1B70" offset=".7617"/>
+  <stop stop-color="#550761" offset=".9044"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="40 1600 80 1600 60 800" fill="url(#nm)"/>
+ <linearGradient id="on" x1="40" x2="80" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E0026" offset="0"/>
+  <stop stop-color="#31002B" offset=".0726"/>
+  <stop stop-color="#390038" offset=".1548"/>
+  <stop stop-color="#46004F" offset=".2418"/>
+  <stop stop-color="#58006F" offset=".3321"/>
+  <stop stop-color="#700098" offset=".4249"/>
+  <stop stop-color="#8D00C9" offset=".5186"/>
+  <stop stop-color="#9100D0" offset=".5309"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="80 0 40 0 60 800" fill="url(#on)"/>
+ <linearGradient id="po" x1="200" x2="240" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FC9C01" offset="0"/>
+  <stop stop-color="#FFBF3D" offset=".0031"/>
+  <stop stop-color="#FEC94A" offset=".021"/>
+  <stop stop-color="#FAE56B" offset=".0538"/>
+  <stop stop-color="#F7FF8B" offset=".0802"/>
+  <stop stop-color="#FF7300" offset=".1698"/>
+  <stop stop-color="#FF8913" offset=".2518"/>
+  <stop stop-color="#FFB83C" offset=".4474"/>
+  <stop stop-color="#FFDA5A" offset=".6207"/>
+  <stop stop-color="#FFEE6C" offset=".7635"/>
+  <stop stop-color="#FFF673" offset=".858"/>
+  <stop stop-color="#F8E96B" offset=".8749"/>
+  <stop stop-color="#E7C755" offset=".9062"/>
+  <stop stop-color="#CA9131" offset=".9482"/>
+  <stop stop-color="#A34601" offset=".9989"/>
+  <stop stop-color="#A24400" offset="1"/>
+ </linearGradient>
+ <polygon points="200 1600 240 1600 220 800" fill="url(#po)"/>
+ <linearGradient id="qp" x1="220" x2="240" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset=".1512"/>
+  <stop stop-color="#7B295A" offset=".2352"/>
+  <stop stop-color="#8D375C" offset=".3504"/>
+  <stop stop-color="#AA4F5D" offset=".4838"/>
+  <stop stop-color="#D26F60" offset=".6296"/>
+  <stop stop-color="#FF9463" offset=".7685"/>
+  <stop stop-color="#DB785E" offset=".7921"/>
+  <stop stop-color="#B65A59" offset=".8216"/>
+  <stop stop-color="#974155" offset=".8524"/>
+  <stop stop-color="#7E2E52" offset=".8845"/>
+  <stop stop-color="#6D2150" offset=".9183"/>
+  <stop stop-color="#63194E" offset=".955"/>
+  <stop stop-color="#60164E" offset="1"/>
+ </linearGradient>
+ <polygon points="220 800 240 1600 240 0" fill="url(#qp)"/>
+ <linearGradient id="rq" x1="200" x2="240" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7C6453" offset="0"/>
+  <stop stop-color="#7B6251" offset=".166"/>
+  <stop stop-color="#795C48" offset=".2642"/>
+  <stop stop-color="#775843" offset=".2994"/>
+  <stop stop-color="#7C5E49" offset=".3054"/>
+  <stop stop-color="#896D5A" offset=".3134"/>
+  <stop stop-color="#9E8775" offset=".3224"/>
+  <stop stop-color="#A38D7B" offset=".3241"/>
+ </linearGradient>
+ <polygon points="240 0 200 0 220 800" fill="url(#rq)"/>
+ <linearGradient id="jn" x1="200" x2="220" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#3E9182" offset=".0277"/>
+  <stop stop-color="#73CCC3" offset=".0907"/>
+  <stop stop-color="#95F1EB" offset=".1367"/>
+  <stop stop-color="#A2FFFA" offset=".1605"/>
+  <stop stop-color="#92EEE3" offset=".229"/>
+  <stop stop-color="#68BEA5" offset=".4321"/>
+  <stop stop-color="#469874" offset=".6176"/>
+  <stop stop-color="#2E7D51" offset=".7795"/>
+  <stop stop-color="#1F6C3B" offset=".9114"/>
+  <stop stop-color="#1A6633" offset=".9969"/>
+ </linearGradient>
+ <polygon points="200 0 200 1600 220 800" fill="url(#jn)"/>
+ <linearGradient id="jo" x1="440" x2="460" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#005C2A" offset="0"/>
+  <stop stop-color="#57BF11" offset=".3775"/>
+  <stop stop-color="#8FFF00" offset=".6142"/>
+  <stop stop-color="#8BFA00" offset=".6644"/>
+  <stop stop-color="#81ED01" offset=".7212"/>
+  <stop stop-color="#6FD603" offset=".7814"/>
+  <stop stop-color="#57B605" offset=".8438"/>
+  <stop stop-color="#388D07" offset=".908"/>
+  <stop stop-color="#125C0B" offset=".9728"/>
+  <stop stop-color="#00450C" offset="1"/>
+ </linearGradient>
+ <polygon points="440 0 440 1600 460 800" fill="url(#jo)"/>
+ <linearGradient id="jp" x1="460" x2="480" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#00FF75" offset=".4938"/>
+  <stop stop-color="#13FF6E" offset=".5528"/>
+  <stop stop-color="#46FF5D" offset=".673"/>
+  <stop stop-color="#8AFF45" offset=".8179"/>
+  <stop stop-color="#3CA200" offset="1"/>
+ </linearGradient>
+ <polygon points="460 800 480 1600 480 0" fill="url(#jp)"/>
+ <linearGradient id="jq" x1="440" x2="480" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#8BE1FF" offset=".0031"/>
+  <stop stop-color="#9EE4FF" offset=".169"/>
+  <stop stop-color="#D0EDFF" offset=".5031"/>
+  <stop stop-color="#035573" offset="1"/>
+ </linearGradient>
+ <polygon points="480 0 440 0 460 800" fill="url(#jq)"/>
+ <linearGradient id="jr" x1="440" x2="480" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFE8D0" offset="0"/>
+  <stop stop-color="#D4BBA0" offset=".0359"/>
+  <stop stop-color="#AF9476" offset=".0725"/>
+  <stop stop-color="#907454" offset=".1101"/>
+  <stop stop-color="#785B39" offset=".148"/>
+  <stop stop-color="#674926" offset=".1866"/>
+  <stop stop-color="#5D3E1B" offset=".2262"/>
+  <stop stop-color="#5A3B17" offset=".2685"/>
+  <stop stop-color="#FFC68B" offset=".2932"/>
+  <stop stop-color="#452800" offset="1"/>
+ </linearGradient>
+ <polygon points="440 1600 480 1600 460 800" fill="url(#jr)"/>
+ <linearGradient id="js" x1="480" x2="500" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450015" offset="0"/>
+  <stop stop-color="#4D0A1E" offset=".00030219"/>
+  <stop stop-color="#642537" offset=".00081492"/>
+  <stop stop-color="#885060" offset=".0015"/>
+  <stop stop-color="#BA8D98" offset=".0023"/>
+  <stop stop-color="#F6D4DA" offset=".0031"/>
+  <stop stop-color="#F0CDD5" offset=".0358"/>
+  <stop stop-color="#D9B0C3" offset=".1857"/>
+  <stop stop-color="#CB9EB7" offset=".3157"/>
+  <stop stop-color="#C698B3" offset=".4105"/>
+  <stop stop-color="#FF8B8B" offset=".8272"/>
+  <stop stop-color="#2E0400" offset=".9938"/>
+ </linearGradient>
+ <polygon points="480 0 480 1600 500 800" fill="url(#js)"/>
+ <linearGradient id="jt" x1="480" x2="520" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FC015D" offset="0"/>
+  <stop stop-color="#FFBB8B" offset=".0031"/>
+  <stop stop-color="#FF00CD" offset=".1759"/>
+  <stop stop-color="#FF2FB2" offset=".1841"/>
+  <stop stop-color="#FF5E97" offset=".1934"/>
+  <stop stop-color="#FF8083" offset=".2016"/>
+  <stop stop-color="#FF9477" offset=".2085"/>
+  <stop stop-color="#FF9C73" offset=".213"/>
+  <stop stop-color="#FF8F71" offset=".2776"/>
+  <stop stop-color="#FF6D6A" offset=".3968"/>
+  <stop stop-color="#FF3D61" offset=".5401"/>
+  <stop stop-color="#F23567" offset=".6326"/>
+  <stop stop-color="#D01E78" offset=".803"/>
+  <stop stop-color="#A2008E" offset="1"/>
+ </linearGradient>
+ <polygon points="480 1600 520 1600 500 800" fill="url(#jt)"/>
+ <linearGradient id="ju" x1="500" x2="520" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#4F3100" offset=".00041607"/>
+  <stop stop-color="#6A3E00" offset=".0011"/>
+  <stop stop-color="#955400" offset=".002"/>
+  <stop stop-color="#D07100" offset=".0031"/>
+  <stop stop-color="#E0952E" offset=".0793"/>
+  <stop stop-color="#EDB556" offset=".1577"/>
+  <stop stop-color="#F7CC73" offset=".2294"/>
+  <stop stop-color="#FDDA85" offset=".2913"/>
+  <stop stop-color="#FFDF8B" offset=".3364"/>
+  <stop stop-color="#FFEBA2" offset=".5432"/>
+  <stop stop-color="#FFC373" offset=".7377"/>
+  <stop stop-color="#FFC06E" offset=".7868"/>
+  <stop stop-color="#FFB761" offset=".8426"/>
+  <stop stop-color="#FFA84A" offset=".9015"/>
+  <stop stop-color="#FF942A" offset=".9622"/>
+  <stop stop-color="#FF8717" offset=".9938"/>
+ </linearGradient>
+ <polygon points="500 800 520 1600 520 0" fill="url(#ju)"/>
+ <linearGradient id="jv" x1="480" x2="520" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#957121" offset=".0406"/>
+  <stop stop-color="#CEB21C" offset=".118"/>
+  <stop stop-color="#F1DA18" offset=".1745"/>
+  <stop stop-color="#FFE917" offset=".2037"/>
+  <stop stop-color="#E8CC14" offset=".2837"/>
+  <stop stop-color="#B78E0D" offset=".4723"/>
+  <stop stop-color="#905D07" offset=".6446"/>
+  <stop stop-color="#733A03" offset=".795"/>
+  <stop stop-color="#622401" offset=".9175"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="520 0 480 0 500 800" fill="url(#jv)"/>
+ <linearGradient id="jw" x1="280" x2="320" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#8E6737" offset=".0313"/>
+  <stop stop-color="#CBA864" offset=".1131"/>
+  <stop stop-color="#F1D080" offset=".1728"/>
+  <stop stop-color="#FFDF8B" offset=".2037"/>
+  <stop stop-color="#EFCC7E" offset=".2582"/>
+  <stop stop-color="#BB8E51" offset=".4535"/>
+  <stop stop-color="#925D2E" offset=".6321"/>
+  <stop stop-color="#753A15" offset=".7878"/>
+  <stop stop-color="#632406" offset=".9146"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="320 0 280 0 300 800" fill="url(#jw)"/>
+ <linearGradient id="jy" x1="280" x2="320" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#003945" offset="0"/>
+  <stop stop-color="#00434D" offset=".00039082"/>
+  <stop stop-color="#005E61" offset=".0011"/>
+  <stop stop-color="#008982" offset=".0019"/>
+  <stop stop-color="#00C5AF" offset=".0029"/>
+  <stop stop-color="#00D0B8" offset=".0031"/>
+  <stop stop-color="#2ECDD0" offset=".0504"/>
+  <stop stop-color="#56CAE4" offset=".099"/>
+  <stop stop-color="#73C8F3" offset=".1435"/>
+  <stop stop-color="#85C6FC" offset=".1819"/>
+  <stop stop-color="#8BC6FF" offset=".2099"/>
+  <stop stop-color="#000D2E" offset=".9938"/>
+ </linearGradient>
+ <polygon points="280 1600 320 1600 300 800" fill="url(#jy)"/>
+ <linearGradient id="jz" x1="280" x2="300" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#451B00" offset="0"/>
+  <stop stop-color="#542E0F" offset=".0143"/>
+  <stop stop-color="#988657" offset=".0842"/>
+  <stop stop-color="#C9C78C" offset=".1412"/>
+  <stop stop-color="#E8F0AD" offset=".1824"/>
+  <stop stop-color="#F4FFB9" offset=".2037"/>
+  <stop stop-color="#D2CC90" offset=".3332"/>
+  <stop stop-color="#A88E5D" offset=".5086"/>
+  <stop stop-color="#885D35" offset=".6691"/>
+  <stop stop-color="#703A18" offset=".809"/>
+  <stop stop-color="#612406" offset=".923"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="280 0 280 1600 300 800" fill="url(#jz)"/>
+ <linearGradient id="ka" x1="300" x2="320" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#3100FF" offset=".0031"/>
+  <stop stop-color="#4113FF" offset=".0741"/>
+  <stop stop-color="#6B46FF" offset=".2189"/>
+  <stop stop-color="#AD96FF" offset=".4228"/>
+  <stop stop-color="#CAB9FF" offset=".5062"/>
+  <stop stop-color="#3100FF" offset="1"/>
+ </linearGradient>
+ <polygon points="300 800 320 1600 320 0" fill="url(#ka)"/>
+ <linearGradient id="kb" x1="1240" x2="1260" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#166049" offset="0"/>
+  <stop stop-color="#1B6053" offset=".0227"/>
+  <stop stop-color="#27616E" offset=".0613"/>
+  <stop stop-color="#3C6199" offset=".111"/>
+  <stop stop-color="#5862D5" offset=".1692"/>
+  <stop stop-color="#6C63FF" offset=".2068"/>
+  <stop stop-color="#6764F5" offset=".2297"/>
+  <stop stop-color="#4F6AC1" offset=".3524"/>
+  <stop stop-color="#3D6F99" offset=".4676"/>
+  <stop stop-color="#2F727C" offset=".5722"/>
+  <stop stop-color="#27746A" offset=".6626"/>
+  <stop stop-color="#247564" offset=".7284"/>
+ </linearGradient>
+ <polygon points="1240 0 1240 1600 1260 800" fill="url(#kb)"/>
+ <linearGradient id="kc" x1="1240" x2="1280" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#D18BFF" offset=".0031"/>
+  <stop stop-color="#D878EC" offset=".1058"/>
+  <stop stop-color="#EC48BA" offset=".3136"/>
+  <stop stop-color="#FF1787" offset=".5031"/>
+  <stop stop-color="#460073" offset="1"/>
+ </linearGradient>
+ <polygon points="1280 0 1240 0 1260 800" fill="url(#kc)"/>
+ <linearGradient id="kd" x1="1240" x2="1280" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#AEFF73" offset=".0031"/>
+  <stop stop-color="#BAFF86" offset=".0403"/>
+  <stop stop-color="#D8FFB8" offset=".1156"/>
+  <stop stop-color="#F5FFE7" offset=".179"/>
+  <stop stop-color="#2F7300" offset="1"/>
+ </linearGradient>
+ <polygon points="1240 1600 1280 1600 1260 800" fill="url(#kd)"/>
+ <linearGradient id="ke" x1="1260" x2="1280" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#AA8F6F" offset=".0676"/>
+  <stop stop-color="#D8C9B0" offset=".1325"/>
+  <stop stop-color="#F4ECD8" offset=".1795"/>
+  <stop stop-color="#FFFAE7" offset=".2037"/>
+  <stop stop-color="#D8C5B0" offset=".3413"/>
+  <stop stop-color="#AD8A72" offset=".5146"/>
+  <stop stop-color="#8A5A41" offset=".6731"/>
+  <stop stop-color="#71381E" offset=".8113"/>
+  <stop stop-color="#622408" offset=".9239"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1260 800 1280 1600 1280 0" fill="url(#ke)"/>
+ <linearGradient id="kf" x1="320" x2="340" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4DA06F" offset="0"/>
+  <stop stop-color="#3F8D68" offset=".1665"/>
+  <stop stop-color="#216558" offset=".5586"/>
+  <stop stop-color="#165652" offset=".7623"/>
+  <stop stop-color="#1D5F56" offset=".7731"/>
+  <stop stop-color="#378363" offset=".8184"/>
+  <stop stop-color="#47986C" offset=".8555"/>
+  <stop stop-color="#4DA06F" offset=".8796"/>
+ </linearGradient>
+ <polygon points="320 0 320 1600 340 800" fill="url(#kf)"/>
+ <linearGradient id="kg" x1="320" x2="360" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#02008B" offset=".0031"/>
+  <stop stop-color="#151397" offset=".0366"/>
+  <stop stop-color="#4846B7" offset=".1051"/>
+  <stop stop-color="#9896E9" offset=".2013"/>
+  <stop stop-color="#BBB9FF" offset=".2407"/>
+  <stop stop-color="#5F45FF" offset="1"/>
+ </linearGradient>
+ <polygon points="320 1600 360 1600 340 800" fill="url(#kg)"/>
+ <linearGradient id="kh" x1="320" x2="360" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#003945" offset="0"/>
+  <stop stop-color="#00434D" offset=".00039082"/>
+  <stop stop-color="#005E61" offset=".0011"/>
+  <stop stop-color="#008982" offset=".0019"/>
+  <stop stop-color="#00C5AF" offset=".0029"/>
+  <stop stop-color="#00D0B8" offset=".0031"/>
+  <stop stop-color="#2ECDD0" offset=".0793"/>
+  <stop stop-color="#56CAE4" offset=".1577"/>
+  <stop stop-color="#73C8F3" offset=".2294"/>
+  <stop stop-color="#85C6FC" offset=".2913"/>
+  <stop stop-color="#8BC6FF" offset=".3364"/>
+  <stop stop-color="#A2BCFF" offset=".5432"/>
+  <stop stop-color="#73FFF8" offset=".7377"/>
+  <stop stop-color="#6EFFF5" offset=".7868"/>
+  <stop stop-color="#61FFED" offset=".8426"/>
+  <stop stop-color="#4AFFDF" offset=".9015"/>
+  <stop stop-color="#2AFFCC" offset=".9622"/>
+  <stop stop-color="#17FFC0" offset=".9938"/>
+ </linearGradient>
+ <polygon points="360 0 320 0 340 800" fill="url(#kh)"/>
+ <linearGradient id="kk" x1="340" x2="360" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#458EFF" offset=".0031"/>
+  <stop stop-color="#589EFF" offset=".0566"/>
+  <stop stop-color="#8AC9FF" offset=".165"/>
+  <stop stop-color="#B9F0FF" offset=".2562"/>
+  <stop stop-color="#004EA2" offset="1"/>
+ </linearGradient>
+ <polygon points="340 800 360 1600 360 0" fill="url(#kk)"/>
+ <linearGradient id="kl" x1="380" x2="400" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#80FF2E" offset="0"/>
+  <stop stop-color="#63CE20" offset=".0798"/>
+  <stop stop-color="#4BA515" offset=".1588"/>
+  <stop stop-color="#39850C" offset=".2356"/>
+  <stop stop-color="#2C6E05" offset=".3096"/>
+  <stop stop-color="#246101" offset=".3796"/>
+  <stop stop-color="#215C00" offset=".4414"/>
+  <stop stop-color="#ACFF2E" offset=".4537"/>
+  <stop stop-color="#A4F82B" offset=".4686"/>
+  <stop stop-color="#7AD11C" offset=".5545"/>
+  <stop stop-color="#59B210" offset=".6381"/>
+  <stop stop-color="#419D07" offset=".7178"/>
+  <stop stop-color="#339002" offset=".7919"/>
+  <stop stop-color="#2E8B00" offset=".8549"/>
+ </linearGradient>
+ <polygon points="380 800 400 1600 400 0" fill="url(#kl)"/>
+ <linearGradient id="km" x1="360" x2="380" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A37B9B" offset="0"/>
+  <stop stop-color="#A17999" offset=".1498"/>
+  <stop stop-color="#9C7093" offset=".2384"/>
+  <stop stop-color="#926288" offset=".3112"/>
+  <stop stop-color="#854E79" offset=".3753"/>
+  <stop stop-color="#743465" offset=".4331"/>
+  <stop stop-color="#60164E" offset=".4846"/>
+  <stop stop-color="#641C53" offset=".5712"/>
+  <stop stop-color="#6F2D5F" offset=".6862"/>
+  <stop stop-color="#814874" offset=".8171"/>
+  <stop stop-color="#9B6E91" offset=".9589"/>
+  <stop stop-color="#A37B9B" offset="1"/>
+ </linearGradient>
+ <polygon points="360 0 360 1600 380 800" fill="url(#km)"/>
+ <linearGradient id="kn" x1="360" x2="400" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0013" offset="0"/>
+  <stop stop-color="#490011" offset=".1409"/>
+  <stop stop-color="#94000D" offset=".4444"/>
+  <stop stop-color="#FF176B" offset=".7407"/>
+  <stop stop-color="#E31156" offset=".8126"/>
+  <stop stop-color="#9C0321" offset=".9669"/>
+  <stop stop-color="#8C0015" offset="1"/>
+ </linearGradient>
+ <polygon points="400 0 360 0 380 800" fill="url(#kn)"/>
+ <linearGradient id="ko" x1="360" x2="400" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#8B0043" offset=".0031"/>
+  <stop stop-color="#971353" offset=".0737"/>
+  <stop stop-color="#B7467C" offset=".2176"/>
+  <stop stop-color="#E996BD" offset=".4202"/>
+  <stop stop-color="#FFB9D9" offset=".5031"/>
+  <stop stop-color="#A20071" offset="1"/>
+ </linearGradient>
+ <polygon points="360 1600 400 1600 380 800" fill="url(#ko)"/>
+ <linearGradient id="kp" x1="400" x2="440" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#453900" offset="0"/>
+  <stop stop-color="#5C4500" offset=".0155"/>
+  <stop stop-color="#8D5D00" offset=".0522"/>
+  <stop stop-color="#B67200" offset=".0887"/>
+  <stop stop-color="#D68100" offset=".1242"/>
+  <stop stop-color="#ED8D00" offset=".1583"/>
+  <stop stop-color="#FA9400" offset=".1906"/>
+  <stop stop-color="#FF9600" offset=".2191"/>
+  <stop stop-color="#D28400" offset=".3294"/>
+  <stop stop-color="#A87300" offset=".4502"/>
+  <stop stop-color="#876500" offset=".568"/>
+  <stop stop-color="#6F5C00" offset=".6803"/>
+  <stop stop-color="#615600" offset=".7847"/>
+  <stop stop-color="#5C5400" offset=".8735"/>
+ </linearGradient>
+ <polygon points="400 1600 440 1600 420 800" fill="url(#kp)"/>
+ <linearGradient id="kq" x1="400" x2="420" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4A00E7" offset="0"/>
+  <stop stop-color="#4600CD" offset=".0474"/>
+  <stop stop-color="#4000A5" offset=".1328"/>
+  <stop stop-color="#3B0085" offset=".2167"/>
+  <stop stop-color="#38006E" offset=".2975"/>
+  <stop stop-color="#360061" offset=".3739"/>
+  <stop stop-color="#35005C" offset=".4414"/>
+  <stop stop-color="#862EFF" offset=".4537"/>
+  <stop stop-color="#7727E9" offset=".498"/>
+  <stop stop-color="#5919BF" offset=".5938"/>
+  <stop stop-color="#420E9E" offset=".6871"/>
+  <stop stop-color="#310686" offset=".776"/>
+  <stop stop-color="#270278" offset=".8587"/>
+  <stop stop-color="#240073" offset=".929"/>
+ </linearGradient>
+ <polygon points="400 0 400 1600 420 800" fill="url(#kq)"/>
+ <linearGradient id="kr" x1="420" x2="440" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FFE78B" offset=".0031"/>
+  <stop stop-color="#FFEB9E" offset=".169"/>
+  <stop stop-color="#FFF7D0" offset=".5031"/>
+  <stop stop-color="#735C03" offset="1"/>
+ </linearGradient>
+ <polygon points="420 800 440 1600 440 0" fill="url(#kr)"/>
+ <linearGradient id="ks" x1="400" x2="440" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8B4300" offset=".0056"/>
+  <stop stop-color="#A27100" offset=".1358"/>
+  <stop stop-color="#A58A55" offset=".2901"/>
+  <stop stop-color="#E5D4B5" offset=".6358"/>
+  <stop stop-color="#987A59" offset=".7992"/>
+  <stop stop-color="#967857" offset=".8034"/>
+  <stop stop-color="#733800" offset=".9722"/>
+ </linearGradient>
+ <polygon points="440 0 400 0 420 800" fill="url(#ks)"/>
+ <linearGradient id="kt" x1="2240" x2="2280" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#272217" offset="0"/>
+  <stop stop-color="#272217" offset=".053"/>
+  <stop stop-color="#653A01" offset=".1841"/>
+  <stop stop-color="#9D6212" offset=".3198"/>
+  <stop stop-color="#DB9226" offset=".3869"/>
+  <stop stop-color="#DB9226" offset=".4337"/>
+  <stop stop-color="#A87415" offset=".5023"/>
+  <stop stop-color="#A87415" offset=".624"/>
+  <stop stop-color="#F6C963" offset=".7098"/>
+  <stop stop-color="#F6C963" offset=".7613"/>
+  <stop stop-color="#A67C21" offset=".8456"/>
+  <stop stop-color="#725316" offset="1"/>
+ </linearGradient>
+ <polygon points="2240 1600 2280 1600 2260 800" fill="url(#kt)"/>
+ <linearGradient id="kv" x1="2240" x2="2260" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A27600" offset=".1512"/>
+  <stop stop-color="#A47906" offset=".1887"/>
+  <stop stop-color="#AB8218" offset=".2401"/>
+  <stop stop-color="#B79235" offset=".2997"/>
+  <stop stop-color="#C6A75D" offset=".3654"/>
+  <stop stop-color="#DAC291" offset=".4361"/>
+  <stop stop-color="#F3E2D0" offset=".5098"/>
+  <stop stop-color="#FAECE3" offset=".5309"/>
+  <stop stop-color="#F7E8DC" offset=".5367"/>
+  <stop stop-color="#DEC7A9" offset=".5854"/>
+  <stop stop-color="#C8AB7C" offset=".6364"/>
+  <stop stop-color="#B59256" offset=".6886"/>
+  <stop stop-color="#A67F37" offset=".7425"/>
+  <stop stop-color="#9A6F1F" offset=".7985"/>
+  <stop stop-color="#92640D" offset=".8575"/>
+  <stop stop-color="#8D5E03" offset=".9216"/>
+  <stop stop-color="#8B5C00" offset="1"/>
+ </linearGradient>
+ <polygon points="2240 0 2240 1600 2260 800" fill="url(#kv)"/>
+ <linearGradient id="kw" x1="2260" x2="2280" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1D0045" offset=".1512"/>
+  <stop stop-color="#20014A" offset=".2332"/>
+  <stop stop-color="#280558" offset=".3296"/>
+  <stop stop-color="#350B70" offset=".4332"/>
+  <stop stop-color="#481391" offset=".542"/>
+  <stop stop-color="#601DBB" offset=".6548"/>
+  <stop stop-color="#7D2AEF" offset=".7693"/>
+  <stop stop-color="#862EFF" offset=".8025"/>
+  <stop stop-color="#35005C" offset=".8117"/>
+  <stop stop-color="#370061" offset=".8538"/>
+  <stop stop-color="#3C006E" offset=".9014"/>
+  <stop stop-color="#440085" offset=".9515"/>
+  <stop stop-color="#4E00A2" offset="1"/>
+ </linearGradient>
+ <polygon points="2260 800 2280 1600 2280 0" fill="url(#kw)"/>
+ <linearGradient id="kx" x1="2240" x2="2280" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#730F00" offset=".2716"/>
+  <stop stop-color="#791504" offset=".3449"/>
+  <stop stop-color="#8B2511" offset=".4456"/>
+  <stop stop-color="#A84026" offset=".5622"/>
+  <stop stop-color="#D06643" offset=".6896"/>
+  <stop stop-color="#F6895E" offset=".7932"/>
+  <stop stop-color="#D16C4F" offset=".8272"/>
+  <stop stop-color="#953E36" offset=".8867"/>
+  <stop stop-color="#6A1C24" offset=".9374"/>
+  <stop stop-color="#4F0819" offset=".9768"/>
+  <stop stop-color="#450015" offset="1"/>
+ </linearGradient>
+ <polygon points="2280 0 2240 0 2260 800" fill="url(#kx)"/>
+ <linearGradient id="ky" x1="2220" x2="2240" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#734900" offset=".1265"/>
+  <stop stop-color="#764C01" offset=".1946"/>
+  <stop stop-color="#7E5703" offset=".2526"/>
+  <stop stop-color="#8D6907" offset=".3071"/>
+  <stop stop-color="#A2810C" offset=".3593"/>
+  <stop stop-color="#BCA112" offset=".41"/>
+  <stop stop-color="#DCC81B" offset=".4588"/>
+  <stop stop-color="#FAEC22" offset=".4969"/>
+  <stop stop-color="#F4E521" offset=".5026"/>
+  <stop stop-color="#D0BC19" offset=".5376"/>
+  <stop stop-color="#B19912" offset=".576"/>
+  <stop stop-color="#967A0D" offset=".6173"/>
+  <stop stop-color="#816208" offset=".6626"/>
+  <stop stop-color="#704F04" offset=".7134"/>
+  <stop stop-color="#654202" offset=".7728"/>
+  <stop stop-color="#5E3A00" offset=".849"/>
+  <stop stop-color="#5C3800" offset="1"/>
+ </linearGradient>
+ <polygon points="2220 800 2240 1600 2240 0" fill="url(#ky)"/>
+ <linearGradient id="kz" x1="2200" x2="2220" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#216187" offset=".0397"/>
+  <stop stop-color="#1C3EC8" offset=".1175"/>
+  <stop stop-color="#1827F0" offset=".1743"/>
+  <stop stop-color="#171FFF" offset=".2037"/>
+  <stop stop-color="#122DC8" offset=".3413"/>
+  <stop stop-color="#0B3E8A" offset=".5146"/>
+  <stop stop-color="#064B59" offset=".6731"/>
+  <stop stop-color="#035436" offset=".8113"/>
+  <stop stop-color="#015A20" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2200 0 2200 1600 2220 800" fill="url(#kz)"/>
+ <linearGradient id="la" x1="2200" x2="2240" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FF9000" offset=".4938"/>
+  <stop stop-color="#FF8513" offset=".6014"/>
+  <stop stop-color="#FF6945" offset=".8179"/>
+  <stop stop-color="#A21F00" offset="1"/>
+ </linearGradient>
+ <polygon points="2200 1600 2240 1600 2220 800" fill="url(#la)"/>
+ <linearGradient id="lb" x1="2200" x2="2240" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450041" offset="0"/>
+  <stop stop-color="#4C0845" offset=".0063"/>
+  <stop stop-color="#986176" offset=".0792"/>
+  <stop stop-color="#CFA19A" offset=".1386"/>
+  <stop stop-color="#F2CAB1" offset=".1815"/>
+  <stop stop-color="#FFD9B9" offset=".2037"/>
+  <stop stop-color="#DEB0A8" offset=".3119"/>
+  <stop stop-color="#AB728D" offset=".493"/>
+  <stop stop-color="#824178" offset=".6585"/>
+  <stop stop-color="#651E69" offset=".803"/>
+  <stop stop-color="#53085F" offset=".9207"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2240 0 2200 0 2220 800" fill="url(#lb)"/>
+ <linearGradient id="lc" x1="2120" x2="2160" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#003945" offset="0"/>
+  <stop stop-color="#0A414D" offset=".0351"/>
+  <stop stop-color="#255864" offset=".0945"/>
+  <stop stop-color="#507D88" offset=".1712"/>
+  <stop stop-color="#8DB0BA" offset=".2621"/>
+  <stop stop-color="#D4ECF6" offset=".358"/>
+  <stop stop-color="#D0E8F6" offset=".3633"/>
+  <stop stop-color="#A8C3FA" offset=".42"/>
+  <stop stop-color="#8BA8FD" offset=".4719"/>
+  <stop stop-color="#7998FE" offset=".5167"/>
+  <stop stop-color="#7392FF" offset=".5494"/>
+  <stop stop-color="#8BC6FF" offset=".6574"/>
+  <stop stop-color="#000D2E" offset=".9938"/>
+ </linearGradient>
+ <polygon points="2160 0 2120 0 2140 800" fill="url(#lc)"/>
+ <linearGradient id="ld" x1="2140" x2="2160" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7C5378" offset="0"/>
+  <stop stop-color="#7B5177" offset=".166"/>
+  <stop stop-color="#794875" offset=".2642"/>
+  <stop stop-color="#774373" offset=".2994"/>
+  <stop stop-color="#7C4977" offset=".3054"/>
+  <stop stop-color="#895A83" offset=".3134"/>
+  <stop stop-color="#9E7597" offset=".3224"/>
+  <stop stop-color="#A37B9B" offset=".3241"/>
+ </linearGradient>
+ <polygon points="2140 800 2160 1600 2160 0" fill="url(#ld)"/>
+ <linearGradient id="le" x1="2120" x2="2160" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A26200" offset="0"/>
+  <stop stop-color="#855200" offset=".0485"/>
+  <stop stop-color="#6E4600" offset=".0986"/>
+  <stop stop-color="#613F00" offset=".1462"/>
+  <stop stop-color="#5C3C00" offset=".1883"/>
+  <stop stop-color="#FFA52E" offset=".1975"/>
+  <stop stop-color="#EF9A2A" offset=".2307"/>
+  <stop stop-color="#BB771D" offset=".3452"/>
+  <stop stop-color="#915A13" offset=".458"/>
+  <stop stop-color="#70440B" offset=".5668"/>
+  <stop stop-color="#583405" offset=".6704"/>
+  <stop stop-color="#4A2A01" offset=".7668"/>
+  <stop stop-color="#452700" offset=".8488"/>
+ </linearGradient>
+ <polygon points="2120 1600 2160 1600 2140 800" fill="url(#le)"/>
+ <linearGradient id="lg" x1="2120" x2="2140" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#004FA2" offset=".1512"/>
+  <stop stop-color="#0654A4" offset=".1887"/>
+  <stop stop-color="#1861AA" offset=".2401"/>
+  <stop stop-color="#3577B4" offset=".2997"/>
+  <stop stop-color="#5D95C1" offset=".3654"/>
+  <stop stop-color="#91BDD3" offset=".4361"/>
+  <stop stop-color="#D0ECE8" offset=".5098"/>
+  <stop stop-color="#E3FAEE" offset=".5309"/>
+  <stop stop-color="#DCF6EB" offset=".5367"/>
+  <stop stop-color="#A9D4D5" offset=".5854"/>
+  <stop stop-color="#7CB7C1" offset=".6364"/>
+  <stop stop-color="#569EB0" offset=".6886"/>
+  <stop stop-color="#378AA3" offset=".7425"/>
+  <stop stop-color="#1F7A98" offset=".7985"/>
+  <stop stop-color="#0D6F91" offset=".8575"/>
+  <stop stop-color="#03688C" offset=".9216"/>
+  <stop stop-color="#00668B" offset="1"/>
+ </linearGradient>
+ <polygon points="2120 0 2120 1600 2140 800" fill="url(#lg)"/>
+ <linearGradient id="lh" x1="2160" x2="2180" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#453900" offset="0"/>
+  <stop stop-color="#5C4600" offset=".0353"/>
+  <stop stop-color="#8D6300" offset=".1192"/>
+  <stop stop-color="#B67A00" offset=".2024"/>
+  <stop stop-color="#D68C00" offset=".2833"/>
+  <stop stop-color="#ED9900" offset=".3613"/>
+  <stop stop-color="#FAA100" offset=".435"/>
+  <stop stop-color="#FFA400" offset=".5"/>
+  <stop stop-color="#D28E00" offset=".5629"/>
+  <stop stop-color="#A87900" offset=".6319"/>
+  <stop stop-color="#876900" offset=".6991"/>
+  <stop stop-color="#6F5D00" offset=".7632"/>
+  <stop stop-color="#615600" offset=".8228"/>
+  <stop stop-color="#5C5400" offset=".8735"/>
+ </linearGradient>
+ <polygon points="2160 0 2160 1600 2180 800" fill="url(#lh)"/>
+ <linearGradient id="li" x1="2160" x2="2200" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#8CFF00" offset=".0031"/>
+  <stop stop-color="#A6FF3D" offset=".1783"/>
+  <stop stop-color="#DAFFB9" offset=".5062"/>
+  <stop stop-color="#D3FFA8" offset=".5718"/>
+  <stop stop-color="#BFFF7A" offset=".7028"/>
+  <stop stop-color="#A1FF31" offset=".8849"/>
+  <stop stop-color="#8CFF00" offset="1"/>
+ </linearGradient>
+ <polygon points="2200 0 2160 0 2180 800" fill="url(#li)"/>
+ <linearGradient id="lj" x1="2160" x2="2200" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#216187" offset=".0397"/>
+  <stop stop-color="#1C3EC8" offset=".1175"/>
+  <stop stop-color="#1827F0" offset=".1743"/>
+  <stop stop-color="#171FFF" offset=".2037"/>
+  <stop stop-color="#122DC8" offset=".3413"/>
+  <stop stop-color="#0B3E8A" offset=".5146"/>
+  <stop stop-color="#064B59" offset=".6731"/>
+  <stop stop-color="#035436" offset=".8113"/>
+  <stop stop-color="#015A20" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2160 1600 2200 1600 2180 800" fill="url(#lj)"/>
+ <linearGradient id="ll" x1="2180" x2="2200" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#3B2600" offset=".00070722"/>
+  <stop stop-color="#211500" offset=".0019"/>
+  <stop offset=".0031"/>
+  <stop stop-color="#202F08" offset=".0548"/>
+  <stop stop-color="#4A6D14" offset=".1305"/>
+  <stop stop-color="#6DA11D" offset=".2031"/>
+  <stop stop-color="#88CA24" offset=".2705"/>
+  <stop stop-color="#9CE72A" offset=".3316"/>
+  <stop stop-color="#A8F92D" offset=".3844"/>
+  <stop stop-color="#ACFF2E" offset=".4228"/>
+  <stop stop-color="#C8FFB9" offset=".7407"/>
+  <stop stop-color="#C5FBB4" offset=".7738"/>
+  <stop stop-color="#BBEFA7" offset=".8112"/>
+  <stop stop-color="#ABDB90" offset=".8507"/>
+  <stop stop-color="#95BF70" offset=".8918"/>
+  <stop stop-color="#789B47" offset=".9341"/>
+  <stop stop-color="#556F16" offset=".9767"/>
+  <stop stop-color="#465C00" offset=".9938"/>
+ </linearGradient>
+ <polygon points="2180 800 2200 1600 2200 0" fill="url(#ll)"/>
+ <linearGradient id="lm" x1="2100" x2="2120" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0013" offset="0"/>
+  <stop stop-color="#490011" offset=".1409"/>
+  <stop stop-color="#94000D" offset=".4444"/>
+  <stop stop-color="#FF8845" offset=".7407"/>
+  <stop stop-color="#E76C3B" offset=".8025"/>
+  <stop stop-color="#AB2522" offset=".935"/>
+  <stop stop-color="#8C0015" offset="1"/>
+ </linearGradient>
+ <polygon points="2100 800 2120 1600 2120 0" fill="url(#lm)"/>
+ <linearGradient id="ln" x1="2080" x2="2120" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450041" offset="0"/>
+  <stop stop-color="#4C0845" offset=".0063"/>
+  <stop stop-color="#986176" offset=".0792"/>
+  <stop stop-color="#CFA19A" offset=".1386"/>
+  <stop stop-color="#F2CAB1" offset=".1815"/>
+  <stop stop-color="#FFD9B9" offset=".2037"/>
+  <stop stop-color="#DEB0A8" offset=".3119"/>
+  <stop stop-color="#AB728D" offset=".493"/>
+  <stop stop-color="#824178" offset=".6585"/>
+  <stop stop-color="#651E69" offset=".803"/>
+  <stop stop-color="#53085F" offset=".9207"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2080 1600 2120 1600 2100 800" fill="url(#ln)"/>
+ <linearGradient id="lo" x1="2080" x2="2120" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#750000" offset="0"/>
+  <stop stop-color="#99000C" offset=".233"/>
+  <stop stop-color="#B90016" offset=".466"/>
+  <stop stop-color="#FC1700" offset=".7654"/>
+  <stop stop-color="#F61502" offset=".7716"/>
+  <stop stop-color="#4D0000" offset="1"/>
+ </linearGradient>
+ <polygon points="2120 0 2080 0 2100 800" fill="url(#lo)"/>
+ <linearGradient id="lp" x1="2080" x2="2100" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset="0"/>
+  <stop stop-color="#87356A" offset=".0181"/>
+  <stop stop-color="#C86FA2" offset=".0857"/>
+  <stop stop-color="#F094C5" offset=".135"/>
+  <stop stop-color="#FFA2D2" offset=".1605"/>
+  <stop stop-color="#D07AB2" offset=".3433"/>
+  <stop stop-color="#9F5192" offset=".5566"/>
+  <stop stop-color="#7C337A" offset=".7445"/>
+  <stop stop-color="#66216B" offset=".8976"/>
+  <stop stop-color="#5E1A66" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2080 0 2080 1600 2100 800" fill="url(#lp)"/>
+ <linearGradient id="lq" x1="1980" x2="2e3" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E7500" offset="0"/>
+  <stop stop-color="#469900" offset=".233"/>
+  <stop stop-color="#5BB900" offset=".466"/>
+  <stop stop-color="#31FC00" offset=".7654"/>
+  <stop stop-color="#32FB00" offset=".7659"/>
+  <stop stop-color="#39F602" offset=".7716"/>
+  <stop stop-color="#1E4D00" offset="1"/>
+ </linearGradient>
+ <polygon points="1980 800 2e3 1600 2e3 0" fill="url(#lq)"/>
+ <linearGradient id="ls" x1="1960" x2="1980" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#FFA2F9" offset=".0031"/>
+  <stop stop-color="#FFB5FA" offset=".1256"/>
+  <stop stop-color="#FFE7FD" offset=".3738"/>
+  <stop stop-color="#fff" offset=".4815"/>
+  <stop stop-color="#FFA2D4" offset="1"/>
+ </linearGradient>
+ <polygon points="1960 0 1960 1600 1980 800" fill="url(#ls)"/>
+ <linearGradient id="lt" x1="1960" x2="2e3" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A20100" offset=".1512"/>
+  <stop stop-color="#A40706" offset=".1865"/>
+  <stop stop-color="#AA1718" offset=".235"/>
+  <stop stop-color="#B53135" offset=".2912"/>
+  <stop stop-color="#C3565E" offset=".3531"/>
+  <stop stop-color="#D58592" offset=".4197"/>
+  <stop stop-color="#EBBED0" offset=".4892"/>
+  <stop stop-color="#FAE3F9" offset=".5309"/>
+  <stop stop-color="#F7DCF3" offset=".5367"/>
+  <stop stop-color="#DEA9C1" offset=".5854"/>
+  <stop stop-color="#C87C96" offset=".6364"/>
+  <stop stop-color="#B55671" offset=".6886"/>
+  <stop stop-color="#A63753" offset=".7425"/>
+  <stop stop-color="#9A1F3B" offset=".7985"/>
+  <stop stop-color="#920D2B" offset=".8575"/>
+  <stop stop-color="#8D0321" offset=".9216"/>
+  <stop stop-color="#8B001E" offset="1"/>
+ </linearGradient>
+ <polygon points="2e3 0 1960 0 1980 800" fill="url(#lt)"/>
+ <linearGradient id="lu" x1="1960" x2="2e3" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A06B4D" offset="0"/>
+  <stop stop-color="#8D5E3F" offset=".1665"/>
+  <stop stop-color="#654421" offset=".5586"/>
+  <stop stop-color="#563A16" offset=".7623"/>
+  <stop stop-color="#5F401D" offset=".7731"/>
+  <stop stop-color="#835737" offset=".8184"/>
+  <stop stop-color="#986647" offset=".8555"/>
+  <stop stop-color="#A06B4D" offset=".8796"/>
+ </linearGradient>
+ <polygon points="1960 1600 2e3 1600 1980 800" fill="url(#lu)"/>
+ <linearGradient id="lv" x1="2e3" x2="2020" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A37B9B" offset="0"/>
+  <stop stop-color="#855E79" offset=".1307"/>
+  <stop stop-color="#6A445A" offset=".2752"/>
+  <stop stop-color="#5A3448" offset=".3983"/>
+  <stop stop-color="#542E41" offset=".4846"/>
+  <stop stop-color="#593347" offset=".5777"/>
+  <stop stop-color="#684158" offset=".7013"/>
+  <stop stop-color="#805973" offset=".8421"/>
+  <stop stop-color="#A27A9A" offset=".9946"/>
+  <stop stop-color="#A37B9B" offset="1"/>
+ </linearGradient>
+ <polygon points="2e3 0 2e3 1600 2020 800" fill="url(#lv)"/>
+ <linearGradient id="lw" x1="2e3" x2="2040" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E0029" offset="0"/>
+  <stop stop-color="#73003A" offset=".1265"/>
+  <stop stop-color="#D07659" offset=".3198"/>
+  <stop stop-color="#FFB78A" offset=".3333"/>
+  <stop stop-color="#FF7F5C" offset=".6111"/>
+  <stop stop-color="#A62133" offset=".8827"/>
+  <stop stop-color="#5C0044" offset="1"/>
+  <stop stop-color="#721629" offset="1"/>
+ </linearGradient>
+ <polygon points="2e3 1600 2040 1600 2020 800" fill="url(#lw)"/>
+ <linearGradient id="lx" x1="2e3" x2="2040" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450039" offset="0"/>
+  <stop stop-color="#52005C" offset=".0511"/>
+  <stop stop-color="#64008D" offset=".1321"/>
+  <stop stop-color="#7400B6" offset=".2125"/>
+  <stop stop-color="#8000D6" offset=".2907"/>
+  <stop stop-color="#8800ED" offset=".366"/>
+  <stop stop-color="#8D00FA" offset=".4372"/>
+  <stop stop-color="#8F00FF" offset=".5"/>
+  <stop stop-color="#8600DB" offset=".539"/>
+  <stop stop-color="#7900A8" offset=".601"/>
+  <stop stop-color="#6F007D" offset=".662"/>
+  <stop stop-color="#67005C" offset=".7209"/>
+  <stop stop-color="#610044" offset=".777"/>
+  <stop stop-color="#5D0036" offset=".8291"/>
+  <stop stop-color="#5C0031" offset=".8735"/>
+ </linearGradient>
+ <polygon points="2040 0 2e3 0 2020 800" fill="url(#lx)"/>
+ <linearGradient id="ly" x1="2020" x2="2040" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#730000" offset="0"/>
+  <stop stop-color="#780800" offset=".0177"/>
+  <stop stop-color="#933200" offset=".1141"/>
+  <stop stop-color="#A95400" offset=".2127"/>
+  <stop stop-color="#BA6F00" offset=".3126"/>
+  <stop stop-color="#C68200" offset=".4142"/>
+  <stop stop-color="#CE8D00" offset=".5184"/>
+  <stop stop-color="#D09100" offset=".6296"/>
+  <stop stop-color="#FFD417" offset=".6389"/>
+  <stop stop-color="#FF9C24" offset=".8283"/>
+  <stop stop-color="#FF6D2E" offset="1"/>
+ </linearGradient>
+ <polygon points="2020 800 2040 1600 2040 0" fill="url(#ly)"/>
+ <linearGradient id="lz" x1="2040" x2="2060" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#4F3100" offset=".00041607"/>
+  <stop stop-color="#6A3E00" offset=".0011"/>
+  <stop stop-color="#955400" offset=".002"/>
+  <stop stop-color="#D07100" offset=".0031"/>
+  <stop stop-color="#E0952E" offset=".0504"/>
+  <stop stop-color="#EDB556" offset=".099"/>
+  <stop stop-color="#F7CC73" offset=".1435"/>
+  <stop stop-color="#FDDA85" offset=".1819"/>
+  <stop stop-color="#FFDF8B" offset=".2099"/>
+  <stop stop-color="#2E2400" offset=".9938"/>
+ </linearGradient>
+ <polygon points="2040 0 2040 1600 2060 800" fill="url(#lz)"/>
+ <linearGradient id="ma" x1="2040" x2="2080" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3A9400" offset="0"/>
+  <stop stop-color="#3E9900" offset=".0353"/>
+  <stop stop-color="#5BB900" offset=".2809"/>
+  <stop stop-color="#31FC00" offset=".4784"/>
+  <stop stop-color="#30EE00" offset=".5061"/>
+  <stop stop-color="#29B500" offset=".633"/>
+  <stop stop-color="#248800" offset=".7502"/>
+  <stop stop-color="#216800" offset=".8542"/>
+  <stop stop-color="#1F5400" offset=".941"/>
+  <stop stop-color="#1E4D00" offset="1"/>
+ </linearGradient>
+ <polygon points="2080 0 2040 0 2060 800" fill="url(#ma)"/>
+ <linearGradient id="mb" x1="2060" x2="2080" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFD0EF" offset="0"/>
+  <stop stop-color="#ECBADA" offset=".032"/>
+  <stop stop-color="#C089AC" offset=".1124"/>
+  <stop stop-color="#9A5F84" offset=".1948"/>
+  <stop stop-color="#7B3D63" offset=".278"/>
+  <stop stop-color="#632249" offset=".3623"/>
+  <stop stop-color="#520F37" offset=".4479"/>
+  <stop stop-color="#48042D" offset=".5359"/>
+  <stop stop-color="#450029" offset=".6296"/>
+  <stop stop-color="#F7A2FF" offset="1"/>
+ </linearGradient>
+ <polygon points="2060 800 2080 1600 2080 0" fill="url(#mb)"/>
+ <linearGradient id="md" x1="2040" x2="2080" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#8E6737" offset=".0313"/>
+  <stop stop-color="#CBA864" offset=".1131"/>
+  <stop stop-color="#F1D080" offset=".1728"/>
+  <stop stop-color="#FFDF8B" offset=".2037"/>
+  <stop stop-color="#EFCC7E" offset=".2582"/>
+  <stop stop-color="#BB8E51" offset=".4535"/>
+  <stop stop-color="#925D2E" offset=".6321"/>
+  <stop stop-color="#753A15" offset=".7878"/>
+  <stop stop-color="#632406" offset=".9146"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2040 1600 2080 1600 2060 800" fill="url(#md)"/>
+ <linearGradient id="me" x1="2380" x2="2400" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#875F35" offset=".0181"/>
+  <stop stop-color="#C8A06F" offset=".0857"/>
+  <stop stop-color="#F0C894" offset=".135"/>
+  <stop stop-color="#FFD7A2" offset=".1605"/>
+  <stop stop-color="#D0A578" offset=".3517"/>
+  <stop stop-color="#A37450" offset=".5622"/>
+  <stop stop-color="#825132" offset=".7477"/>
+  <stop stop-color="#6D3B21" offset=".8989"/>
+  <stop stop-color="#66331A" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2380 800 2400 1600 2400 0" fill="url(#me)"/>
+ <linearGradient id="mf" x1="2360" x2="2400" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FF7045" offset=".0031"/>
+  <stop stop-color="#FF7D58" offset=".1754"/>
+  <stop stop-color="#FF9F8A" offset=".5242"/>
+  <stop stop-color="#FFBEB9" offset=".8179"/>
+  <stop stop-color="#A21F00" offset="1"/>
+ </linearGradient>
+ <polygon points="2400 0 2360 0 2380 800" fill="url(#mf)"/>
+ <linearGradient id="mg" x1="2360" x2="2380" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450015" offset="0"/>
+  <stop stop-color="#4F001C" offset=".00041607"/>
+  <stop stop-color="#6A002F" offset=".0011"/>
+  <stop stop-color="#95004E" offset=".002"/>
+  <stop stop-color="#D00078" offset=".0031"/>
+  <stop stop-color="#E02E7E" offset=".0793"/>
+  <stop stop-color="#ED5684" offset=".1577"/>
+  <stop stop-color="#F77388" offset=".2294"/>
+  <stop stop-color="#FD858A" offset=".2913"/>
+  <stop stop-color="#FF8B8B" offset=".3364"/>
+  <stop stop-color="#FFAAA2" offset=".5432"/>
+  <stop stop-color="#FF73BB" offset=".7377"/>
+  <stop stop-color="#FF6EBB" offset=".7868"/>
+  <stop stop-color="#FF61BC" offset=".8426"/>
+  <stop stop-color="#FF4ABD" offset=".9015"/>
+  <stop stop-color="#FF2ABE" offset=".9622"/>
+  <stop stop-color="#FF17BF" offset=".9938"/>
+ </linearGradient>
+ <polygon points="2360 0 2360 1600 2380 800" fill="url(#mg)"/>
+ <linearGradient id="mh" x1="2360" x2="2400" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FC015D" offset="0"/>
+  <stop stop-color="#FF3D61" offset=".0031"/>
+  <stop stop-color="#FF4A65" offset=".0152"/>
+  <stop stop-color="#FF6C71" offset=".0376"/>
+  <stop stop-color="#FFA283" offset=".0675"/>
+  <stop stop-color="#FFBB8B" offset=".0802"/>
+  <stop stop-color="#FF00CD" offset=".1698"/>
+  <stop stop-color="#FF2FB2" offset=".321"/>
+  <stop stop-color="#FF5E97" offset=".4942"/>
+  <stop stop-color="#FF8083" offset=".6478"/>
+  <stop stop-color="#FF9477" offset=".7743"/>
+  <stop stop-color="#FF9C73" offset=".858"/>
+  <stop stop-color="#F78F75" offset=".8769"/>
+  <stop stop-color="#E36D7B" offset=".9115"/>
+  <stop stop-color="#C33784" offset=".9579"/>
+  <stop stop-color="#A2008E" offset="1"/>
+ </linearGradient>
+ <polygon points="2360 1600 2400 1600 2380 800" fill="url(#mh)"/>
+ <linearGradient id="mi" x1="2440" x2="2480" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#AA8F6F" offset=".0676"/>
+  <stop stop-color="#D8C9B0" offset=".1325"/>
+  <stop stop-color="#F4ECD8" offset=".1795"/>
+  <stop stop-color="#FFFAE7" offset=".2037"/>
+  <stop stop-color="#D8C5B0" offset=".3413"/>
+  <stop stop-color="#AD8A72" offset=".5146"/>
+  <stop stop-color="#8A5A41" offset=".6731"/>
+  <stop stop-color="#71381E" offset=".8113"/>
+  <stop stop-color="#622408" offset=".9239"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2480 0 2440 0 2460 800" fill="url(#mi)"/>
+ <linearGradient id="mj" x1="2460" x2="2480" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#735E00" offset=".2716"/>
+  <stop stop-color="#796404" offset=".3416"/>
+  <stop stop-color="#897610" offset=".4376"/>
+  <stop stop-color="#A49323" offset=".5487"/>
+  <stop stop-color="#CABB3E" offset=".6709"/>
+  <stop stop-color="#F6EB5E" offset=".7932"/>
+  <stop stop-color="#C7B845" offset=".8368"/>
+  <stop stop-color="#8F7C27" offset=".893"/>
+  <stop stop-color="#675112" offset=".9409"/>
+  <stop stop-color="#4E3605" offset=".9781"/>
+  <stop stop-color="#452C00" offset="1"/>
+ </linearGradient>
+ <polygon points="2460 800 2480 1600 2480 0" fill="url(#mj)"/>
+ <linearGradient id="mk" x1="2440" x2="2460" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1A6633" offset=".0031"/>
+  <stop stop-color="#1F6C3B" offset=".0886"/>
+  <stop stop-color="#2E7D51" offset=".2205"/>
+  <stop stop-color="#469874" offset=".3824"/>
+  <stop stop-color="#68BEA5" offset=".5679"/>
+  <stop stop-color="#92EEE3" offset=".771"/>
+  <stop stop-color="#A2FFFA" offset=".8395"/>
+  <stop stop-color="#95F1EB" offset=".8633"/>
+  <stop stop-color="#73CCC3" offset=".9093"/>
+  <stop stop-color="#3E9182" offset=".9723"/>
+  <stop stop-color="#247564" offset="1"/>
+ </linearGradient>
+ <polygon points="2440 0 2440 1600 2460 800" fill="url(#mk)"/>
+ <linearGradient id="mm" x1="2440" x2="2480" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFB617" offset="0"/>
+  <stop stop-color="#F4AE16" offset=".0037"/>
+  <stop stop-color="#CB9211" offset=".0192"/>
+  <stop stop-color="#A5780D" offset=".0366"/>
+  <stop stop-color="#85620A" offset=".0556"/>
+  <stop stop-color="#694F07" offset=".0765"/>
+  <stop stop-color="#534004" offset=".1001"/>
+  <stop stop-color="#423402" offset=".1277"/>
+  <stop stop-color="#372C01" offset=".1619"/>
+  <stop stop-color="#302700" offset=".2097"/>
+  <stop stop-color="#2E2600" offset=".3426"/>
+  <stop stop-color="#332900" offset=".3439"/>
+  <stop stop-color="#403200" offset=".3454"/>
+  <stop stop-color="#574100" offset=".3469"/>
+  <stop stop-color="#750" offset=".3485"/>
+  <stop stop-color="#9F7000" offset=".3502"/>
+  <stop stop-color="#D08F00" offset=".3519"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="2440 1600 2480 1600 2460 800" fill="url(#mm)"/>
+ <linearGradient id="mn" x1="2300" x2="2320" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#AEFF73" offset=".0031"/>
+  <stop stop-color="#BAFF86" offset=".0403"/>
+  <stop stop-color="#D8FFB8" offset=".1156"/>
+  <stop stop-color="#F5FFE7" offset=".179"/>
+  <stop stop-color="#6AFF00" offset="1"/>
+ </linearGradient>
+ <polygon points="2300 800 2320 1600 2320 0" fill="url(#mn)"/>
+ <linearGradient id="mp" x1="2280" x2="2320" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#A2B9FF" offset=".0031"/>
+  <stop stop-color="#B5C8FF" offset=".1256"/>
+  <stop stop-color="#E7EDFF" offset=".3738"/>
+  <stop stop-color="#fff" offset=".4815"/>
+  <stop stop-color="#A2A4FF" offset="1"/>
+ </linearGradient>
+ <polygon points="2320 0 2280 0 2300 800" fill="url(#mp)"/>
+ <linearGradient id="mq" x1="2280" x2="2320" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A38D7B" offset="0"/>
+  <stop stop-color="#A18B79" offset=".1498"/>
+  <stop stop-color="#9C8470" offset=".2384"/>
+  <stop stop-color="#927862" offset=".3112"/>
+  <stop stop-color="#85674E" offset=".3753"/>
+  <stop stop-color="#745234" offset=".4331"/>
+  <stop stop-color="#603916" offset=".4846"/>
+  <stop stop-color="#643E1C" offset=".5712"/>
+  <stop stop-color="#6F4C2D" offset=".6862"/>
+  <stop stop-color="#816348" offset=".8171"/>
+  <stop stop-color="#9B836E" offset=".9589"/>
+  <stop stop-color="#A38D7B" offset="1"/>
+ </linearGradient>
+ <polygon points="2280 1600 2320 1600 2300 800" fill="url(#mq)"/>
+ <linearGradient id="mr" x1="2280" x2="2300" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#02002B" offset="0"/>
+  <stop stop-color="#0C0049" offset=".1409"/>
+  <stop stop-color="#250094" offset=".4444"/>
+  <stop stop-color="#4738E7" offset=".7407"/>
+  <stop stop-color="#3A27CB" offset=".8295"/>
+  <stop stop-color="#1E008C" offset="1"/>
+ </linearGradient>
+ <polygon points="2280 0 2280 1600 2300 800" fill="url(#mr)"/>
+ <linearGradient id="ms" x1="2520" x2="2560" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#8B0043" offset=".0031"/>
+  <stop stop-color="#971353" offset=".0366"/>
+  <stop stop-color="#B7467C" offset=".1051"/>
+  <stop stop-color="#E996BD" offset=".2013"/>
+  <stop stop-color="#FFB9D9" offset=".2407"/>
+  <stop stop-color="#FF4578" offset="1"/>
+ </linearGradient>
+ <polygon points="2560 0 2520 0 2540 800" fill="url(#ms)"/>
+ <linearGradient id="mt" x1="2520" x2="2540" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset=".1512"/>
+  <stop stop-color="#27746A" offset=".2291"/>
+  <stop stop-color="#2F727C" offset=".3361"/>
+  <stop stop-color="#3D6F99" offset=".4598"/>
+  <stop stop-color="#4F6AC1" offset=".5962"/>
+  <stop stop-color="#6764F5" offset=".7414"/>
+  <stop stop-color="#6C63FF" offset=".7685"/>
+  <stop stop-color="#6663F1" offset=".776"/>
+  <stop stop-color="#5162C5" offset=".8031"/>
+  <stop stop-color="#3E619F" offset=".8314"/>
+  <stop stop-color="#306180" offset=".8606"/>
+  <stop stop-color="#246167" offset=".8909"/>
+  <stop stop-color="#1C6056" offset=".9228"/>
+  <stop stop-color="#18604C" offset=".9575"/>
+  <stop stop-color="#166049" offset="1"/>
+ </linearGradient>
+ <polygon points="2520 0 2520 1600 2540 800" fill="url(#mt)"/>
+ <linearGradient id="mu" x1="2540" x2="2560" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450015" offset="0"/>
+  <stop stop-color="#4D0A1E" offset=".0351"/>
+  <stop stop-color="#642537" offset=".0945"/>
+  <stop stop-color="#885060" offset=".1712"/>
+  <stop stop-color="#BA8D98" offset=".2621"/>
+  <stop stop-color="#F6D4DA" offset=".358"/>
+  <stop stop-color="#F7CCD0" offset=".3703"/>
+  <stop stop-color="#FAADA8" offset=".4249"/>
+  <stop stop-color="#FD978B" offset=".4748"/>
+  <stop stop-color="#FE8979" offset=".518"/>
+  <stop stop-color="#FF8473" offset=".5494"/>
+  <stop stop-color="#FF8B8B" offset=".6574"/>
+  <stop stop-color="#2E0400" offset=".9938"/>
+ </linearGradient>
+ <polygon points="2540 800 2560 1600 2560 0" fill="url(#mu)"/>
+ <linearGradient id="mv" x1="2520" x2="2560" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#5E1A66" offset=".0031"/>
+  <stop stop-color="#66216B" offset=".061"/>
+  <stop stop-color="#7C337A" offset=".1503"/>
+  <stop stop-color="#9F5192" offset=".2598"/>
+  <stop stop-color="#D07AB2" offset=".3842"/>
+  <stop stop-color="#FFA2D2" offset=".4907"/>
+  <stop stop-color="#DC82B4" offset=".5867"/>
+  <stop stop-color="#A55083" offset=".7547"/>
+  <stop stop-color="#823065" offset=".88"/>
+  <stop stop-color="#75245A" offset=".9475"/>
+ </linearGradient>
+ <polygon points="2520 1600 2560 1600 2540 800" fill="url(#mv)"/>
+ <linearGradient id="mw" x1="2480" x2="2500" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#220073" offset="0"/>
+  <stop stop-color="#450E7A" offset=".0456"/>
+  <stop stop-color="#762383" offset=".1183"/>
+  <stop stop-color="#A0348B" offset=".1929"/>
+  <stop stop-color="#C24391" offset=".2682"/>
+  <stop stop-color="#DD4E97" offset=".3444"/>
+  <stop stop-color="#F0569A" offset=".422"/>
+  <stop stop-color="#FB5A9C" offset=".5016"/>
+  <stop stop-color="#FF5C9D" offset=".5864"/>
+  <stop stop-color="#FF5C7F" offset=".6389"/>
+  <stop stop-color="#D84A74" offset=".7001"/>
+  <stop stop-color="#621552" offset=".8888"/>
+  <stop stop-color="#330045" offset=".9722"/>
+ </linearGradient>
+ <polygon points="2480 0 2480 1600 2500 800" fill="url(#mw)"/>
+ <linearGradient id="mx" x1="2480" x2="2520" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0073" offset="0"/>
+  <stop stop-color="#411B8E" offset=".0178"/>
+  <stop stop-color="#6243B6" offset=".0487"/>
+  <stop stop-color="#7C62D6" offset=".0791"/>
+  <stop stop-color="#8F79ED" offset=".1084"/>
+  <stop stop-color="#9A86FA" offset=".1361"/>
+  <stop stop-color="#9E8BFF" offset=".1605"/>
+  <stop stop-color="#937FEF" offset=".1996"/>
+  <stop stop-color="#6F59BB" offset=".3348"/>
+  <stop stop-color="#523991" offset=".4679"/>
+  <stop stop-color="#3B2070" offset=".5963"/>
+  <stop stop-color="#2A0E58" offset=".7186"/>
+  <stop stop-color="#20044A" offset=".8323"/>
+  <stop stop-color="#1D0045" offset=".929"/>
+ </linearGradient>
+ <polygon points="2520 0 2480 0 2500 800" fill="url(#mx)"/>
+ <linearGradient id="my" x1="2500" x2="2520" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFD0EF" offset="0"/>
+  <stop stop-color="#ECBADA" offset=".032"/>
+  <stop stop-color="#C089AC" offset=".1124"/>
+  <stop stop-color="#9A5F84" offset=".1948"/>
+  <stop stop-color="#7B3D63" offset=".278"/>
+  <stop stop-color="#632249" offset=".3623"/>
+  <stop stop-color="#520F37" offset=".4479"/>
+  <stop stop-color="#48042D" offset=".5359"/>
+  <stop stop-color="#450029" offset=".6296"/>
+  <stop stop-color="#F7A2FF" offset="1"/>
+ </linearGradient>
+ <polygon points="2500 800 2520 1600 2520 0" fill="url(#my)"/>
+ <linearGradient id="na" x1="2480" x2="2520" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset=".1512"/>
+  <stop stop-color="#25726A" offset=".2308"/>
+  <stop stop-color="#276A7C" offset=".34"/>
+  <stop stop-color="#2A5D99" offset=".4664"/>
+  <stop stop-color="#2E4AC1" offset=".6058"/>
+  <stop stop-color="#3332F5" offset=".7541"/>
+  <stop stop-color="#3430FA" offset=".7685"/>
+  <stop stop-color="#3332F1" offset=".7734"/>
+  <stop stop-color="#2B3EC5" offset=".8008"/>
+  <stop stop-color="#25499F" offset=".8294"/>
+  <stop stop-color="#1F5180" offset=".8589"/>
+  <stop stop-color="#1B5867" offset=".8896"/>
+  <stop stop-color="#185C56" offset=".9219"/>
+  <stop stop-color="#175F4C" offset=".957"/>
+  <stop stop-color="#166049" offset="1"/>
+ </linearGradient>
+ <polygon points="2480 1600 2520 1600 2500 800" fill="url(#na)"/>
+ <linearGradient id="nb" x1="2340" x2="2360" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FFBB45" offset=".0031"/>
+  <stop stop-color="#FFBB58" offset=".1454"/>
+  <stop stop-color="#FFBD8A" offset=".4334"/>
+  <stop stop-color="#FFBEB9" offset=".6759"/>
+  <stop stop-color="#FF972E" offset="1"/>
+ </linearGradient>
+ <polygon points="2340 800 2360 1600 2360 0" fill="url(#nb)"/>
+ <linearGradient id="nc" x1="2320" x2="2340" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A38D7B" offset="0"/>
+  <stop stop-color="#927963" offset=".0656"/>
+  <stop stop-color="#745738" offset=".1963"/>
+  <stop stop-color="#5E3E1A" offset=".3144"/>
+  <stop stop-color="#512E07" offset=".4145"/>
+  <stop stop-color="#4C2900" offset=".4846"/>
+  <stop stop-color="#502E06" offset=".5611"/>
+  <stop stop-color="#5C3B17" offset=".6627"/>
+  <stop stop-color="#705232" offset=".7784"/>
+  <stop stop-color="#8B7159" offset=".9037"/>
+  <stop stop-color="#A38D7B" offset="1"/>
+ </linearGradient>
+ <polygon points="2320 0 2320 1600 2340 800" fill="url(#nc)"/>
+ <linearGradient id="nd" x1="2320" x2="2360" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#3CA200" offset="0"/>
+  <stop stop-color="#47BA0C" offset=".0465"/>
+  <stop stop-color="#5DEC24" offset=".1538"/>
+  <stop stop-color="#66FF2E" offset=".2068"/>
+  <stop stop-color="#76FF43" offset=".2068"/>
+  <stop stop-color="#A1FF78" offset=".2068"/>
+  <stop stop-color="#B0FF8B" offset=".2068"/>
+  <stop stop-color="#004505" offset="1"/>
+ </linearGradient>
+ <polygon points="2360 0 2320 0 2340 800" fill="url(#nd)"/>
+ <linearGradient id="ne" x1="2320" x2="2360" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#750000" offset="0"/>
+  <stop stop-color="#99000C" offset=".233"/>
+  <stop stop-color="#B90016" offset=".466"/>
+  <stop stop-color="#FC1700" offset=".7654"/>
+  <stop stop-color="#F61502" offset=".7716"/>
+  <stop stop-color="#4D0000" offset="1"/>
+ </linearGradient>
+ <polygon points="2320 1600 2360 1600 2340 800" fill="url(#ne)"/>
+ <linearGradient id="nf" x1="2400" x2="2440" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#252E00" offset=".0031"/>
+  <stop stop-color="#334104" offset=".0666"/>
+  <stop stop-color="#57740F" offset=".1961"/>
+  <stop stop-color="#91C421" offset=".3783"/>
+  <stop stop-color="#BCFF2E" offset=".5031"/>
+  <stop stop-color="#404515" offset="1"/>
+ </linearGradient>
+ <polygon points="2440 0 2400 0 2420 800" fill="url(#nf)"/>
+ <linearGradient id="ng" x1="2400" x2="2440" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#957121" offset=".0406"/>
+  <stop stop-color="#CEB21C" offset=".118"/>
+  <stop stop-color="#F1DA18" offset=".1745"/>
+  <stop stop-color="#FFE917" offset=".2037"/>
+  <stop stop-color="#E8CC14" offset=".2837"/>
+  <stop stop-color="#B78E0D" offset=".4723"/>
+  <stop stop-color="#905D07" offset=".6446"/>
+  <stop stop-color="#733A03" offset=".795"/>
+  <stop stop-color="#622401" offset=".9175"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="2400 1600 2440 1600 2420 800" fill="url(#ng)"/>
+ <linearGradient id="nh" x1="2420" x2="2440" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#8CFF00" offset=".0031"/>
+  <stop stop-color="#A6FF3D" offset=".1783"/>
+  <stop stop-color="#DAFFB9" offset=".5062"/>
+  <stop stop-color="#D3FFA8" offset=".5718"/>
+  <stop stop-color="#BFFF7A" offset=".7028"/>
+  <stop stop-color="#A1FF31" offset=".8849"/>
+  <stop stop-color="#8CFF00" offset="1"/>
+ </linearGradient>
+ <polygon points="2420 800 2440 1600 2440 0" fill="url(#nh)"/>
+ <linearGradient id="ni" x1="2400" x2="2420" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E2600" offset="0"/>
+  <stop stop-color="#504904" offset=".0975"/>
+  <stop stop-color="#A5A20D" offset=".3119"/>
+  <stop stop-color="#FFFF17" offset=".5247"/>
+  <stop stop-color="#DFDA11" offset=".6522"/>
+  <stop stop-color="#8B7A00" offset="1"/>
+ </linearGradient>
+ <polygon points="2400 0 2400 1600 2420 800" fill="url(#ni)"/>
+ <linearGradient id="nj" x1="1920" x2="1940" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1E4D00" offset="0"/>
+  <stop stop-color="#39F602" offset=".2284"/>
+  <stop stop-color="#32FB00" offset=".2341"/>
+  <stop stop-color="#31FC00" offset=".2346"/>
+  <stop stop-color="#5BB900" offset=".534"/>
+  <stop stop-color="#469900" offset=".767"/>
+  <stop stop-color="#2E7500" offset="1"/>
+ </linearGradient>
+ <polygon points="1920 0 1920 1600 1940 800" fill="url(#nj)"/>
+ <linearGradient id="nl" x1="1920" x2="1960" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#3B8787" offset=".0397"/>
+  <stop stop-color="#66A9C8" offset=".1175"/>
+  <stop stop-color="#81BEF0" offset=".1743"/>
+  <stop stop-color="#8BC6FF" offset=".2037"/>
+  <stop stop-color="#6AADC8" offset=".3413"/>
+  <stop stop-color="#45908A" offset=".5146"/>
+  <stop stop-color="#277A59" offset=".6731"/>
+  <stop stop-color="#126A36" offset=".8113"/>
+  <stop stop-color="#056020" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1920 1600 1960 1600 1940 800" fill="url(#nl)"/>
+ <linearGradient id="nn" x1="1920" x2="1960" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#3B2600" offset=".00070722"/>
+  <stop stop-color="#211500" offset=".0019"/>
+  <stop offset=".0031"/>
+  <stop stop-color="#202F08" offset=".0548"/>
+  <stop stop-color="#4A6D14" offset=".1305"/>
+  <stop stop-color="#6DA11D" offset=".2031"/>
+  <stop stop-color="#88CA24" offset=".2705"/>
+  <stop stop-color="#9CE72A" offset=".3316"/>
+  <stop stop-color="#A8F92D" offset=".3844"/>
+  <stop stop-color="#ACFF2E" offset=".4228"/>
+  <stop stop-color="#C8FFB9" offset=".7407"/>
+  <stop stop-color="#C5FBB4" offset=".7738"/>
+  <stop stop-color="#BBEFA7" offset=".8112"/>
+  <stop stop-color="#ABDB90" offset=".8507"/>
+  <stop stop-color="#95BF70" offset=".8918"/>
+  <stop stop-color="#789B47" offset=".9341"/>
+  <stop stop-color="#556F16" offset=".9767"/>
+  <stop stop-color="#465C00" offset=".9938"/>
+ </linearGradient>
+ <polygon points="1960 0 1920 0 1940 800" fill="url(#nn)"/>
+ <linearGradient id="no" x1="1940" x2="1960" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#000A73" offset="0"/>
+  <stop stop-color="#163FA0" offset=".1939"/>
+  <stop stop-color="#2A6FC9" offset=".3962"/>
+  <stop stop-color="#3993E6" offset=".5745"/>
+  <stop stop-color="#42A8F8" offset=".7201"/>
+  <stop stop-color="#45B0FF" offset=".8148"/>
+  <stop stop-color="#368EF5" offset=".8523"/>
+  <stop stop-color="#0F35DA" offset=".9539"/>
+  <stop stop-color="#0012D0" offset="1"/>
+ </linearGradient>
+ <polygon points="1940 800 1960 1600 1960 0" fill="url(#no)"/>
+ <linearGradient id="np" x1="1560" x2="1600" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4D7300" offset="0"/>
+  <stop stop-color="#4E7D0D" offset=".0209"/>
+  <stop stop-color="#52A53E" offset=".1074"/>
+  <stop stop-color="#56C567" offset=".1932"/>
+  <stop stop-color="#59DE87" offset=".2766"/>
+  <stop stop-color="#5AF09E" offset=".357"/>
+  <stop stop-color="#5CFBAB" offset=".433"/>
+  <stop stop-color="#5CFFB0" offset=".5"/>
+  <stop stop-color="#58EFA1" offset=".5218"/>
+  <stop stop-color="#4ABB70" offset=".5973"/>
+  <stop stop-color="#3E9148" offset=".6716"/>
+  <stop stop-color="#367029" offset=".7433"/>
+  <stop stop-color="#2F5812" offset=".8115"/>
+  <stop stop-color="#2B4A05" offset=".875"/>
+  <stop stop-color="#2A4500" offset=".929"/>
+ </linearGradient>
+ <polygon points="1560 1600 1600 1600 1580 800" fill="url(#np)"/>
+ <linearGradient id="nq" x1="1560" x2="1600" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FFBB45" offset=".0031"/>
+  <stop stop-color="#FFBB58" offset=".1454"/>
+  <stop stop-color="#FFBD8A" offset=".4334"/>
+  <stop stop-color="#FFBEB9" offset=".6759"/>
+  <stop stop-color="#FF972E" offset="1"/>
+ </linearGradient>
+ <polygon points="1600 0 1560 0 1580 800" fill="url(#nq)"/>
+ <linearGradient id="nr" x1="1560" x2="1580" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#7845FF" offset=".0031"/>
+  <stop stop-color="#7F58FF" offset=".1048"/>
+  <stop stop-color="#938BFF" offset=".312"/>
+  <stop stop-color="#B1DBFF" offset=".604"/>
+  <stop stop-color="#B9F0FF" offset=".6759"/>
+  <stop stop-color="#3B2EFF" offset="1"/>
+ </linearGradient>
+ <polygon points="1560 0 1560 1600 1580 800" fill="url(#nr)"/>
+ <linearGradient id="ns" x1="1580" x2="1600" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#45FFC4" offset=".0031"/>
+  <stop stop-color="#58FFC3" offset=".1108"/>
+  <stop stop-color="#8BFFBF" offset=".3303"/>
+  <stop stop-color="#DBFFBA" offset=".6396"/>
+  <stop stop-color="#E5FFB9" offset=".6759"/>
+  <stop stop-color="#00B9A6" offset="1"/>
+ </linearGradient>
+ <polygon points="1580 800 1600 1600 1600 0" fill="url(#ns)"/>
+ <linearGradient id="nt" x1="1480" x2="1520" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFB52E" offset="0"/>
+  <stop stop-color="#CE9020" offset=".0798"/>
+  <stop stop-color="#A57215" offset=".1588"/>
+  <stop stop-color="#855A0C" offset=".2356"/>
+  <stop stop-color="#6E4A05" offset=".3096"/>
+  <stop stop-color="#613F01" offset=".3796"/>
+  <stop stop-color="#5C3C00" offset=".4414"/>
+  <stop stop-color="#FFA52E" offset=".4537"/>
+  <stop stop-color="#D78C1E" offset=".5407"/>
+  <stop stop-color="#B67711" offset=".6277"/>
+  <stop stop-color="#9E6808" offset=".7112"/>
+  <stop stop-color="#905F02" offset=".7889"/>
+  <stop stop-color="#8B5C00" offset=".8549"/>
+ </linearGradient>
+ <polygon points="1520 0 1480 0 1500 800" fill="url(#nt)"/>
+ <linearGradient id="nu" x1="1480" x2="1520" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0073" offset="0"/>
+  <stop stop-color="#411B8E" offset=".0178"/>
+  <stop stop-color="#6243B6" offset=".0487"/>
+  <stop stop-color="#7C62D6" offset=".0791"/>
+  <stop stop-color="#8F79ED" offset=".1084"/>
+  <stop stop-color="#9A86FA" offset=".1361"/>
+  <stop stop-color="#9E8BFF" offset=".1605"/>
+  <stop stop-color="#937FEF" offset=".1996"/>
+  <stop stop-color="#6F59BB" offset=".3348"/>
+  <stop stop-color="#523991" offset=".4679"/>
+  <stop stop-color="#3B2070" offset=".5963"/>
+  <stop stop-color="#2A0E58" offset=".7186"/>
+  <stop stop-color="#20044A" offset=".8323"/>
+  <stop stop-color="#1D0045" offset=".929"/>
+ </linearGradient>
+ <polygon points="1480 1600 1520 1600 1500 800" fill="url(#nu)"/>
+ <linearGradient id="nv" x1="1500" x2="1520" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450041" offset="0"/>
+  <stop stop-color="#873269" offset=".2496"/>
+  <stop stop-color="#C86290" offset=".5148"/>
+  <stop stop-color="#F080A8" offset=".7085"/>
+  <stop stop-color="#FF8BB1" offset=".8086"/>
+  <stop stop-color="#EF81A8" offset=".8196"/>
+  <stop stop-color="#B15A83" offset=".8665"/>
+  <stop stop-color="#803A66" offset=".9093"/>
+  <stop stop-color="#5D2451" offset=".9467"/>
+  <stop stop-color="#471645" offset=".9772"/>
+  <stop stop-color="#3F1140" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1500 800 1520 1600 1520 0" fill="url(#nv)"/>
+ <linearGradient id="ny" x1="1480" x2="1500" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#247564" offset="0"/>
+  <stop stop-color="#3E9182" offset=".0277"/>
+  <stop stop-color="#73CCC3" offset=".0907"/>
+  <stop stop-color="#95F1EB" offset=".1367"/>
+  <stop stop-color="#A2FFFA" offset=".1605"/>
+  <stop stop-color="#7EDBC8" offset=".2949"/>
+  <stop stop-color="#52AE8A" offset=".4804"/>
+  <stop stop-color="#2F8B59" offset=".6501"/>
+  <stop stop-color="#157136" offset=".7982"/>
+  <stop stop-color="#066220" offset=".9188"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1480 0 1480 1600 1500 800" fill="url(#ny)"/>
+ <linearGradient id="nz" x1="1520" x2="1540" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E0029" offset="0"/>
+  <stop stop-color="#73003A" offset=".1265"/>
+  <stop stop-color="#D07659" offset=".3198"/>
+  <stop stop-color="#FFB78A" offset=".3333"/>
+  <stop stop-color="#FF7F5C" offset=".6111"/>
+  <stop stop-color="#A62133" offset=".8827"/>
+  <stop stop-color="#5C0044" offset="1"/>
+  <stop stop-color="#721629" offset="1"/>
+ </linearGradient>
+ <polygon points="1520 0 1520 1600 1540 800" fill="url(#nz)"/>
+ <linearGradient id="oa" x1="1540" x2="1560" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#730000" offset="0"/>
+  <stop stop-color="#780800" offset=".0177"/>
+  <stop stop-color="#933200" offset=".1141"/>
+  <stop stop-color="#A95400" offset=".2127"/>
+  <stop stop-color="#BA6F00" offset=".3126"/>
+  <stop stop-color="#C68200" offset=".4142"/>
+  <stop stop-color="#CE8D00" offset=".5184"/>
+  <stop stop-color="#D09100" offset=".6296"/>
+  <stop stop-color="#FFD417" offset=".6389"/>
+  <stop stop-color="#FF9C24" offset=".8283"/>
+  <stop stop-color="#FF6D2E" offset="1"/>
+ </linearGradient>
+ <polygon points="1540 800 1560 1600 1560 0" fill="url(#oa)"/>
+ <linearGradient id="ob" x1="1520" x2="1560" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#451B00" offset="0"/>
+  <stop stop-color="#542E0F" offset=".0567"/>
+  <stop stop-color="#988657" offset=".3343"/>
+  <stop stop-color="#C9C78C" offset=".5605"/>
+  <stop stop-color="#E8F0AD" offset=".7241"/>
+  <stop stop-color="#F4FFB9" offset=".8086"/>
+  <stop stop-color="#D0D297" offset=".8364"/>
+  <stop stop-color="#9D9468" offset=".8788"/>
+  <stop stop-color="#756342" offset=".9176"/>
+  <stop stop-color="#584027" offset=".9515"/>
+  <stop stop-color="#462A17" offset=".979"/>
+  <stop stop-color="#402211" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1520 1600 1560 1600 1540 800" fill="url(#ob)"/>
+ <linearGradient id="oc" x1="1520" x2="1560" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#FF002E" offset=".0031"/>
+  <stop stop-color="#FF3D5E" offset=".1783"/>
+  <stop stop-color="#FFB9BF" offset=".5062"/>
+  <stop stop-color="#FFA8B1" offset=".5718"/>
+  <stop stop-color="#FF7A8E" offset=".7028"/>
+  <stop stop-color="#FF3155" offset=".8849"/>
+  <stop stop-color="#FF002E" offset="1"/>
+ </linearGradient>
+ <polygon points="1560 0 1520 0 1540 800" fill="url(#oc)"/>
+ <linearGradient id="od" x1="1280" x2="1320" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#02002B" offset="0"/>
+  <stop stop-color="#0C0049" offset=".1409"/>
+  <stop stop-color="#250094" offset=".4444"/>
+  <stop stop-color="#4738E7" offset=".7407"/>
+  <stop stop-color="#3A27CB" offset=".8295"/>
+  <stop stop-color="#1E008C" offset="1"/>
+ </linearGradient>
+ <polygon points="1320 0 1280 0 1300 800" fill="url(#od)"/>
+ <linearGradient id="oe" x1="1280" x2="1320" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#73576F" offset="0"/>
+  <stop stop-color="#543042" offset=".1345"/>
+  <stop stop-color="#390D1A" offset=".2714"/>
+  <stop stop-color="#2E000B" offset=".3426"/>
+  <stop stop-color="#461F2E" offset=".4828"/>
+  <stop stop-color="#5F3D52" offset=".6476"/>
+  <stop stop-color="#6E5067" offset=".7827"/>
+  <stop stop-color="#73576F" offset=".8704"/>
+ </linearGradient>
+ <polygon points="1280 1600 1320 1600 1300 800" fill="url(#oe)"/>
+ <linearGradient id="of" x1="1280" x2="1300" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2D7300" offset="0"/>
+  <stop stop-color="#31750B" offset=".0132"/>
+  <stop stop-color="#467C44" offset=".0854"/>
+  <stop stop-color="#588376" offset=".1598"/>
+  <stop stop-color="#6889A0" offset=".2347"/>
+  <stop stop-color="#758EC2" offset=".3104"/>
+  <stop stop-color="#7E91DD" offset=".3869"/>
+  <stop stop-color="#8594F0" offset=".4647"/>
+  <stop stop-color="#8A95FB" offset=".5445"/>
+  <stop stop-color="#8B96FF" offset=".6296"/>
+  <stop stop-color="#8B9DFF" offset=".6574"/>
+  <stop stop-color="#72D0EF" offset=".8293"/>
+  <stop stop-color="#5CFFE0" offset="1"/>
+ </linearGradient>
+ <polygon points="1280 0 1280 1600 1300 800" fill="url(#of)"/>
+ <linearGradient id="og" x1="1300" x2="1320" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#f00" offset="0"/>
+  <stop stop-color="#FF3637" offset=".0564"/>
+  <stop stop-color="#FF7C80" offset=".1361"/>
+  <stop stop-color="#FFA8AE" offset=".1935"/>
+  <stop stop-color="#FFB9BF" offset=".2222"/>
+  <stop stop-color="#FF6670" offset=".6274"/>
+  <stop stop-color="#FF4550" offset=".8148"/>
+  <stop stop-color="#FF343D" offset=".8568"/>
+  <stop stop-color="#f00" offset=".9969"/>
+  <stop stop-color="#5C9CFF" offset="1"/>
+  <stop stop-color="#8BBCFF" offset="1"/>
+ </linearGradient>
+ <polygon points="1300 800 1320 1600 1320 0" fill="url(#og)"/>
+ <linearGradient id="oh" x1="1460" x2="1480" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A06B4D" offset="0"/>
+  <stop stop-color="#8D5E3F" offset=".1665"/>
+  <stop stop-color="#654421" offset=".5586"/>
+  <stop stop-color="#563A16" offset=".7623"/>
+  <stop stop-color="#5F401D" offset=".7731"/>
+  <stop stop-color="#835737" offset=".8184"/>
+  <stop stop-color="#986647" offset=".8555"/>
+  <stop stop-color="#A06B4D" offset=".8796"/>
+ </linearGradient>
+ <polygon points="1460 800 1480 1600 1480 0" fill="url(#oh)"/>
+ <linearGradient id="oj" x1="1440" x2="1460" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1A6633" offset=".0031"/>
+  <stop stop-color="#1F6C3B" offset=".0529"/>
+  <stop stop-color="#2E7D51" offset=".1299"/>
+  <stop stop-color="#469874" offset=".2242"/>
+  <stop stop-color="#68BEA5" offset=".3324"/>
+  <stop stop-color="#92EEE3" offset=".4508"/>
+  <stop stop-color="#A2FFFA" offset=".4907"/>
+  <stop stop-color="#7BD4CB" offset=".6103"/>
+  <stop stop-color="#4CA194" offset=".7673"/>
+  <stop stop-color="#2F8171" offset=".8844"/>
+  <stop stop-color="#247564" offset=".9475"/>
+ </linearGradient>
+ <polygon points="1440 0 1440 1600 1460 800" fill="url(#oj)"/>
+ <linearGradient id="ok" x1="1440" x2="1480" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#002E08" offset="0"/>
+  <stop stop-color="#023308" offset=".0745"/>
+  <stop stop-color="#064007" offset=".159"/>
+  <stop stop-color="#0E5706" offset=".2483"/>
+  <stop stop-color="#197704" offset=".341"/>
+  <stop stop-color="#279F02" offset=".4359"/>
+  <stop stop-color="#38D000" offset=".5309"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="1440 1600 1480 1600 1460 800" fill="url(#ok)"/>
+ <linearGradient id="ol" x1="1440" x2="1480" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A38D7B" offset="0"/>
+  <stop stop-color="#8F7861" offset=".1843"/>
+  <stop stop-color="#563A16" offset=".7469"/>
+  <stop stop-color="#5B3F1C" offset=".7552"/>
+  <stop stop-color="#674D2D" offset=".7662"/>
+  <stop stop-color="#7C6348" offset=".7788"/>
+  <stop stop-color="#99836E" offset=".7924"/>
+  <stop stop-color="#A38D7B" offset=".7963"/>
+ </linearGradient>
+ <polygon points="1480 0 1440 0 1460 800" fill="url(#ol)"/>
+ <linearGradient id="om" x1="1320" x2="1360" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#75245A" offset=".1512"/>
+  <stop stop-color="#7B295A" offset=".2352"/>
+  <stop stop-color="#8D375C" offset=".3504"/>
+  <stop stop-color="#AA4F5D" offset=".4838"/>
+  <stop stop-color="#D26F60" offset=".6296"/>
+  <stop stop-color="#FF9463" offset=".7685"/>
+  <stop stop-color="#DB785E" offset=".7921"/>
+  <stop stop-color="#B65A59" offset=".8216"/>
+  <stop stop-color="#974155" offset=".8524"/>
+  <stop stop-color="#7E2E52" offset=".8845"/>
+  <stop stop-color="#6D2150" offset=".9183"/>
+  <stop stop-color="#63194E" offset=".955"/>
+  <stop stop-color="#60164E" offset="1"/>
+ </linearGradient>
+ <polygon points="1360 0 1320 0 1340 800" fill="url(#om)"/>
+ <linearGradient id="oo" x1="1320" x2="1340" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1D0045" offset=".1512"/>
+  <stop stop-color="#20014A" offset=".2332"/>
+  <stop stop-color="#280558" offset=".3296"/>
+  <stop stop-color="#350B70" offset=".4332"/>
+  <stop stop-color="#481391" offset=".542"/>
+  <stop stop-color="#601DBB" offset=".6548"/>
+  <stop stop-color="#7D2AEF" offset=".7693"/>
+  <stop stop-color="#862EFF" offset=".8025"/>
+  <stop stop-color="#35005C" offset=".8117"/>
+  <stop stop-color="#370061" offset=".8538"/>
+  <stop stop-color="#3C006E" offset=".9014"/>
+  <stop stop-color="#440085" offset=".9515"/>
+  <stop stop-color="#4E00A2" offset="1"/>
+ </linearGradient>
+ <polygon points="1320 0 1320 1600 1340 800" fill="url(#oo)"/>
+ <linearGradient id="op" x1="1320" x2="1360" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2B0013" offset="0"/>
+  <stop stop-color="#490011" offset=".1409"/>
+  <stop stop-color="#94000D" offset=".4444"/>
+  <stop stop-color="#E73878" offset=".7407"/>
+  <stop stop-color="#CD285C" offset=".823"/>
+  <stop stop-color="#8C0015" offset="1"/>
+ </linearGradient>
+ <polygon points="1320 1600 1360 1600 1340 800" fill="url(#op)"/>
+ <linearGradient id="oq" x1="1340" x2="1360" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFE8D0" offset="0"/>
+  <stop stop-color="#F5D6BA" offset=".0136"/>
+  <stop stop-color="#DFAF89" offset=".0479"/>
+  <stop stop-color="#CD8C5F" offset=".0831"/>
+  <stop stop-color="#BD703D" offset=".1186"/>
+  <stop stop-color="#B15B22" offset=".1545"/>
+  <stop stop-color="#A94B0F" offset=".191"/>
+  <stop stop-color="#A44204" offset=".2285"/>
+  <stop stop-color="#A23F00" offset=".2685"/>
+  <stop stop-color="#FFE3B9" offset=".2932"/>
+  <stop stop-color="#FF7217" offset="1"/>
+ </linearGradient>
+ <polygon points="1340 800 1360 1600 1360 0" fill="url(#oq)"/>
+ <linearGradient id="or" x1="1360" x2="1400" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4A00E7" offset="0"/>
+  <stop stop-color="#4600CD" offset=".0474"/>
+  <stop stop-color="#4000A5" offset=".1328"/>
+  <stop stop-color="#3B0085" offset=".2167"/>
+  <stop stop-color="#38006E" offset=".2975"/>
+  <stop stop-color="#360061" offset=".3739"/>
+  <stop stop-color="#35005C" offset=".4414"/>
+  <stop stop-color="#862EFF" offset=".4537"/>
+  <stop stop-color="#7727E9" offset=".498"/>
+  <stop stop-color="#5919BF" offset=".5938"/>
+  <stop stop-color="#420E9E" offset=".6871"/>
+  <stop stop-color="#310686" offset=".776"/>
+  <stop stop-color="#270278" offset=".8587"/>
+  <stop stop-color="#240073" offset=".929"/>
+ </linearGradient>
+ <polygon points="1360 1600 1400 1600 1380 800" fill="url(#or)"/>
+ <linearGradient id="os" x1="1360" x2="1400" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#005F73" offset=".1265"/>
+  <stop stop-color="#015D76" offset=".2004"/>
+  <stop stop-color="#045981" offset=".2635"/>
+  <stop stop-color="#0A5193" offset=".3226"/>
+  <stop stop-color="#1146AB" offset=".3793"/>
+  <stop stop-color="#1B37CB" offset=".4343"/>
+  <stop stop-color="#2726F2" offset=".4873"/>
+  <stop stop-color="#2922FA" offset=".4969"/>
+  <stop stop-color="#222BE0" offset=".5216"/>
+  <stop stop-color="#1936BD" offset=".5605"/>
+  <stop stop-color="#11409E" offset=".6034"/>
+  <stop stop-color="#0B4786" offset=".6503"/>
+  <stop stop-color="#064E73" offset=".7029"/>
+  <stop stop-color="#035266" offset=".7646"/>
+  <stop stop-color="#01545E" offset=".8435"/>
+  <stop stop-color="#00555C" offset="1"/>
+ </linearGradient>
+ <polygon points="1400 0 1360 0 1380 800" fill="url(#os)"/>
+ <linearGradient id="ot" x1="1360" x2="1380" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#02008B" offset=".0031"/>
+  <stop stop-color="#151397" offset=".0737"/>
+  <stop stop-color="#4846B7" offset=".2176"/>
+  <stop stop-color="#9896E9" offset=".4202"/>
+  <stop stop-color="#BBB9FF" offset=".5031"/>
+  <stop stop-color="#0012A2" offset="1"/>
+ </linearGradient>
+ <polygon points="1360 0 1360 1600 1380 800" fill="url(#ot)"/>
+ <linearGradient id="ov" x1="1380" x2="1400" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#00FF75" offset=".4938"/>
+  <stop stop-color="#13FF6E" offset=".5528"/>
+  <stop stop-color="#46FF5D" offset=".673"/>
+  <stop stop-color="#8AFF45" offset=".8179"/>
+  <stop stop-color="#3CA200" offset="1"/>
+ </linearGradient>
+ <polygon points="1380 800 1400 1600 1400 0" fill="url(#ov)"/>
+ <linearGradient id="ow" x1="1400" x2="1440" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#02002B" offset="0"/>
+  <stop stop-color="#20003F" offset=".1106"/>
+  <stop stop-color="#6B0070" offset=".35"/>
+  <stop stop-color="#8B0085" offset=".4444"/>
+  <stop stop-color="#CE2EFF" offset=".7407"/>
+  <stop stop-color="#B727E3" offset=".7873"/>
+  <stop stop-color="#7B159B" offset=".8879"/>
+  <stop stop-color="#330045" offset="1"/>
+ </linearGradient>
+ <polygon points="1400 1600 1440 1600 1420 800" fill="url(#ow)"/>
+ <linearGradient id="ox" x1="1400" x2="1420" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#450041" offset="0"/>
+  <stop stop-color="#4C0845" offset=".0063"/>
+  <stop stop-color="#986176" offset=".0792"/>
+  <stop stop-color="#CFA19A" offset=".1386"/>
+  <stop stop-color="#F2CAB1" offset=".1815"/>
+  <stop stop-color="#FFD9B9" offset=".2037"/>
+  <stop stop-color="#DEB0A8" offset=".3119"/>
+  <stop stop-color="#AB728D" offset=".493"/>
+  <stop stop-color="#824178" offset=".6585"/>
+  <stop stop-color="#651E69" offset=".803"/>
+  <stop stop-color="#53085F" offset=".9207"/>
+  <stop stop-color="#4D005C" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1400 0 1400 1600 1420 800" fill="url(#ox)"/>
+ <linearGradient id="oy" x1="1420" x2="1440" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#735E00" offset=".2716"/>
+  <stop stop-color="#796404" offset=".3416"/>
+  <stop stop-color="#897610" offset=".4376"/>
+  <stop stop-color="#A49323" offset=".5487"/>
+  <stop stop-color="#CABB3E" offset=".6709"/>
+  <stop stop-color="#F6EB5E" offset=".7932"/>
+  <stop stop-color="#C7B845" offset=".8368"/>
+  <stop stop-color="#8F7C27" offset=".893"/>
+  <stop stop-color="#675112" offset=".9409"/>
+  <stop stop-color="#4E3605" offset=".9781"/>
+  <stop stop-color="#452C00" offset="1"/>
+ </linearGradient>
+ <polygon points="1420 800 1440 1600 1440 0" fill="url(#oy)"/>
+ <linearGradient id="oz" x1="1400" x2="1440" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#274016" offset=".0056"/>
+  <stop stop-color="#2D6B5D" offset=".0843"/>
+  <stop stop-color="#558FA5" offset=".382"/>
+  <stop stop-color="#B5DBE5" offset=".5618"/>
+  <stop stop-color="#59988E" offset=".7973"/>
+  <stop stop-color="#57968C" offset=".8034"/>
+  <stop stop-color="#2F8157" offset=".9551"/>
+ </linearGradient>
+ <polygon points="1440 0 1400 0 1420 800" fill="url(#oz)"/>
+ <linearGradient id="pa" x1="1760" x2="1780" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2D7300" offset="0"/>
+  <stop stop-color="#287416" offset=".032"/>
+  <stop stop-color="#1E7747" offset=".1124"/>
+  <stop stop-color="#157971" offset=".1948"/>
+  <stop stop-color="#0D7B93" offset=".278"/>
+  <stop stop-color="#077CAE" offset=".3623"/>
+  <stop stop-color="#037DC1" offset=".4479"/>
+  <stop stop-color="#017ECC" offset=".5359"/>
+  <stop stop-color="#007ED0" offset=".6296"/>
+  <stop stop-color="#1749FF" offset=".6389"/>
+  <stop stop-color="#195AF0" offset=".6717"/>
+  <stop stop-color="#28D08C" offset=".8994"/>
+  <stop stop-color="#2EFF64" offset="1"/>
+ </linearGradient>
+ <polygon points="1760 0 1760 1600 1780 800" fill="url(#pa)"/>
+ <linearGradient id="pb" x1="1760" x2="1800" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#8B0043" offset=".0031"/>
+  <stop stop-color="#971353" offset=".1129"/>
+  <stop stop-color="#B7467C" offset=".3368"/>
+  <stop stop-color="#E996BD" offset=".6519"/>
+  <stop stop-color="#FFB9D9" offset=".7809"/>
+  <stop stop-color="#FF4578" offset="1"/>
+ </linearGradient>
+ <polygon points="1800 0 1760 0 1780 800" fill="url(#pb)"/>
+ <linearGradient id="pc" x1="1760" x2="1800" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFE8D0" offset="0"/>
+  <stop stop-color="#F5D6BA" offset=".0136"/>
+  <stop stop-color="#DFAF89" offset=".0479"/>
+  <stop stop-color="#CD8C5F" offset=".0831"/>
+  <stop stop-color="#BD703D" offset=".1186"/>
+  <stop stop-color="#B15B22" offset=".1545"/>
+  <stop stop-color="#A94B0F" offset=".191"/>
+  <stop stop-color="#A44204" offset=".2285"/>
+  <stop stop-color="#A23F00" offset=".2685"/>
+  <stop stop-color="#FFE3B9" offset=".2932"/>
+  <stop stop-color="#FF7217" offset="1"/>
+ </linearGradient>
+ <polygon points="1760 1600 1800 1600 1780 800" fill="url(#pc)"/>
+ <linearGradient id="pd" x1="1780" x2="1800" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B717FF" offset="0"/>
+  <stop stop-color="#780C9B" offset=".1077"/>
+  <stop stop-color="#2E0026" offset=".2284"/>
+  <stop stop-color="#31002B" offset=".3339"/>
+  <stop stop-color="#390038" offset=".4534"/>
+  <stop stop-color="#46004F" offset=".5798"/>
+  <stop stop-color="#58006F" offset=".711"/>
+  <stop stop-color="#700098" offset=".846"/>
+  <stop stop-color="#8D00C9" offset=".9821"/>
+  <stop stop-color="#9100D0" offset="1"/>
+ </linearGradient>
+ <polygon points="1780 800 1800 1600 1800 0" fill="url(#pd)"/>
+ <linearGradient id="pe" x1="1800" x2="1820" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#FFE78B" offset=".0031"/>
+  <stop stop-color="#F8EB78" offset=".1088"/>
+  <stop stop-color="#E5F546" offset=".3229"/>
+  <stop stop-color="#D4FF17" offset=".5031"/>
+  <stop stop-color="#735C03" offset="1"/>
+ </linearGradient>
+ <polygon points="1800 0 1800 1600 1820 800" fill="url(#pe)"/>
+ <linearGradient id="pg" x1="1800" x2="1840" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#220073" offset="0"/>
+  <stop stop-color="#451A77" offset=".0489"/>
+  <stop stop-color="#763E7C" offset=".127"/>
+  <stop stop-color="#A05D81" offset=".2071"/>
+  <stop stop-color="#C27684" offset=".288"/>
+  <stop stop-color="#DD8A87" offset=".3698"/>
+  <stop stop-color="#F09889" offset=".4531"/>
+  <stop stop-color="#FBA08B" offset=".5385"/>
+  <stop stop-color="#FFA38B" offset=".6296"/>
+  <stop stop-color="#FF9E8B" offset=".6574"/>
+  <stop stop-color="#FF8B9C" offset=".7535"/>
+  <stop stop-color="#FF5CC5" offset="1"/>
+ </linearGradient>
+ <polygon points="1800 1600 1840 1600 1820 800" fill="url(#pg)"/>
+ <linearGradient id="ph" x1="1820" x2="1840" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#271719" offset="0"/>
+  <stop stop-color="#271719" offset=".053"/>
+  <stop stop-color="#650134" offset=".1841"/>
+  <stop stop-color="#9D1258" offset=".3198"/>
+  <stop stop-color="#DB2675" offset=".3869"/>
+  <stop stop-color="#DB2675" offset=".4337"/>
+  <stop stop-color="#A8153C" offset=".5023"/>
+  <stop stop-color="#A8153C" offset=".624"/>
+  <stop stop-color="#F66373" offset=".7098"/>
+  <stop stop-color="#F66373" offset=".7613"/>
+  <stop stop-color="#A62133" offset=".8456"/>
+  <stop stop-color="#721629" offset="1"/>
+ </linearGradient>
+ <polygon points="1820 800 1840 1600 1840 0" fill="url(#ph)"/>
+ <linearGradient id="pi" x1="1800" x2="1840" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#01002E" offset=".0031"/>
+  <stop stop-color="#030241" offset=".0666"/>
+  <stop stop-color="#0A0874" offset=".1961"/>
+  <stop stop-color="#1411C4" offset=".3783"/>
+  <stop stop-color="#1B17FF" offset=".5031"/>
+  <stop stop-color="#000345" offset="1"/>
+ </linearGradient>
+ <polygon points="1840 0 1800 0 1820 800" fill="url(#pi)"/>
+ <linearGradient id="pj" x1="1840" x2="1880" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#01E1FC" offset="0"/>
+  <stop stop-color="#A28BFF" offset=".0741"/>
+  <stop stop-color="#00FFA4" offset=".4846"/>
+  <stop stop-color="#1AE0B8" offset=".4895"/>
+  <stop stop-color="#42B1D6" offset=".4978"/>
+  <stop stop-color="#5F8FED" offset=".5053"/>
+  <stop stop-color="#717BFA" offset=".5114"/>
+  <stop stop-color="#7773FF" offset=".5154"/>
+  <stop stop-color="#6E80FF" offset=".5725"/>
+  <stop stop-color="#56A1FF" offset=".677"/>
+  <stop stop-color="#3DC5FF" offset=".7716"/>
+  <stop stop-color="#38C2F2" offset=".8008"/>
+  <stop stop-color="#2CBBD0" offset=".8547"/>
+  <stop stop-color="#17AF9A" offset=".9273"/>
+  <stop stop-color="#00A25C" offset="1"/>
+ </linearGradient>
+ <polygon points="1840 1600 1880 1600 1860 800" fill="url(#pj)"/>
+ <linearGradient id="pk" x1="1840" x2="1880" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#002E08" offset="0"/>
+  <stop stop-color="#045128" offset=".1009"/>
+  <stop stop-color="#0EAA78" offset=".3229"/>
+  <stop stop-color="#17FFC6" offset=".5247"/>
+  <stop stop-color="#0FD58E" offset=".6948"/>
+  <stop stop-color="#008B2E" offset="1"/>
+ </linearGradient>
+ <polygon points="1880 0 1840 0 1860 800" fill="url(#pk)"/>
+ <linearGradient id="pl" x1="1860" x2="1880" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#452C00" offset="0"/>
+  <stop stop-color="#4D350A" offset=".00030219"/>
+  <stop stop-color="#644D25" offset=".00081492"/>
+  <stop stop-color="#887450" offset=".0015"/>
+  <stop stop-color="#BAAB8D" offset=".0023"/>
+  <stop stop-color="#F6EBD4" offset=".0031"/>
+  <stop stop-color="#F0E4CD" offset=".0358"/>
+  <stop stop-color="#D9C8B0" offset=".1857"/>
+  <stop stop-color="#CBB79E" offset=".3157"/>
+  <stop stop-color="#C6B198" offset=".4105"/>
+  <stop stop-color="#FFDF8B" offset=".8272"/>
+  <stop stop-color="#2E2400" offset=".9938"/>
+ </linearGradient>
+ <polygon points="1860 800 1880 1600 1880 0" fill="url(#pl)"/>
+ <linearGradient id="pm" x1="1840" x2="1860" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#73576F" offset="0"/>
+  <stop stop-color="#543042" offset=".1345"/>
+  <stop stop-color="#390D1A" offset=".2714"/>
+  <stop stop-color="#2E000B" offset=".3426"/>
+  <stop stop-color="#461F2E" offset=".4828"/>
+  <stop stop-color="#5F3D52" offset=".6476"/>
+  <stop stop-color="#6E5067" offset=".7827"/>
+  <stop stop-color="#73576F" offset=".8704"/>
+ </linearGradient>
+ <polygon points="1840 0 1840 1600 1860 800" fill="url(#pm)"/>
+ <linearGradient id="pn" x1="1880" x2="1920" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A38D7B" offset="0"/>
+  <stop stop-color="#927963" offset=".0656"/>
+  <stop stop-color="#745738" offset=".1963"/>
+  <stop stop-color="#5E3E1A" offset=".3144"/>
+  <stop stop-color="#512E07" offset=".4145"/>
+  <stop stop-color="#4C2900" offset=".4846"/>
+  <stop stop-color="#502E06" offset=".5611"/>
+  <stop stop-color="#5C3B17" offset=".6627"/>
+  <stop stop-color="#705232" offset=".7784"/>
+  <stop stop-color="#8B7159" offset=".9037"/>
+  <stop stop-color="#A38D7B" offset="1"/>
+ </linearGradient>
+ <polygon points="1880 1600 1920 1600 1900 800" fill="url(#pn)"/>
+ <linearGradient id="pp" x1="1880" x2="1900" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset=".1512"/>
+  <stop stop-color="#7A5324" offset=".2279"/>
+  <stop stop-color="#896526" offset=".333"/>
+  <stop stop-color="#A18228" offset=".4548"/>
+  <stop stop-color="#C3AA2B" offset=".589"/>
+  <stop stop-color="#EEDE2F" offset=".7318"/>
+  <stop stop-color="#FAEC30" offset=".7685"/>
+  <stop stop-color="#F1E12E" offset=".7745"/>
+  <stop stop-color="#CBB528" offset=".8018"/>
+  <stop stop-color="#AA8F22" offset=".8302"/>
+  <stop stop-color="#8F701E" offset=".8596"/>
+  <stop stop-color="#7A571A" offset=".8901"/>
+  <stop stop-color="#6C4618" offset=".9223"/>
+  <stop stop-color="#633C16" offset=".9572"/>
+  <stop stop-color="#603916" offset="1"/>
+ </linearGradient>
+ <polygon points="1880 0 1880 1600 1900 800" fill="url(#pp)"/>
+ <linearGradient id="pq" x1="1900" x2="1920" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#B0FF8B" offset="0"/>
+  <stop stop-color="#8CFF5C" offset="0"/>
+  <stop stop-color="#01002E" offset=".0031"/>
+  <stop stop-color="#070441" offset=".0666"/>
+  <stop stop-color="#170F74" offset=".1961"/>
+  <stop stop-color="#3121C4" offset=".3783"/>
+  <stop stop-color="#442EFF" offset=".5031"/>
+  <stop stop-color="#000345" offset="1"/>
+ </linearGradient>
+ <polygon points="1900 800 1920 1600 1920 0" fill="url(#pq)"/>
+ <linearGradient id="ps" x1="1880" x2="1920" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#2E0015" offset=".0031"/>
+  <stop stop-color="#411127" offset=".0666"/>
+  <stop stop-color="#743E57" offset=".1961"/>
+  <stop stop-color="#C485A2" offset=".3783"/>
+  <stop stop-color="#FFB9D9" offset=".5031"/>
+  <stop stop-color="#450028" offset="1"/>
+ </linearGradient>
+ <polygon points="1920 0 1880 0 1900 800" fill="url(#ps)"/>
+ <linearGradient id="pt" x1="1600" x2="1620" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A42EFF" offset="0"/>
+  <stop stop-color="#8220CE" offset=".0798"/>
+  <stop stop-color="#6715A5" offset=".1588"/>
+  <stop stop-color="#510C85" offset=".2356"/>
+  <stop stop-color="#41056E" offset=".3096"/>
+  <stop stop-color="#380161" offset=".3796"/>
+  <stop stop-color="#35005C" offset=".4414"/>
+  <stop stop-color="#862EFF" offset=".4537"/>
+  <stop stop-color="#751ED7" offset=".5407"/>
+  <stop stop-color="#6711B6" offset=".6277"/>
+  <stop stop-color="#5D089E" offset=".7112"/>
+  <stop stop-color="#570290" offset=".7889"/>
+  <stop stop-color="#55008B" offset=".8549"/>
+ </linearGradient>
+ <polygon points="1600 0 1600 1600 1620 800" fill="url(#pt)"/>
+ <linearGradient id="pu" x1="1600" x2="1640" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#220073" offset="0"/>
+  <stop stop-color="#450E7A" offset=".0456"/>
+  <stop stop-color="#762383" offset=".1183"/>
+  <stop stop-color="#A0348B" offset=".1929"/>
+  <stop stop-color="#C24391" offset=".2682"/>
+  <stop stop-color="#DD4E97" offset=".3444"/>
+  <stop stop-color="#F0569A" offset=".422"/>
+  <stop stop-color="#FB5A9C" offset=".5016"/>
+  <stop stop-color="#FF5C9D" offset=".5864"/>
+  <stop stop-color="#FF5C7F" offset=".6389"/>
+  <stop stop-color="#D84A74" offset=".7001"/>
+  <stop stop-color="#621552" offset=".8888"/>
+  <stop stop-color="#330045" offset=".9722"/>
+ </linearGradient>
+ <polygon points="1600 1600 1640 1600 1620 800" fill="url(#pu)"/>
+ <linearGradient id="pv" x1="1600" x2="1640" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#02002B" offset="0"/>
+  <stop stop-color="#0B0049" offset=".1413"/>
+  <stop stop-color="#220094" offset=".4467"/>
+  <stop stop-color="#3600D6" offset=".6944"/>
+  <stop stop-color="#2D00BA" offset=".697"/>
+  <stop stop-color="#1E008C" offset=".7006"/>
+  <stop stop-color="#5F45FF" offset="1"/>
+ </linearGradient>
+ <polygon points="1640 0 1600 0 1620 800" fill="url(#pv)"/>
+ <linearGradient id="pw" x1="1620" x2="1640" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FFA48B" offset="0"/>
+  <stop stop-color="#FF815C" offset="0"/>
+  <stop stop-color="#8CFF00" offset=".0031"/>
+  <stop stop-color="#B1FF3D" offset=".2478"/>
+  <stop stop-color="#D3FF73" offset=".4537"/>
+  <stop stop-color="#DAFFB9" offset=".8395"/>
+  <stop stop-color="#D3FFA8" offset=".8608"/>
+  <stop stop-color="#BFFF7A" offset=".9034"/>
+  <stop stop-color="#A1FF31" offset=".9626"/>
+  <stop stop-color="#8CFF00" offset="1"/>
+ </linearGradient>
+ <polygon points="1620 800 1640 1600 1640 0" fill="url(#pw)"/>
+ <linearGradient id="px" x1="1640" x2="1680" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#957121" offset=".0406"/>
+  <stop stop-color="#CEB21C" offset=".118"/>
+  <stop stop-color="#F1DA18" offset=".1745"/>
+  <stop stop-color="#FFE917" offset=".2037"/>
+  <stop stop-color="#E8CC14" offset=".2837"/>
+  <stop stop-color="#B78E0D" offset=".4723"/>
+  <stop stop-color="#905D07" offset=".6446"/>
+  <stop stop-color="#733A03" offset=".795"/>
+  <stop stop-color="#622401" offset=".9175"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1640 1600 1680 1600 1660 800" fill="url(#px)"/>
+ <linearGradient id="py" x1="1660" x2="1680" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#53A200" offset="0"/>
+  <stop stop-color="#3E8500" offset=".0485"/>
+  <stop stop-color="#2E6E00" offset=".0986"/>
+  <stop stop-color="#246100" offset=".1462"/>
+  <stop stop-color="#215C00" offset=".1883"/>
+  <stop stop-color="#ACFF2E" offset=".1975"/>
+  <stop stop-color="#A1EF2A" offset=".2307"/>
+  <stop stop-color="#7DBB1D" offset=".3452"/>
+  <stop stop-color="#5F9113" offset=".458"/>
+  <stop stop-color="#48700B" offset=".5668"/>
+  <stop stop-color="#375805" offset=".6704"/>
+  <stop stop-color="#2D4A01" offset=".7668"/>
+  <stop stop-color="#2A4500" offset=".8488"/>
+ </linearGradient>
+ <polygon points="1660 800 1680 1600 1680 0" fill="url(#py)"/>
+ <linearGradient id="pz" x1="1640" x2="1680" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7BA395" offset=".2685"/>
+  <stop stop-color="#4B8175" offset=".4002"/>
+  <stop stop-color="#004C42" offset=".6173"/>
+  <stop stop-color="#055247" offset=".6229"/>
+  <stop stop-color="#156357" offset=".6303"/>
+  <stop stop-color="#2E7E70" offset=".6387"/>
+  <stop stop-color="#51A594" offset=".6478"/>
+  <stop stop-color="#52A695" offset=".6481"/>
+ </linearGradient>
+ <polygon points="1680 0 1640 0 1660 800" fill="url(#pz)"/>
+ <linearGradient id="qa" x1="1640" x2="1660" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#8BBCFF" offset="0"/>
+  <stop stop-color="#5C9CFF" offset="0"/>
+  <stop stop-color="#FF002E" offset=".0031"/>
+  <stop stop-color="#FF3D5E" offset=".1783"/>
+  <stop stop-color="#FFB9BF" offset=".5062"/>
+  <stop stop-color="#FFA8B1" offset=".5718"/>
+  <stop stop-color="#FF7A8E" offset=".7028"/>
+  <stop stop-color="#FF3155" offset=".8849"/>
+  <stop stop-color="#FF002E" offset="1"/>
+ </linearGradient>
+ <polygon points="1640 0 1640 1600 1660 800" fill="url(#qa)"/>
+ <linearGradient id="qb" x1="1720" x2="1740" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#754D24" offset="0"/>
+  <stop stop-color="#AA8F6F" offset=".0676"/>
+  <stop stop-color="#D8C9B0" offset=".1325"/>
+  <stop stop-color="#F4ECD8" offset=".1795"/>
+  <stop stop-color="#FFFAE7" offset=".2037"/>
+  <stop stop-color="#D8C5B0" offset=".3413"/>
+  <stop stop-color="#AD8A72" offset=".5146"/>
+  <stop stop-color="#8A5A41" offset=".6731"/>
+  <stop stop-color="#71381E" offset=".8113"/>
+  <stop stop-color="#622408" offset=".9239"/>
+  <stop stop-color="#5C1C00" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1720 0 1720 1600 1740 800" fill="url(#qb)"/>
+ <linearGradient id="qd" x1="1720" x2="1760" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#2E2600" offset="0"/>
+  <stop stop-color="#332900" offset=".0745"/>
+  <stop stop-color="#403200" offset=".159"/>
+  <stop stop-color="#574100" offset=".2483"/>
+  <stop stop-color="#750" offset=".341"/>
+  <stop stop-color="#9F7000" offset=".4359"/>
+  <stop stop-color="#D08F00" offset=".5309"/>
+  <stop offset="1"/>
+ </linearGradient>
+ <polygon points="1720 1600 1760 1600 1740 800" fill="url(#qd)"/>
+ <linearGradient id="qe" x1="1720" x2="1760" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#004522" offset="0"/>
+  <stop stop-color="#0B4B2E" offset=".0093"/>
+  <stop stop-color="#5C7A87" offset=".0811"/>
+  <stop stop-color="#989CC7" offset=".1396"/>
+  <stop stop-color="#BDB1F0" offset=".1819"/>
+  <stop stop-color="#CBB9FF" offset=".2037"/>
+  <stop stop-color="#9BA3C8" offset=".3413"/>
+  <stop stop-color="#648A8A" offset=".5146"/>
+  <stop stop-color="#397659" offset=".6731"/>
+  <stop stop-color="#1A6836" offset=".8113"/>
+  <stop stop-color="#075F20" offset=".9239"/>
+  <stop stop-color="#005C18" offset=".9969"/>
+ </linearGradient>
+ <polygon points="1760 0 1720 0 1740 800" fill="url(#qe)"/>
+ <linearGradient id="qf" x1="1740" x2="1760" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FC015D" offset="0"/>
+  <stop stop-color="#2B0021" offset="0"/>
+  <stop stop-color="#2E0500" offset="0"/>
+  <stop stop-color="#FF3D61" offset=".0031"/>
+  <stop stop-color="#F23661" offset=".0431"/>
+  <stop stop-color="#D02563" offset=".1168"/>
+  <stop stop-color="#9A0864" offset=".2153"/>
+  <stop stop-color="#8B0065" offset=".2407"/>
+  <stop stop-color="#FFDDC7" offset="1"/>
+ </linearGradient>
+ <polygon points="1740 800 1760 1600 1760 0" fill="url(#qf)"/>
+ <linearGradient id="qg" x1="1700" x2="1720" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#5E1A66" offset=".0031"/>
+  <stop stop-color="#66216B" offset=".061"/>
+  <stop stop-color="#7C337A" offset=".1503"/>
+  <stop stop-color="#9F5192" offset=".2598"/>
+  <stop stop-color="#D07AB2" offset=".3842"/>
+  <stop stop-color="#FFA2D2" offset=".4907"/>
+  <stop stop-color="#DC82B4" offset=".5867"/>
+  <stop stop-color="#A55083" offset=".7547"/>
+  <stop stop-color="#823065" offset=".88"/>
+  <stop stop-color="#75245A" offset=".9475"/>
+ </linearGradient>
+ <polygon points="1700 800 1720 1600 1720 0" fill="url(#qg)"/>
+ <linearGradient id="qh" x1="1680" x2="1720" y1="1200" y2="1200" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#212B00" offset="0"/>
+  <stop stop-color="#174915" offset=".1528"/>
+  <stop stop-color="#008B43" offset=".4444"/>
+  <stop stop-color="#2EFF57" offset=".7407"/>
+  <stop stop-color="#27E34C" offset=".7873"/>
+  <stop stop-color="#159B2F" offset=".8879"/>
+  <stop stop-color="#00450C" offset="1"/>
+ </linearGradient>
+ <polygon points="1680 1600 1720 1600 1700 800" fill="url(#qh)"/>
+ <linearGradient id="qi" x1="1680" x2="1720" y1="400" y2="400" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#733E00" offset="0"/>
+  <stop stop-color="#82510A" offset=".0297"/>
+  <stop stop-color="#A88223" offset=".1146"/>
+  <stop stop-color="#C7AB37" offset=".1988"/>
+  <stop stop-color="#DFCB47" offset=".2807"/>
+  <stop stop-color="#F1E253" offset=".3596"/>
+  <stop stop-color="#FBEF5A" offset=".4342"/>
+  <stop stop-color="#FFF45C" offset=".5"/>
+  <stop stop-color="#DFD14C" offset=".5438"/>
+  <stop stop-color="#B19E35" offset=".6151"/>
+  <stop stop-color="#8A7322" offset=".6855"/>
+  <stop stop-color="#6C5213" offset=".7533"/>
+  <stop stop-color="#563A09" offset=".8179"/>
+  <stop stop-color="#492C02" offset=".8779"/>
+  <stop stop-color="#452700" offset=".929"/>
+ </linearGradient>
+ <polygon points="1720 0 1680 0 1700 800" fill="url(#qi)"/>
+ <linearGradient id="qj" x1="1680" x2="1700" y1="800" y2="800" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#A26200" offset="0"/>
+  <stop stop-color="#855200" offset=".0485"/>
+  <stop stop-color="#6E4600" offset=".0986"/>
+  <stop stop-color="#613F00" offset=".1462"/>
+  <stop stop-color="#5C3C00" offset=".1883"/>
+  <stop stop-color="#FFA52E" offset=".1975"/>
+  <stop stop-color="#EF9A2A" offset=".2307"/>
+  <stop stop-color="#BB771D" offset=".3452"/>
+  <stop stop-color="#915A13" offset=".458"/>
+  <stop stop-color="#70440B" offset=".5668"/>
+  <stop stop-color="#583405" offset=".6704"/>
+  <stop stop-color="#4A2A01" offset=".7668"/>
+  <stop stop-color="#452700" offset=".8488"/>
+ </linearGradient>
+ <polygon points="1680 0 1680 1600 1700 800" fill="url(#qj)"/>
+</svg>
