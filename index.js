@@ -1,64 +1,68 @@
 'use strict'
-
-const botonStart = document.querySelector(".button-start");
-const tablero = document.querySelector(".tablero");
-const puntuacion = document.querySelector(".marcador");
-const parrafo = document.querySelector(".textoInicial");
-const body = document.querySelector(".body");
-let bloqueo = 1;
-
-
+// Nos traemos todas las constantes globales necesatias para el funcionamiento del juego
 const emojis = "😀 😃 😄 😁 😆 😅 😂 🤣 🥲 🥹 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 😣 😖 😫 😩 🥺 😢 😭 😮‍💨 😤 😠 😡 🤬 🤯 😳 🥵 🥶 😱 😨 😰 😥 😓 🫣 🤗 🫡 🤔 🫢 🤭 🤫 🤥 😶 😐 😑 😬 🫨 🫠 🙄 😯 😦 😧 😮 😲 🥱 😴 🤤 😪 😵 😵‍💫 🫥 🤐 🥴 🤢 🤮 🤧 😷 🤒 🤕 🤑 🤠 😈 👿 👹 👺 🤡 💩 👻 💀 👽";
-
-console.log(emojis);
-console.log('hola');
-const arrayEmojis = emojis.split(" ");
-console.log(arrayEmojis);
-
-const arrayCartas = [];
-
-//boton de inicio que tambie resetea para jugar de nuevo 
-const iniciar = (e) => {
-  do {
-      const x = Math.floor(Math.random() * arrayEmojis.length);
-      if (!arrayCartas.includes(arrayEmojis[x])) {
-          arrayCartas.push(arrayEmojis[x]);
-      }
-  } while (arrayCartas.length < 8);
-  
-  console.log(arrayCartas);
-  const cartasJuego=[...arrayCartas, ...arrayCartas]
-  let emojisDobleDesordenados = desordenar2(cartasJuego);
-  const emojiCarta = document.querySelectorAll("div.back");
-  for ( let i = 0; i<16;i++){
-      emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
-  }
-  botonStart.setAttribute("hidden", true);
-  parrafo.classList.add("atras");
-  puntuacion.classList.remove("atras");
-  puntuacion.innerHTML = `Tu puntuación es: 0`;
-  tablero.classList.remove("inicial");
-  bloqueo = 0;
-  contador = 0;
-  cardUpper = [];
-};
-
-botonStart.addEventListener("click", iniciar);
 
 const cards = document.querySelectorAll(".card");
 
-//desordenamos el array
+const numeroParejas = 8
 
-const desordenar2 = (array) => {
+const botonStart = document.querySelector(".button-start");
+
+const tablero = document.querySelector(".tablero");
+
+const puntuacion = document.querySelector(".marcador");
+
+const parrafo = document.querySelector(".textoInicial");
+
+const body = document.querySelector(".body");
+
+const emojiCarta = document.querySelectorAll("div.back");
+// variable que evita que podamos seleccionar cartas antes de pulsar el boton de empezar y que podamos elegir más de 2 cartas a la vez
+let bloqueo = 1;
+// creamos un array a partir del string de emojis para poder trabajar con ellos
+const arrayEmojis = emojis.split(" ");
+
+const arrayCartas = [];
+// constante que desordena las cartas 
+const desordenar = (array) => {
   for (let i = 0; i < array.length; i++) {
     const x = Math.floor(Math.random() * array.length);
     const temporal = array[i];
     array[i] = array[x];
     array[x] = temporal;
   }
-  console.log(array);
   return array;
 };
+//boton de inicio que tambie resetea para jugar de nuevo 
+const iniciar = (e) => {
+  //bucle que selecciona aleatoriamente 8 emojis del array que contiene todos los emojis
+  do {
+      const x = Math.floor(Math.random() * arrayEmojis.length);
+      if (!arrayCartas.includes(arrayEmojis[x])) {
+          arrayCartas.push(arrayEmojis[x]);
+      }
+  } while (arrayCartas.length < numeroParejas);
+//duplicamos el array de emojis selecionados aleatoriamente para tener las 8 parejas
+  const cartasJuego=[...arrayCartas, ...arrayCartas]
+
+  let emojisDobleDesordenados = desordenar(cartasJuego);
+  //empujamos el array desordenado a cada una de las cartas del tablero a trabes de un bucle for
+  for ( let i = 0; i<16;i++){
+      emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
+  }
+  //ocultamos boton,y modificamos el contenido del area asignada como parrafo para mostrar la puntuacion
+  botonStart.setAttribute("hidden", true);
+  parrafo.classList.add("atras");
+  puntuacion.classList.remove("atras");
+  puntuacion.innerHTML = `Tu puntuación es: 0`;
+  tablero.classList.remove("inicial");
+  //restablecemos valores de variables para empezar a jugar 
+  bloqueo = 0;
+  contador = 0;
+  cardUpper = [];
+};
+
+botonStart.addEventListener("click", iniciar);
 
 //logica del juego
 let cardUp = null;
@@ -93,8 +97,6 @@ const reveal = (e) => {
           }, 1000);
           bloqueo = 0;
           stopper = 0;
-          console.log(contador);
-
           if (cardUpper.length === 16) {
             setTimeout(() => {
               for (const card of cards) {
@@ -126,7 +128,8 @@ const reveal = (e) => {
         }
       }
     }
-    cardUp = e.currentTarget; //variable que utilizamos para acumulamos la primera carta selecionada de las dos posibles
+    //variable que utilizamos para acumulamos la primera carta selecionada de las dos posibles
+    cardUp = e.currentTarget; 
   }
   puntuacion.innerHTML = `Tu puntuacion es: ${contador}`;
 };
