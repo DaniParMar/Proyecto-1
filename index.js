@@ -45,6 +45,7 @@ const iniciar = (e) => {
 //duplicamos el array de emojis selecionados aleatoriamente para tener las 8 parejas
   const cartasJuego=[...arrayCartas, ...arrayCartas]
 
+
   let emojisDobleDesordenados = desordenar(cartasJuego);
   //empujamos el array desordenado a cada una de las cartas del tablero a trabes de un bucle for
   for ( let i = 0; i<16;i++){
@@ -102,6 +103,7 @@ const reveal = (e) => {
               for (const card of cards) {
                 card.classList.remove("flipped");
               }
+              arrayCartas.length = 0;
               bloqueo = 1;
               tablero.classList.add("inicial");
               botonStart.innerHTML = "JUGAR DE NUEVO";
