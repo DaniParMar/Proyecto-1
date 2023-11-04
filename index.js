@@ -1,3 +1,5 @@
+'use strict'
+
 const botonStart = document.querySelector(".button-start");
 const tablero = document.querySelector(".tablero");
 const puntuacion = document.querySelector(".marcador");
@@ -5,12 +7,32 @@ const parrafo = document.querySelector(".textoInicial");
 const body = document.querySelector(".body");
 let bloqueo = 1;
 
+
+const emojis = "😀 😃 😄 😁 😆 😅 😂 🤣 🥲 🥹 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚 😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 🥳 😏 😒 😞 😔 😟 😕 🙁 😣 😖 😫 😩 🥺 😢 😭 😮‍💨 😤 😠 😡 🤬 🤯 😳 🥵 🥶 😱 😨 😰 😥 😓 🫣 🤗 🫡 🤔 🫢 🤭 🤫 🤥 😶 😐 😑 😬 🫨 🫠 🙄 😯 😦 😧 😮 😲 🥱 😴 🤤 😪 😵 😵‍💫 🫥 🤐 🥴 🤢 🤮 🤧 😷 🤒 🤕 🤑 🤠 😈 👿 👹 👺 🤡 💩 👻 💀 👽";
+
+console.log(emojis);
+console.log('hola');
+const arrayEmojis = emojis.split(" ");
+console.log(arrayEmojis);
+
+const arrayCartas = [];
+
+//boton de inicio que tambie resetea para jugar de nuevo 
 const iniciar = (e) => {
-  let emojisDobleDesordenados = desordenar2(emojisDoble);
+  do {
+      const x = Math.floor(Math.random() * arrayEmojis.length);
+      if (!arrayCartas.includes(arrayEmojis[x])) {
+          arrayCartas.push(arrayEmojis[x]);
+      }
+  } while (arrayCartas.length < 8);
+  
+  console.log(arrayCartas);
+  const cartasJuego=[...arrayCartas, ...arrayCartas]
+  let emojisDobleDesordenados = desordenar2(cartasJuego);
   const emojiCarta = document.querySelectorAll("div.back");
-  // for ( let i = 0; i<16;i++){
-  //     emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
-  // }
+  for ( let i = 0; i<16;i++){
+      emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
+  }
   botonStart.setAttribute("hidden", true);
   parrafo.classList.add("atras");
   puntuacion.classList.remove("atras");
@@ -19,15 +41,11 @@ const iniciar = (e) => {
   bloqueo = 0;
   contador = 0;
   cardUpper = [];
-  console.log(cardUpper);
 };
 
 botonStart.addEventListener("click", iniciar);
 
 const cards = document.querySelectorAll(".card");
-
-const emojis = ["😄", "🥵", "😵‍💫", "🥴", "🥳", "🥸", "🤯", "😎"];
-const emojisDoble = [...emojis, ...emojis];
 
 //desordenamos el array
 
