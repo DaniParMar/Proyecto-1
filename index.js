@@ -1,8 +1,8 @@
 const botonStart = document.querySelector(".button-start");
 const tablero = document.querySelector(".tablero");
-
 const puntuacion = document.querySelector(".marcador");
 const parrafo = document.querySelector(".textoInicial");
+const body = document.querySelector(".body");
 let bloqueo = 1;
 
 const iniciar = (e) => {
@@ -12,12 +12,9 @@ const iniciar = (e) => {
   //     emojiCarta[i].innerHTML=emojisDobleDesordenados[i];
   // }
   botonStart.setAttribute("hidden", true);
-  // botonStart.style.display = 'none';
-  //parrafo.remove();
   parrafo.classList.add("atras");
-  puntuacion.style.color = "black";
-  // puntuacion.style.z-index = "0";???
-  puntuacion.innerHTML = `Tu puntuacion es: 0`;
+  puntuacion.classList.remove("atras");
+  puntuacion.innerHTML = `Tu puntuación es: 0`;
   tablero.classList.remove("inicial");
   bloqueo = 0;
   contador = 0;
@@ -33,11 +30,11 @@ const emojis = ["😄", "🥵", "😵‍💫", "🥴", "🥳", "🥸", "🤯", "
 const emojisDoble = [...emojis, ...emojis];
 
 //desordenamos el array
+
 const desordenar2 = (array) => {
   for (let i = 0; i < array.length; i++) {
     const x = Math.floor(Math.random() * array.length);
     const temporal = array[i];
-
     array[i] = array[x];
     array[x] = temporal;
   }
@@ -45,12 +42,10 @@ const desordenar2 = (array) => {
   return array;
 };
 
-
 //logica del juego
 let cardUp = null;
 let cardUpper = [];
 let stopper = 0;
-
 let contador = 0;
 //funcion a la que llamamos cada vez que hacemos click en una carta
 const reveal = (e) => {
@@ -92,15 +87,16 @@ const reveal = (e) => {
               botonStart.innerHTML = "JUGAR DE NUEVO";
               botonStart.removeAttribute("hidden");
               puntuacion.innerHTML = `Enhorabuena tu puntuacion es: ${contador}`;
-              contador;
             }, 1000);
           }
         } else {
           //En caso de que no sean iguales, las volvemos a girar, sumamos tambien 1 al contador y las volvemos a tornar pasado 1 seg. A su vez reseamos valores para volver a seleccionar
           contador++;
           bloqueo = 0;
-          currentCard.classList.add("bad");
-          cardRemove.classList.add("bad");
+          setTimeout(() => {
+            currentCard.classList.add("bad");
+            cardRemove.classList.add("bad");
+          }, 500);
           setTimeout(() => {
             currentCard.classList.remove("bad");
             cardRemove.classList.remove("bad");
@@ -120,4 +116,3 @@ const reveal = (e) => {
 for (const card of cards) {
   card.addEventListener("click", reveal);
 }
-
