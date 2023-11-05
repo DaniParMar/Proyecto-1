@@ -21,7 +21,6 @@ body {
   position: absolute;
 }
 
-
 h1 {
   grid-area: titulo;
   margin: auto;
@@ -38,6 +37,7 @@ h1 {
   grid-area: parrafo;
   z-index: -1;
   margin: 0;
+  backface-visibility: hidden;
 }
 .textoInicial {
   grid-area: parrafo;
