@@ -105,6 +105,7 @@ const reveal = (e) => {
               }
               arrayCartas.length = 0;
               bloqueo = 1;
+              cardUp = 0;
               tablero.classList.add("inicial");
               botonStart.innerHTML = "JUGAR DE NUEVO";
               botonStart.removeAttribute("hidden");
